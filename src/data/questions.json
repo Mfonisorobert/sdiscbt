@@ -1,257 +1,252 @@
 [
   {
-    "question": "Which of the following is a part of speech?",
-    "options": ["Book", "Running", "Happy", "All of the above"],
-    "answer": "All of the above"
+    "question": "Write Five hundred and fifty million, three hundred and thirty thousand, one hundred and twenty-five in figure.",
+    "options": ["550 303 125", "550 330 125", "550 003 125", "505 330 125"],
+    "answer": "550 330 125"
   },
   {
-    "question": "What part of speech describes an action or state of being?",
-    "options": ["Noun", "Verb", "Adjective", "Pronoun"],
-    "answer": "Verb"
+    "question": "Write 500 005 in words.",
+    "options": ["five hundred million and five", "five hundred thousand and five", "five hundred billion and five", "fifty thousand and five"],
+    "answer": "five hundred thousand and five"
   },
   {
-    "question": "Which of the following is an example of an adjective?",
-    "options": ["Quickly", "Blue", "Run", "Happiness"],
-    "answer": "Blue"
+    "question": "Calculate the difference between 986 and 679.",
+    "options": ["307", "407", "507", "607"],
+    "answer": "307"
   },
   {
-    "question": "Which of the following is a proper noun?",
-    "options": ["city", "London", "boy", "school"],
-    "answer": "London"
+    "question": "What is the sum of 3456 and 6543?",
+    "options": ["9099", "9990", "9999", "9909"],
+    "answer": "9999"
   },
   {
-    "question": "A common noun refers to:",
-    "options": ["A specific name", "Any general person, place, or thing", "A feeling or quality", "An idea"],
-    "answer": "Any general person, place, or thing"
+    "question": "Find the Lowest Common Multiple of 4 and 6.",
+    "options": ["12", "16", "24", "4"],
+    "answer": "12"
   },
   {
-    "question": "Which type of noun is \"happiness\"?",
-    "options": ["Proper noun", "Abstract noun", "Countable noun", "Collective noun"],
-    "answer": "Abstract noun"
+    "question": "What is the different between 500 and (30 x 9)?",
+    "options": ["130", "430", "330", "230"],
+    "answer": "230"
   },
   {
-    "question": "When writing a composition about yourself, which of the following should you include?",
-    "options": ["Your favorite hobby", "Your family members", "Your school activities", "All of the above"],
-    "answer": "All of the above"
+    "question": "What is the place value of 3 in 204.34?",
+    "options": ["tenths", "tens", "hundreds", "hundredths"],
+    "answer": "tenths"
   },
   {
-    "question": "Which opening sentence is appropriate for a composition about yourself?",
-    "options": ["I have a pet dog.", "My name is John, and I am ten years old.", "The weather is sunny today.", "I like to read books."],
-    "answer": "My name is John, and I am ten years old."
+    "question": "How many weeks are there in 49 days?",
+    "options": ["9 weeks", "7 weeks", "8 weeks", "12 weeks"],
+    "answer": "7 weeks"
   },
   {
-    "question": "Which of the following shows possession?",
-    "options": ["The cat's toy", "The cats toy", "The cats' toy", "Both a and c"],
-    "answer": "Both a and c"
+    "question": "The sum of an angle on a straight line is equal to",
+    "options": ["360°", "240°", "180°", "270°"],
+    "answer": "180°"
   },
   {
-    "question": "Identify the possessive noun in this sentence: \"Sara's book is on the table.\"",
-    "options": ["Sara's", "book", "table", "on"],
-    "answer": "Sara's"
+    "question": "Convert 80% to fraction and multiply the result by 20.",
+    "options": ["160", "25", "16", "100"],
+    "answer": "16"
   },
   {
-    "question": "Which of the following is the correct possessive form?",
-    "options": ["The dogs' owner", "The dog's owner", "The dog owner", "Both a and b"],
-    "answer": "The dog's owner"
+    "question": "Find the HCF of 9, 18, and 27.",
+    "options": ["18", "6", "12", "9"],
+    "answer": "9"
   },
   {
-    "question": "Which of the following is an uncountable noun?",
-    "options": ["Apples", "Water", "Chairs", "Books"],
-    "answer": "Water"
+    "question": "Olu thinks of a number, doubles it and add 3. The result is 13. What is the number?",
+    "options": ["16", "3", "5", "10"],
+    "answer": "5"
   },
   {
-    "question": "Choose the countable noun:",
-    "options": ["Sugar", "Rice", "Pen", "Milk"],
-    "answer": "Pen"
+    "question": "Which of these numbers is a perfect cube?",
+    "options": ["144", "49", "216", "512"],
+    "answer": "216"
   },
   {
-    "question": "Which sentence correctly uses a countable noun?",
-    "options": ["I have three books.", "I need some water.", "There is rice on the plate.", "She drinks milk."],
-    "answer": "I have three books."
+    "question": "If 2a = 120. What is the value of a?",
+    "options": ["59", "60", "121", "61"],
+    "answer": "60"
   },
   {
-    "question": "Choose the correct question tag: \"You are coming, ____?\"",
-    "options": ["isn’t it", "aren’t you", "aren’t they", "isn’t she"],
-    "answer": "aren’t you"
+    "question": "What is the first five multiples of 10?",
+    "options": ["10, 20, 30, 40 and 50", "10, 40, 50, 60 and 70", "10, 40, 30, 60 and 80", "5, 10, 15, 20 and 30"],
+    "answer": "10, 20, 30, 40 and 50"
   },
   {
-    "question": "Identify the question tag in this sentence: \"She is happy, isn’t she?\"",
-    "options": ["She is happy", "isn’t she", "She", "happy"],
-    "answer": "isn’t she"
+    "question": "If one week has 7 days, how many days are in 10 weeks?",
+    "options": ["70 hours", "70 weeks", "70 days", "70 minutes"],
+    "answer": "70 days"
   },
   {
-    "question": "Which of these sentences has the correct question tag?",
-    "options": ["They are students, aren’t they?", "They are students, is they?", "They are students, aren’t it?", "They are students, aren’t us?"],
-    "answer": "They are students, aren’t they?"
+    "question": "If a bag contains 7 apples, how many apples are in 20 bags?",
+    "options": ["140 apples", "200 apples", "580 apples", "680 apples"],
+    "answer": "140 apples"
   },
   {
-    "question": "Which of the following is a personal pronoun?",
-    "options": ["Who", "They", "Which", "Whose"],
-    "answer": "They"
+    "question": "What must be subtracted from 3.10 to have 1.001?",
+    "options": ["3.999", "3.099", "2.999", "2.099"],
+    "answer": "2.099"
   },
   {
-    "question": "What type of pronoun is \"ours\"?",
-    "options": ["Personal", "Possessive", "Reflexive", "Demonstrative"],
-    "answer": "Possessive"
+    "question": "If a bag contains 7 apples, how many apples are in 20 bags?",
+    "options": ["140 apples", "200 apples", "580 apples", "680 apples"],
+    "answer": "140 apples"
   },
   {
-    "question": "Choose the correct reflexive pronoun: \"He hurt ____ while playing.\"",
-    "options": ["himself", "himselfs", "him", "his"],
-    "answer": "himself"
+    "question": "The length of the three sides of a triangle were as follows: 22 cm, 35 cm and 28 cm. What is the length of all the three sides of the triangle?",
+    "options": ["85 cm", "105 cm", "102 cm", "69 cm"],
+    "answer": "85 cm"
   },
   {
-    "question": "What is the first part of a formal letter?",
-    "options": ["Dear Sir/Madam", "Yours sincerely", "Best regards", "I am writing to inform you"],
-    "answer": "Dear Sir/Madam"
+    "question": "A plane figure bounded by four sides is called",
+    "options": ["triangle", "quadrilateral", "pentagon", "decagon"],
+    "answer": "quadrilateral"
   },
   {
-    "question": "Which of the following is a closing phrase in a letter?",
-    "options": ["Dear Sir", "Yours faithfully", "I hope to see you soon", "Hello"],
-    "answer": "Yours faithfully"
+    "question": "What is the value of x in the equation 36/x = 6/5?",
+    "options": ["x = 20", "x = 40", "x = 30", "x = 40"],
+    "answer": "x = 30"
   },
   {
-    "question": "What should you include at the end of a letter?",
-    "options": ["Your signature", "Your address", "Your name", "All of the above"],
-    "answer": "All of the above"
+    "question": "Write 56 001 in words.",
+    "options": ["Five hundred and sixty thousand and one", "fifty thousand and one", "sixty-five thousand and one", "fifty-six thousand and one"],
+    "answer": "fifty-six thousand and one"
   },
   {
-    "question": "Which word is a synonym of \"happy\"?",
-    "options": ["Sad", "Joyful", "Angry", "Tired"],
-    "answer": "Joyful"
+    "question": "What is the different between 500 and (30 x 9)?",
+    "options": ["130", "430", "330", "230"],
+    "answer": "230"
   },
   {
-    "question": "Which of the following is an antonym of \"big\"?",
-    "options": ["Large", "Small", "Huge", "Wide"],
-    "answer": "Small"
+    "question": "A woman bought 200 oranges and sold 40% of them at the market day. How many oranges would she have left?",
+    "options": ["20 oranges", "50 oranges", "160 oranges", "120 oranges"],
+    "answer": "120 oranges"
   },
   {
-    "question": "Select the synonym of \"quick\":",
-    "options": ["Slow", "Fast", "Lazy", "Late"],
-    "answer": "Fast"
+    "question": "What is the value of 45% of 200?",
+    "options": ["145", "60", "90", "100"],
+    "answer": "90"
   },
   {
-    "question": "Which word is an antonym of \"hot\"?",
-    "options": ["Warm", "Cold", "Boiling", "Warm"],
-    "answer": "Cold"
+    "question": "Find the value of m in this expression 70 + m = 125.",
+    "options": ["10", "15", "9", "90", "55"],
+    "answer": "55"
   },
   {
-    "question": "Which part of speech is \"beautiful\"?",
-    "options": ["Noun", "Verb", "Adjective", "Pronoun"],
-    "answer": "Adjective"
+    "question": "What is the value of t in the equation 42/t = 21/2?",
+    "options": ["4", "84", "21", "16"],
+    "answer": "4"
   },
   {
-    "question": "\"Children\" is an example of which type of noun?",
-    "options": ["Proper noun", "Collective noun", "Common noun", "Abstract noun"],
-    "answer": "Common noun"
+    "question": "If 5 men can paint a house in 10 days. How many men are needed to paint it in 5 days?",
+    "options": ["10 men", "15 men", "8 men", "12 men"],
+    "answer": "10 men"
   },
   {
-    "question": "Choose the possessive form of \"the boy\" in the sentence: \"The ____ toy is new.\"",
-    "options": ["boys'", "boy's", "boys", "boy's"],
-    "answer": "boy's"
+    "question": "A car travels 250 miles in 5 hours. How many miles will it travel in 8 hours?",
+    "options": ["600 miles", "400 miles", "500 miles", "350 miles"],
+    "answer": "400 miles"
   },
   {
-    "question": "Which of the following sentences uses an uncountable noun correctly?",
-    "options": ["I have many chairs.", "I need some information.", "She bought two apples.", "There are five books on the table."],
-    "answer": "I need some information."
+    "question": "If 3 kg of sugar costs #150. How much will 5 kg cost?",
+    "options": ["#250", "#450", "#150", "#150"],
+    "answer": "#250"
   },
   {
-    "question": "Identify the question tag: \"They are teachers, ____?\"",
-    "options": ["aren’t they", "are they", "isn’t it", "aren’t it"],
-    "answer": "aren’t they"
+    "question": "A machine produces 500 units in 10 hours. How many units will it produce in 6 hours?",
+    "options": ["500 units", "400", "300 units", "450 units"],
+    "answer": "300 units"
   },
   {
-    "question": "Which pronoun best completes this sentence: \"This is my bag. ____ is new.\"",
-    "options": ["It", "He", "She", "They"],
-    "answer": "It"
+    "question": "If 8 workers can build a wall in 12 days. How many workers are needed to build it in 6 days?",
+    "options": ["18 workers", "20 workers", "24 workers", "16 workers"],
+    "answer": "16 workers"
   },
   {
-    "question": "Which of the following is a synonym of \"angry\"?",
-    "options": ["Happy", "Furious", "Calm", "Sad"],
-    "answer": "Furious"
+    "question": "If 4 men can dig a trench in 6 days, how many days will it take 6 men to dig it?",
+    "options": ["8 days", "6 days", "12 days", "4 days"],
+    "answer": "4 days"
   },
   {
-    "question": "Which word is an antonym of \"easy\"?",
-    "options": ["Simple", "Difficult", "Clear", "Light"],
-    "answer": "Difficult"
+    "question": "A car travels from Abuja to Lagos in 8 hours at 90 km/h. How long will it take it at 120 km/h?",
+    "options": ["7 hours", "6 hours", "5 days", "9 days"],
+    "answer": "6 hours"
   },
   {
-    "question": "Write a sentence using a possessive noun.",
-    "options": [
-      "The dog barks loudly.",
-      "The girl's book is on the table.",
-      "They are playing outside.",
-      "He runs fast."
-    ],
-    "answer": "The girl's book is on the table."
+    "question": "If 5 kg of rice costs #1000. How much will 2 kg cost?",
+    "options": ["#400", "#599", "#600", "#450"],
+    "answer": "#400"
   },
   {
-    "question": "Which of the following is an example of a personal pronoun?",
-    "options": ["Who", "They", "Whose", "Which"],
-    "answer": "They"
+    "question": "Change 0.35 to percentage.",
+    "options": ["35%", "45%", "50%", "55%"],
+    "answer": "35%"
   },
   {
-    "question": "In letter writing, what is typically written after the greeting?",
-    "options": ["Body of the letter", "Salutation", "Closing", "Address"],
-    "answer": "Body of the letter"
+    "question": "Change 510/11 to improper fraction.",
+    "options": ["75/11", "65/11", "85/11", "55/11"],
+    "answer": "65/11"
   },
   {
-    "question": "Which of the following words is a synonym of \"small\"?",
-    "options": ["Tiny", "Huge", "Wide", "Large"],
-    "answer": "Tiny"
+    "question": "What is the value of t in the equation 42/t = 21/2?",
+    "options": ["4", "84", "21", "16"],
+    "answer": "4"
   },
   {
-    "question": "Which of these is an antonym of \"bright\"?",
-    "options": ["Dull", "Shiny", "Glowing", "Light"],
-    "answer": "Dull"
+    "question": "Multiply 0.0803 by 1 000.",
+    "options": ["8.03", "80.3", "803 003", "80 303"],
+    "answer": "80.3"
   },
   {
-    "question": "Identify the noun in this sentence: \"The cat is sleeping.\"",
-    "options": ["The", "sleeping", "cat", "is"],
-    "answer": "cat"
+    "question": "Divide 6.125 by 5. Give your answer to 2 places of decimal.",
+    "options": ["1.25", "1.22", "1.23", "1.20"],
+    "answer": "1.23"
   },
   {
-    "question": "What type of noun is \"team\"?",
-    "options": ["Proper noun", "Collective noun", "Countable noun", "Abstract noun"],
-    "answer": "Collective noun"
+    "question": "A woman bought 200 oranges and sold 40% of them at the market day. How many oranges would she have left?",
+    "options": ["20 oranges", "50 oranges", "160 oranges", "120 oranges"],
+    "answer": "120 oranges"
   },
   {
-    "question": "Fill in the blank with the correct possessive pronoun: \"This book belongs to Sarah. Is _____ .\"",
-    "options": ["Her", "Hers", "She", "Their"],
-    "answer": "Hers"
+    "question": "10 minutes past 8, should be written as",
+    "options": ["8:10", "10:8", "81:10", "1:80"],
+    "answer": "8:10"
   },
   {
-    "question": "Choose the correct question tag: \"You have finished, ____?\"",
-    "options": ["haven’t you", "have you", "isn’t it", "do you"],
-    "answer": "haven’t you"
+    "question": "A train travelled at a speed of 20 km/hr in 45 minutes. At what speed did it travel?",
+    "options": ["900 km", "6 km/hr", "225 m/hr", "8 km/hr"],
+    "answer": "6 km/hr"
   },
   {
-    "question": "Which sentence correctly uses a reflexive pronoun?",
-    "options": ["She hurt herself while cooking.", "She hurt herselfs.", "She hurt her.", "She hurt hers."],
-    "answer": "She hurt herself while cooking."
+    "question": "What is the value of 45% of 200?",
+    "options": ["145", "60", "90", "100"],
+    "answer": "90"
   },
   {
-    "question": "Which of the following is a synonym of \"bright\"?",
-    "options": ["Dull", "Shiny", "Dark", "Dim"],
-    "answer": "Shiny"
+    "question": "Convert 55% to its lowest fraction.",
+    "options": ["5.5", "0.055", "0.0055", "0.55"],
+    "answer": "0.55"
   },
   {
-    "question": "Which of these is an antonym of \"strong\"?",
-    "options": ["Weak", "Powerful", "Tough", "Sturdy"],
-    "answer": "Weak"
+    "question": "What must be subtracted from 3.10 to have 1.001?",
+    "options": ["3.999", "3.099", "2.999", "2.099"],
+    "answer": "2.099"
   },
   {
-    "question": "What part of speech is \"quickly\"?",
-    "options": ["Noun", "Verb", "Adjective", "Adverb"],
-    "answer": "Adverb"
+    "question": "The length of the three sides of a triangle were as follows: 22 cm, 35 cm and 28 cm. What is the length of all the three sides of the triangle?",
+    "options": ["85 cm", "105 cm", "102 cm", "69 cm"],
+    "answer": "85 cm"
   },
   {
-    "question": "Which of the following is a proper way to start a letter?",
-    "options": ["Dear Sir/Madam,", "Hello, how are you?", "I am writing to you.", "The weather is nice today."],
-    "answer": "Dear Sir/Madam,"
+    "question": "In a library there are 480 books in a roll on the book shelf, if there are 30 rolls in the library, how many books are there altogether?",
+    "options": ["14,400 books", "15,400 books", "16,800 books", "28,600 books"],
+    "answer": "14,400 books"
   },
   {
-    "question": "Choose the correct synonym for \"sad\":",
-    "options": ["Happy", "Unhappy", "Excited", "Tired"],
-    "answer": "Unhappy"
+    "question": "If a bag contains 7 apples, how many apples are in 20 bags?",
+    "options": ["140 apples", "200 apples", "580 apples", "680 apples"],
+    "answer": "140 apples"
   }
 ]
