@@ -1,267 +1,257 @@
 [
   {
-    "question": "What is the largest planet in our solar system?",
-    "options": ["Jupiter", "Earth", "Mars", "Saturn"],
-    "answer": "Jupiter"
-  },
-  {
-    "question": "Which planet is known as the “RED PLANET”?",
-    "options": ["Neptune", "Mars", "Mercury", "Pluto"],
-    "answer": "Mars"
-  },
-  {
-    "question": "What is in the center of our solar system?",
-    "options": ["The moon", "The galaxy", "The stars", "The sun"],
-    "answer": "The sun"
-  },
-  {
-    "question": "Which planet is closest to the sun?",
-    "options": ["Pluto", "planet", "Mercury", "Venus"],
-    "answer": "Mercury"
-  },
-  {
-    "question": "What is the largest moon in our solar system?",
-    "options": ["Ganymede", "orbiting moon", "Orbiting galaxy", "Orbiting planet"],
-    "answer": "Ganymede"
-  },
-  {
-    "question": "How many planets are in the solar system?",
-    "options": ["7", "9", "8", "10"],
-    "answer": "8"
-  },
-  {
-    "question": "Which planet has the most moons?",
-    "options": ["Jupiter", "Mars", "Venus", "Earth"],
-    "answer": "Jupiter"
-  },
-  {
-    "question": "Which planet is known as the hottest?",
-    "options": ["Mercury", "Venus", "Jupiter", "Mars"],
-    "answer": "Venus"
-  },
-  {
-    "question": "What is the process by which planets formed in our solar system?",
-    "options": ["Accretion", "acceleration", "momentum", "assimilation"],
-    "answer": "Accretion"
-  },
-  {
-    "question": "What is the farthest planet from the sun?",
-    "options": ["Neptune", "sun", "Venus", "Saturn"],
-    "answer": "Neptune"
-  },
-  {
-    "question": "The basic colours are called",
-    "options": ["secondary colours", "tertiary colours", "complimentary colours", "primary colours"],
-    "answer": "primary colours"
-  },
-  {
-    "question": "What colour is created by mixing blue and purple?",
-    "options": ["blue-purple", "yellow-purple", "green-purple", "purple-red"],
-    "answer": "blue-purple"
-  },
-  {
-    "question": "What is the term for the colour wheel’s arrangement of primary, secondary and tertiary colours?",
-    "options": ["colour harmony", "colour decoration", "colour arrangement", "colour list"],
-    "answer": "colour harmony"
-  },
-  {
-    "question": "What colour is created by mixing red and blue?",
-    "options": ["orange", "purple", "indigo", "violet"],
-    "answer": "purple"
-  },
-  {
-    "question": "What are the three primary colours?",
-    "options": ["red, blue and yellow", "blue, purple and pink", "orange, yellow and red", "indigo, violet and red"],
-    "answer": "red, blue and yellow"
-  },
-  {
-    "question": "Which ocean is the largest of the five major oceans?",
-    "options": ["Pacific Ocean", "Arctic Ocean", "Indian Ocean", "Southern Ocean"],
-    "answer": "Pacific Ocean"
-  },
-  {
-    "question": "Which ocean is the smallest?",
-    "options": ["Southern Ocean", "Arctic Ocean", "Indian Ocean", "Pacific Ocean"],
-    "answer": "Arctic Ocean"
-  },
-  {
-    "question": "Which ocean surrounds Antarctica?",
-    "options": ["Indian Ocean", "Pacific Ocean", "Southern Ocean", "Asian Ocean"],
-    "answer": "Southern Ocean"
-  },
-  {
-    "question": "Which ocean is home to the Mariana Trench?",
-    "options": ["Pacific Ocean", "Indian Ocean", "Arctic Ocean", "North Ocean"],
-    "answer": "Pacific Ocean"
-  },
-  {
-    "question": "Which ocean calls to the Gulf Stream?",
-    "options": ["Egypt Ocean", "North Sea", "Red Sea", "Atlantic Ocean"],
-    "answer": "Atlantic Ocean"
-  },
-  {
-    "question": "Where is the North Sea located?",
-    "options": ["Northern Europe", "Southern Europe", "Eastern Europe", "Western Europe"],
-    "answer": "Northern Europe"
-  },
-  {
-    "question": "What is the economic importance of the North Sea?",
-    "options": [
-      "Sources of oil, gas and fish, also supports busy shipping lanes and tourism.",
-      "Sources of animal materials supply and exploration.",
-      "Sources of sufficient road network and telecommunication services.",
-      "Sources of natural resources exploration."
-    ],
-    "answer": "Sources of oil, gas and fish, also supports busy shipping lanes and tourism."
-  },
-  {
-    "question": "How can one maintain motivation for regular exercise?",
-    "options": ["Setting dissatisfaction", "Setting distraction", "Setting achievement goals", "Setting indecision plan"],
-    "answer": "Setting achievement goals"
-  },
-  {
-    "question": "What can improve flexibility?",
-    "options": ["Irregular stretching of the body", "Regular stretching of the body", "Imbalance sleep", "Conditional stimuli"],
-    "answer": "Regular stretching of the body"
-  },
-  {
-    "question": "What is the importance of hydration in physical fitness?",
-    "options": ["Regulates body temperature", "Stability of eating exercise", "Imbalance memory", "Regaining strength"],
-    "answer": "Regaining strength"
-  },
-  {
-    "question": "One of these is NOT a type of relay race.",
-    "options": ["4x500 relay", "4x400 relay", "4x100 relay", "medley relay"],
-    "answer": "4x500 relay"
-  },
-  {
-    "question": "A hollow cylinder of wood or plastic used in relay race is known as",
-    "options": ["staff", "baton", "mutton", "pole"],
-    "answer": "baton"
-  },
-  {
-    "question": "The following are techniques in relay race except",
-    "options": ["baton grip", "take-off", "Sliding off", "run-up"],
-    "answer": "Sliding off"
-  },
-  {
-    "question": "The objective of high jump is to try to",
-    "options": ["jump as low as possible", "jump as high as possible", "jump as long as possible", "jump as distance as possible"],
-    "answer": "jump as high as possible"
-  },
-  {
-    "question": "All of these are styles in high jump except",
-    "options": ["overhead roll", "western roll", "eastern roll", "the straddle"],
-    "answer": "overhead roll"
-  },
-  {
-    "question": "A set of physical activities that allows the body to respond or adapt to the need and stress of physical effort is referred to as",
-    "options": ["body conditioning", "physical fitness", "component alignment", "readiness exercise"],
-    "answer": "physical fitness"
-  },
-  {
-    "question": "The ability to stop, start, and change directions quickly indicates",
-    "options": ["power", "balance", "beam walk", "agility"],
-    "answer": "agility"
-  },
-  {
-    "question": "The process of preparing the body with exercises in readiness for sport activities that require much effort is known as",
-    "options": ["power", "agility", "body conditioning", "physical fit"],
-    "answer": "body conditioning"
-  },
-  {
-    "question": "Measurement of power include",
-    "options": [
-      "sergeant jump and standing board jump",
-      "agility and power",
-      "leaps vertically and beam walk",
-      "beam walk and standing order"
-    ],
-    "answer": "sergeant jump and standing board jump"
-  },
-  {
-    "question": "One of the benefits of agility, power, flexibility and balance is",
-    "options": ["reduce risk", "improves performance", "develop balance", "all of the above"],
-    "answer": "all of the above"
-  },
-  {
-    "question": "One of these best describes word processing.",
-    "options": [
-      "booting, shaping, storing and transferring",
-      "typing, editing, formatting, storing and printing",
-      "repairing, reshaping, editing and storing",
-      "formatting, teaching, elaborating and printing"
-    ],
-    "answer": "typing, editing, formatting, storing and printing"
-  },
-  {
-    "question": "The sun can be described as",
-    "options": ["giant galaxy", "giant moon", "giant lightening", "giant star"],
-    "answer": "giant star"
-  },
-  {
-    "question": "The world we live in is known as",
-    "options": ["earth", "sphere", "atmosphere", "biosphere"],
-    "answer": "earth"
-  },
-  {
-    "question": "The part of the earth where soil, rocks, plants and animals are found is known as",
-    "options": ["hydrosphere", "lithosphere", "atmosphere", "earth’s surface"],
-    "answer": "lithosphere"
-  },
-  {
-    "question": "The earth turns around its axis in a",
-    "options": ["circular form", "triangular form", "prism form", "rectangular form"],
-    "answer": "circular form"
-  },
-  {
-    "question": "Rotation of the earth brings about",
-    "options": ["day and night", "hotness and dryness", "evolutional density", "ecology clarification"],
-    "answer": "day and night"
-  },
-  {
-    "question": "All of the following is the uses of word processing EXCEPT",
-    "options": ["text formatting", "Text editing", "word enlightenment", "printing"],
-    "answer": "word enlightenment"
-  },
-  {
-    "question": "Word processing is easier and",
-    "options": ["faster", "slowest", "outlook", "format"],
-    "answer": "faster"
-  },
-  {
-    "question": "One example of word processing software is",
-    "options": ["Google Docs", "AbiWord", "Microsoft Word", "All of the above"],
+    "question": "Which of the following is a part of speech?",
+    "options": ["Book", "Running", "Happy", "All of the above"],
     "answer": "All of the above"
   },
   {
-    "question": "The most popular word processing application is",
-    "options": ["Pages", "OpenOffice", "WordPerfect", "Microsoft Word"],
-    "answer": "Microsoft Word"
+    "question": "What part of speech describes an action or state of being?",
+    "options": ["Noun", "Verb", "Adjective", "Pronoun"],
+    "answer": "Verb"
   },
   {
-    "question": "The Lunar eclipse is also known as",
-    "options": ["satellite", "eclipse of the moon", "effects rotation", "galaxy"],
-    "answer": "eclipse of the moon"
+    "question": "Which of the following is an example of an adjective?",
+    "options": ["Quickly", "Blue", "Run", "Happiness"],
+    "answer": "Blue"
   },
   {
-    "question": "Galaxies are many stars held together by the force of gravity.",
-    "options": ["natural bodies", "maybe", "true", "uncertain"],
-    "answer": "true"
+    "question": "Which of the following is a proper noun?",
+    "options": ["city", "London", "boy", "school"],
+    "answer": "London"
   },
   {
-    "question": "The biggest planet of the solar system is the",
-    "options": ["Jupiter", "Mercury", "Neptune", "Venus"],
-    "answer": "Jupiter"
+    "question": "A common noun refers to:",
+    "options": ["A specific name", "Any general person, place, or thing", "A feeling or quality", "An idea"],
+    "answer": "Any general person, place, or thing"
   },
   {
-    "question": "The round object that gives light to the earth is called",
-    "options": ["sun", "moon", "lightening", "thundering"],
-    "answer": "sun"
+    "question": "Which type of noun is \"happiness\"?",
+    "options": ["Proper noun", "Abstract noun", "Countable noun", "Collective noun"],
+    "answer": "Abstract noun"
   },
   {
-    "question": "The moon is a large round object that travels",
-    "options": ["around the earth", "round the hemisphere", "around the ocean", "around space"],
-    "answer": "around the earth"
+    "question": "When writing a composition about yourself, which of the following should you include?",
+    "options": ["Your favorite hobby", "Your family members", "Your school activities", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which opening sentence is appropriate for a composition about yourself?",
+    "options": ["I have a pet dog.", "My name is John, and I am ten years old.", "The weather is sunny today.", "I like to read books."],
+    "answer": "My name is John, and I am ten years old."
+  },
+  {
+    "question": "Which of the following shows possession?",
+    "options": ["The cat's toy", "The cats toy", "The cats' toy", "Both a and c"],
+    "answer": "Both a and c"
+  },
+  {
+    "question": "Identify the possessive noun in this sentence: \"Sara's book is on the table.\"",
+    "options": ["Sara's", "book", "table", "on"],
+    "answer": "Sara's"
+  },
+  {
+    "question": "Which of the following is the correct possessive form?",
+    "options": ["The dogs' owner", "The dog's owner", "The dog owner", "Both a and b"],
+    "answer": "The dog's owner"
+  },
+  {
+    "question": "Which of the following is an uncountable noun?",
+    "options": ["Apples", "Water", "Chairs", "Books"],
+    "answer": "Water"
+  },
+  {
+    "question": "Choose the countable noun:",
+    "options": ["Sugar", "Rice", "Pen", "Milk"],
+    "answer": "Pen"
+  },
+  {
+    "question": "Which sentence correctly uses a countable noun?",
+    "options": ["I have three books.", "I need some water.", "There is rice on the plate.", "She drinks milk."],
+    "answer": "I have three books."
+  },
+  {
+    "question": "Choose the correct question tag: \"You are coming, ____?\"",
+    "options": ["isn’t it", "aren’t you", "aren’t they", "isn’t she"],
+    "answer": "aren’t you"
+  },
+  {
+    "question": "Identify the question tag in this sentence: \"She is happy, isn’t she?\"",
+    "options": ["She is happy", "isn’t she", "She", "happy"],
+    "answer": "isn’t she"
+  },
+  {
+    "question": "Which of these sentences has the correct question tag?",
+    "options": ["They are students, aren’t they?", "They are students, is they?", "They are students, aren’t it?", "They are students, aren’t us?"],
+    "answer": "They are students, aren’t they?"
+  },
+  {
+    "question": "Which of the following is a personal pronoun?",
+    "options": ["Who", "They", "Which", "Whose"],
+    "answer": "They"
+  },
+  {
+    "question": "What type of pronoun is \"ours\"?",
+    "options": ["Personal", "Possessive", "Reflexive", "Demonstrative"],
+    "answer": "Possessive"
+  },
+  {
+    "question": "Choose the correct reflexive pronoun: \"He hurt ____ while playing.\"",
+    "options": ["himself", "himselfs", "him", "his"],
+    "answer": "himself"
+  },
+  {
+    "question": "What is the first part of a formal letter?",
+    "options": ["Dear Sir/Madam", "Yours sincerely", "Best regards", "I am writing to inform you"],
+    "answer": "Dear Sir/Madam"
+  },
+  {
+    "question": "Which of the following is a closing phrase in a letter?",
+    "options": ["Dear Sir", "Yours faithfully", "I hope to see you soon", "Hello"],
+    "answer": "Yours faithfully"
+  },
+  {
+    "question": "What should you include at the end of a letter?",
+    "options": ["Your signature", "Your address", "Your name", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which word is a synonym of \"happy\"?",
+    "options": ["Sad", "Joyful", "Angry", "Tired"],
+    "answer": "Joyful"
+  },
+  {
+    "question": "Which of the following is an antonym of \"big\"?",
+    "options": ["Large", "Small", "Huge", "Wide"],
+    "answer": "Small"
+  },
+  {
+    "question": "Select the synonym of \"quick\":",
+    "options": ["Slow", "Fast", "Lazy", "Late"],
+    "answer": "Fast"
+  },
+  {
+    "question": "Which word is an antonym of \"hot\"?",
+    "options": ["Warm", "Cold", "Boiling", "Warm"],
+    "answer": "Cold"
+  },
+  {
+    "question": "Which part of speech is \"beautiful\"?",
+    "options": ["Noun", "Verb", "Adjective", "Pronoun"],
+    "answer": "Adjective"
+  },
+  {
+    "question": "\"Children\" is an example of which type of noun?",
+    "options": ["Proper noun", "Collective noun", "Common noun", "Abstract noun"],
+    "answer": "Common noun"
+  },
+  {
+    "question": "Choose the possessive form of \"the boy\" in the sentence: \"The ____ toy is new.\"",
+    "options": ["boys'", "boy's", "boys", "boy's"],
+    "answer": "boy's"
+  },
+  {
+    "question": "Which of the following sentences uses an uncountable noun correctly?",
+    "options": ["I have many chairs.", "I need some information.", "She bought two apples.", "There are five books on the table."],
+    "answer": "I need some information."
+  },
+  {
+    "question": "Identify the question tag: \"They are teachers, ____?\"",
+    "options": ["aren’t they", "are they", "isn’t it", "aren’t it"],
+    "answer": "aren’t they"
+  },
+  {
+    "question": "Which pronoun best completes this sentence: \"This is my bag. ____ is new.\"",
+    "options": ["It", "He", "She", "They"],
+    "answer": "It"
+  },
+  {
+    "question": "Which of the following is a synonym of \"angry\"?",
+    "options": ["Happy", "Furious", "Calm", "Sad"],
+    "answer": "Furious"
+  },
+  {
+    "question": "Which word is an antonym of \"easy\"?",
+    "options": ["Simple", "Difficult", "Clear", "Light"],
+    "answer": "Difficult"
+  },
+  {
+    "question": "Write a sentence using a possessive noun.",
+    "options": [
+      "The dog barks loudly.",
+      "The girl's book is on the table.",
+      "They are playing outside.",
+      "He runs fast."
+    ],
+    "answer": "The girl's book is on the table."
+  },
+  {
+    "question": "Which of the following is an example of a personal pronoun?",
+    "options": ["Who", "They", "Whose", "Which"],
+    "answer": "They"
+  },
+  {
+    "question": "In letter writing, what is typically written after the greeting?",
+    "options": ["Body of the letter", "Salutation", "Closing", "Address"],
+    "answer": "Body of the letter"
+  },
+  {
+    "question": "Which of the following words is a synonym of \"small\"?",
+    "options": ["Tiny", "Huge", "Wide", "Large"],
+    "answer": "Tiny"
+  },
+  {
+    "question": "Which of these is an antonym of \"bright\"?",
+    "options": ["Dull", "Shiny", "Glowing", "Light"],
+    "answer": "Dull"
+  },
+  {
+    "question": "Identify the noun in this sentence: \"The cat is sleeping.\"",
+    "options": ["The", "sleeping", "cat", "is"],
+    "answer": "cat"
+  },
+  {
+    "question": "What type of noun is \"team\"?",
+    "options": ["Proper noun", "Collective noun", "Countable noun", "Abstract noun"],
+    "answer": "Collective noun"
+  },
+  {
+    "question": "Fill in the blank with the correct possessive pronoun: \"This book belongs to Sarah. Is _____ .\"",
+    "options": ["Her", "Hers", "She", "Their"],
+    "answer": "Hers"
+  },
+  {
+    "question": "Choose the correct question tag: \"You have finished, ____?\"",
+    "options": ["haven’t you", "have you", "isn’t it", "do you"],
+    "answer": "haven’t you"
+  },
+  {
+    "question": "Which sentence correctly uses a reflexive pronoun?",
+    "options": ["She hurt herself while cooking.", "She hurt herselfs.", "She hurt her.", "She hurt hers."],
+    "answer": "She hurt herself while cooking."
+  },
+  {
+    "question": "Which of the following is a synonym of \"bright\"?",
+    "options": ["Dull", "Shiny", "Dark", "Dim"],
+    "answer": "Shiny"
+  },
+  {
+    "question": "Which of these is an antonym of \"strong\"?",
+    "options": ["Weak", "Powerful", "Tough", "Sturdy"],
+    "answer": "Weak"
+  },
+  {
+    "question": "What part of speech is \"quickly\"?",
+    "options": ["Noun", "Verb", "Adjective", "Adverb"],
+    "answer": "Adverb"
+  },
+  {
+    "question": "Which of the following is a proper way to start a letter?",
+    "options": ["Dear Sir/Madam,", "Hello, how are you?", "I am writing to you.", "The weather is nice today."],
+    "answer": "Dear Sir/Madam,"
+  },
+  {
+    "question": "Choose the correct synonym for \"sad\":",
+    "options": ["Happy", "Unhappy", "Excited", "Tired"],
+    "answer": "Unhappy"
   }
 ]
