@@ -1,252 +1,267 @@
 [
   {
-    "question": "Write Five hundred and fifty million, three hundred and thirty thousand, one hundred and twenty-five in figure.",
-    "options": ["550 303 125", "550 330 125", "550 003 125", "505 330 125"],
-    "answer": "550 330 125"
+    "question": "What is the largest planet in our solar system?",
+    "options": ["Jupiter", "Earth", "Mars", "Saturn"],
+    "answer": "Jupiter"
   },
   {
-    "question": "Write 500 005 in words.",
-    "options": ["five hundred million and five", "five hundred thousand and five", "five hundred billion and five", "fifty thousand and five"],
-    "answer": "five hundred thousand and five"
+    "question": "Which planet is known as the “RED PLANET”?",
+    "options": ["Neptune", "Mars", "Mercury", "Pluto"],
+    "answer": "Mars"
   },
   {
-    "question": "Calculate the difference between 986 and 679.",
-    "options": ["307", "407", "507", "607"],
-    "answer": "307"
+    "question": "What is in the center of our solar system?",
+    "options": ["The moon", "The galaxy", "The stars", "The sun"],
+    "answer": "The sun"
   },
   {
-    "question": "What is the sum of 3456 and 6543?",
-    "options": ["9099", "9990", "9999", "9909"],
-    "answer": "9999"
+    "question": "Which planet is closest to the sun?",
+    "options": ["Pluto", "planet", "Mercury", "Venus"],
+    "answer": "Mercury"
   },
   {
-    "question": "Find the Lowest Common Multiple of 4 and 6.",
-    "options": ["12", "16", "24", "4"],
-    "answer": "12"
+    "question": "What is the largest moon in our solar system?",
+    "options": ["Ganymede", "orbiting moon", "Orbiting galaxy", "Orbiting planet"],
+    "answer": "Ganymede"
   },
   {
-    "question": "What is the different between 500 and (30 x 9)?",
-    "options": ["130", "430", "330", "230"],
-    "answer": "230"
+    "question": "How many planets are in the solar system?",
+    "options": ["7", "9", "8", "10"],
+    "answer": "8"
   },
   {
-    "question": "What is the place value of 3 in 204.34?",
-    "options": ["tenths", "tens", "hundreds", "hundredths"],
-    "answer": "tenths"
+    "question": "Which planet has the most moons?",
+    "options": ["Jupiter", "Mars", "Venus", "Earth"],
+    "answer": "Jupiter"
   },
   {
-    "question": "How many weeks are there in 49 days?",
-    "options": ["9 weeks", "7 weeks", "8 weeks", "12 weeks"],
-    "answer": "7 weeks"
+    "question": "Which planet is known as the hottest?",
+    "options": ["Mercury", "Venus", "Jupiter", "Mars"],
+    "answer": "Venus"
   },
   {
-    "question": "The sum of an angle on a straight line is equal to",
-    "options": ["360°", "240°", "180°", "270°"],
-    "answer": "180°"
+    "question": "What is the process by which planets formed in our solar system?",
+    "options": ["Accretion", "acceleration", "momentum", "assimilation"],
+    "answer": "Accretion"
   },
   {
-    "question": "Convert 80% to fraction and multiply the result by 20.",
-    "options": ["160", "25", "16", "100"],
-    "answer": "16"
+    "question": "What is the farthest planet from the sun?",
+    "options": ["Neptune", "sun", "Venus", "Saturn"],
+    "answer": "Neptune"
   },
   {
-    "question": "Find the HCF of 9, 18, and 27.",
-    "options": ["18", "6", "12", "9"],
-    "answer": "9"
+    "question": "The basic colours are called",
+    "options": ["secondary colours", "tertiary colours", "complimentary colours", "primary colours"],
+    "answer": "primary colours"
   },
   {
-    "question": "Olu thinks of a number, doubles it and add 3. The result is 13. What is the number?",
-    "options": ["16", "3", "5", "10"],
-    "answer": "5"
+    "question": "What colour is created by mixing blue and purple?",
+    "options": ["blue-purple", "yellow-purple", "green-purple", "purple-red"],
+    "answer": "blue-purple"
   },
   {
-    "question": "Which of these numbers is a perfect cube?",
-    "options": ["144", "49", "216", "512"],
-    "answer": "216"
+    "question": "What is the term for the colour wheel’s arrangement of primary, secondary and tertiary colours?",
+    "options": ["colour harmony", "colour decoration", "colour arrangement", "colour list"],
+    "answer": "colour harmony"
   },
   {
-    "question": "If 2a = 120. What is the value of a?",
-    "options": ["59", "60", "121", "61"],
-    "answer": "60"
+    "question": "What colour is created by mixing red and blue?",
+    "options": ["orange", "purple", "indigo", "violet"],
+    "answer": "purple"
   },
   {
-    "question": "What is the first five multiples of 10?",
-    "options": ["10, 20, 30, 40 and 50", "10, 40, 50, 60 and 70", "10, 40, 30, 60 and 80", "5, 10, 15, 20 and 30"],
-    "answer": "10, 20, 30, 40 and 50"
+    "question": "What are the three primary colours?",
+    "options": ["red, blue and yellow", "blue, purple and pink", "orange, yellow and red", "indigo, violet and red"],
+    "answer": "red, blue and yellow"
   },
   {
-    "question": "If one week has 7 days, how many days are in 10 weeks?",
-    "options": ["70 hours", "70 weeks", "70 days", "70 minutes"],
-    "answer": "70 days"
+    "question": "Which ocean is the largest of the five major oceans?",
+    "options": ["Pacific Ocean", "Arctic Ocean", "Indian Ocean", "Southern Ocean"],
+    "answer": "Pacific Ocean"
   },
   {
-    "question": "If a bag contains 7 apples, how many apples are in 20 bags?",
-    "options": ["140 apples", "200 apples", "580 apples", "680 apples"],
-    "answer": "140 apples"
+    "question": "Which ocean is the smallest?",
+    "options": ["Southern Ocean", "Arctic Ocean", "Indian Ocean", "Pacific Ocean"],
+    "answer": "Arctic Ocean"
   },
   {
-    "question": "What must be subtracted from 3.10 to have 1.001?",
-    "options": ["3.999", "3.099", "2.999", "2.099"],
-    "answer": "2.099"
+    "question": "Which ocean surrounds Antarctica?",
+    "options": ["Indian Ocean", "Pacific Ocean", "Southern Ocean", "Asian Ocean"],
+    "answer": "Southern Ocean"
   },
   {
-    "question": "If a bag contains 7 apples, how many apples are in 20 bags?",
-    "options": ["140 apples", "200 apples", "580 apples", "680 apples"],
-    "answer": "140 apples"
+    "question": "Which ocean is home to the Mariana Trench?",
+    "options": ["Pacific Ocean", "Indian Ocean", "Arctic Ocean", "North Ocean"],
+    "answer": "Pacific Ocean"
   },
   {
-    "question": "The length of the three sides of a triangle were as follows: 22 cm, 35 cm and 28 cm. What is the length of all the three sides of the triangle?",
-    "options": ["85 cm", "105 cm", "102 cm", "69 cm"],
-    "answer": "85 cm"
+    "question": "Which ocean calls to the Gulf Stream?",
+    "options": ["Egypt Ocean", "North Sea", "Red Sea", "Atlantic Ocean"],
+    "answer": "Atlantic Ocean"
   },
   {
-    "question": "A plane figure bounded by four sides is called",
-    "options": ["triangle", "quadrilateral", "pentagon", "decagon"],
-    "answer": "quadrilateral"
+    "question": "Where is the North Sea located?",
+    "options": ["Northern Europe", "Southern Europe", "Eastern Europe", "Western Europe"],
+    "answer": "Northern Europe"
   },
   {
-    "question": "What is the value of x in the equation 36/x = 6/5?",
-    "options": ["x = 20", "x = 40", "x = 30", "x = 40"],
-    "answer": "x = 30"
+    "question": "What is the economic importance of the North Sea?",
+    "options": [
+      "Sources of oil, gas and fish, also supports busy shipping lanes and tourism.",
+      "Sources of animal materials supply and exploration.",
+      "Sources of sufficient road network and telecommunication services.",
+      "Sources of natural resources exploration."
+    ],
+    "answer": "Sources of oil, gas and fish, also supports busy shipping lanes and tourism."
   },
   {
-    "question": "Write 56 001 in words.",
-    "options": ["Five hundred and sixty thousand and one", "fifty thousand and one", "sixty-five thousand and one", "fifty-six thousand and one"],
-    "answer": "fifty-six thousand and one"
+    "question": "How can one maintain motivation for regular exercise?",
+    "options": ["Setting dissatisfaction", "Setting distraction", "Setting achievement goals", "Setting indecision plan"],
+    "answer": "Setting achievement goals"
   },
   {
-    "question": "What is the different between 500 and (30 x 9)?",
-    "options": ["130", "430", "330", "230"],
-    "answer": "230"
+    "question": "What can improve flexibility?",
+    "options": ["Irregular stretching of the body", "Regular stretching of the body", "Imbalance sleep", "Conditional stimuli"],
+    "answer": "Regular stretching of the body"
   },
   {
-    "question": "A woman bought 200 oranges and sold 40% of them at the market day. How many oranges would she have left?",
-    "options": ["20 oranges", "50 oranges", "160 oranges", "120 oranges"],
-    "answer": "120 oranges"
+    "question": "What is the importance of hydration in physical fitness?",
+    "options": ["Regulates body temperature", "Stability of eating exercise", "Imbalance memory", "Regaining strength"],
+    "answer": "Regaining strength"
   },
   {
-    "question": "What is the value of 45% of 200?",
-    "options": ["145", "60", "90", "100"],
-    "answer": "90"
+    "question": "One of these is NOT a type of relay race.",
+    "options": ["4x500 relay", "4x400 relay", "4x100 relay", "medley relay"],
+    "answer": "4x500 relay"
   },
   {
-    "question": "Find the value of m in this expression 70 + m = 125.",
-    "options": ["10", "15", "9", "90", "55"],
-    "answer": "55"
+    "question": "A hollow cylinder of wood or plastic used in relay race is known as",
+    "options": ["staff", "baton", "mutton", "pole"],
+    "answer": "baton"
   },
   {
-    "question": "What is the value of t in the equation 42/t = 21/2?",
-    "options": ["4", "84", "21", "16"],
-    "answer": "4"
+    "question": "The following are techniques in relay race except",
+    "options": ["baton grip", "take-off", "Sliding off", "run-up"],
+    "answer": "Sliding off"
   },
   {
-    "question": "If 5 men can paint a house in 10 days. How many men are needed to paint it in 5 days?",
-    "options": ["10 men", "15 men", "8 men", "12 men"],
-    "answer": "10 men"
+    "question": "The objective of high jump is to try to",
+    "options": ["jump as low as possible", "jump as high as possible", "jump as long as possible", "jump as distance as possible"],
+    "answer": "jump as high as possible"
   },
   {
-    "question": "A car travels 250 miles in 5 hours. How many miles will it travel in 8 hours?",
-    "options": ["600 miles", "400 miles", "500 miles", "350 miles"],
-    "answer": "400 miles"
+    "question": "All of these are styles in high jump except",
+    "options": ["overhead roll", "western roll", "eastern roll", "the straddle"],
+    "answer": "overhead roll"
   },
   {
-    "question": "If 3 kg of sugar costs #150. How much will 5 kg cost?",
-    "options": ["#250", "#450", "#150", "#150"],
-    "answer": "#250"
+    "question": "A set of physical activities that allows the body to respond or adapt to the need and stress of physical effort is referred to as",
+    "options": ["body conditioning", "physical fitness", "component alignment", "readiness exercise"],
+    "answer": "physical fitness"
   },
   {
-    "question": "A machine produces 500 units in 10 hours. How many units will it produce in 6 hours?",
-    "options": ["500 units", "400", "300 units", "450 units"],
-    "answer": "300 units"
+    "question": "The ability to stop, start, and change directions quickly indicates",
+    "options": ["power", "balance", "beam walk", "agility"],
+    "answer": "agility"
   },
   {
-    "question": "If 8 workers can build a wall in 12 days. How many workers are needed to build it in 6 days?",
-    "options": ["18 workers", "20 workers", "24 workers", "16 workers"],
-    "answer": "16 workers"
+    "question": "The process of preparing the body with exercises in readiness for sport activities that require much effort is known as",
+    "options": ["power", "agility", "body conditioning", "physical fit"],
+    "answer": "body conditioning"
   },
   {
-    "question": "If 4 men can dig a trench in 6 days, how many days will it take 6 men to dig it?",
-    "options": ["8 days", "6 days", "12 days", "4 days"],
-    "answer": "4 days"
+    "question": "Measurement of power include",
+    "options": [
+      "sergeant jump and standing board jump",
+      "agility and power",
+      "leaps vertically and beam walk",
+      "beam walk and standing order"
+    ],
+    "answer": "sergeant jump and standing board jump"
   },
   {
-    "question": "A car travels from Abuja to Lagos in 8 hours at 90 km/h. How long will it take it at 120 km/h?",
-    "options": ["7 hours", "6 hours", "5 days", "9 days"],
-    "answer": "6 hours"
+    "question": "One of the benefits of agility, power, flexibility and balance is",
+    "options": ["reduce risk", "improves performance", "develop balance", "all of the above"],
+    "answer": "all of the above"
   },
   {
-    "question": "If 5 kg of rice costs #1000. How much will 2 kg cost?",
-    "options": ["#400", "#599", "#600", "#450"],
-    "answer": "#400"
+    "question": "One of these best describes word processing.",
+    "options": [
+      "booting, shaping, storing and transferring",
+      "typing, editing, formatting, storing and printing",
+      "repairing, reshaping, editing and storing",
+      "formatting, teaching, elaborating and printing"
+    ],
+    "answer": "typing, editing, formatting, storing and printing"
   },
   {
-    "question": "Change 0.35 to percentage.",
-    "options": ["35%", "45%", "50%", "55%"],
-    "answer": "35%"
+    "question": "The sun can be described as",
+    "options": ["giant galaxy", "giant moon", "giant lightening", "giant star"],
+    "answer": "giant star"
   },
   {
-    "question": "Change 510/11 to improper fraction.",
-    "options": ["75/11", "65/11", "85/11", "55/11"],
-    "answer": "65/11"
+    "question": "The world we live in is known as",
+    "options": ["earth", "sphere", "atmosphere", "biosphere"],
+    "answer": "earth"
   },
   {
-    "question": "What is the value of t in the equation 42/t = 21/2?",
-    "options": ["4", "84", "21", "16"],
-    "answer": "4"
+    "question": "The part of the earth where soil, rocks, plants and animals are found is known as",
+    "options": ["hydrosphere", "lithosphere", "atmosphere", "earth’s surface"],
+    "answer": "lithosphere"
   },
   {
-    "question": "Multiply 0.0803 by 1 000.",
-    "options": ["8.03", "80.3", "803 003", "80 303"],
-    "answer": "80.3"
+    "question": "The earth turns around its axis in a",
+    "options": ["circular form", "triangular form", "prism form", "rectangular form"],
+    "answer": "circular form"
   },
   {
-    "question": "Divide 6.125 by 5. Give your answer to 2 places of decimal.",
-    "options": ["1.25", "1.22", "1.23", "1.20"],
-    "answer": "1.23"
+    "question": "Rotation of the earth brings about",
+    "options": ["day and night", "hotness and dryness", "evolutional density", "ecology clarification"],
+    "answer": "day and night"
   },
   {
-    "question": "A woman bought 200 oranges and sold 40% of them at the market day. How many oranges would she have left?",
-    "options": ["20 oranges", "50 oranges", "160 oranges", "120 oranges"],
-    "answer": "120 oranges"
+    "question": "All of the following is the uses of word processing EXCEPT",
+    "options": ["text formatting", "Text editing", "word enlightenment", "printing"],
+    "answer": "word enlightenment"
   },
   {
-    "question": "10 minutes past 8, should be written as",
-    "options": ["8:10", "10:8", "81:10", "1:80"],
-    "answer": "8:10"
+    "question": "Word processing is easier and",
+    "options": ["faster", "slowest", "outlook", "format"],
+    "answer": "faster"
   },
   {
-    "question": "A train travelled at a speed of 20 km/hr in 45 minutes. At what speed did it travel?",
-    "options": ["900 km", "6 km/hr", "225 m/hr", "8 km/hr"],
-    "answer": "6 km/hr"
+    "question": "One example of word processing software is",
+    "options": ["Google Docs", "AbiWord", "Microsoft Word", "All of the above"],
+    "answer": "All of the above"
   },
   {
-    "question": "What is the value of 45% of 200?",
-    "options": ["145", "60", "90", "100"],
-    "answer": "90"
+    "question": "The most popular word processing application is",
+    "options": ["Pages", "OpenOffice", "WordPerfect", "Microsoft Word"],
+    "answer": "Microsoft Word"
   },
   {
-    "question": "Convert 55% to its lowest fraction.",
-    "options": ["5.5", "0.055", "0.0055", "0.55"],
-    "answer": "0.55"
+    "question": "The Lunar eclipse is also known as",
+    "options": ["satellite", "eclipse of the moon", "effects rotation", "galaxy"],
+    "answer": "eclipse of the moon"
   },
   {
-    "question": "What must be subtracted from 3.10 to have 1.001?",
-    "options": ["3.999", "3.099", "2.999", "2.099"],
-    "answer": "2.099"
+    "question": "Galaxies are many stars held together by the force of gravity.",
+    "options": ["natural bodies", "maybe", "true", "uncertain"],
+    "answer": "true"
   },
   {
-    "question": "The length of the three sides of a triangle were as follows: 22 cm, 35 cm and 28 cm. What is the length of all the three sides of the triangle?",
-    "options": ["85 cm", "105 cm", "102 cm", "69 cm"],
-    "answer": "85 cm"
+    "question": "The biggest planet of the solar system is the",
+    "options": ["Jupiter", "Mercury", "Neptune", "Venus"],
+    "answer": "Jupiter"
   },
   {
-    "question": "In a library there are 480 books in a roll on the book shelf, if there are 30 rolls in the library, how many books are there altogether?",
-    "options": ["14,400 books", "15,400 books", "16,800 books", "28,600 books"],
-    "answer": "14,400 books"
+    "question": "The round object that gives light to the earth is called",
+    "options": ["sun", "moon", "lightening", "thundering"],
+    "answer": "sun"
   },
   {
-    "question": "If a bag contains 7 apples, how many apples are in 20 bags?",
-    "options": ["140 apples", "200 apples", "580 apples", "680 apples"],
-    "answer": "140 apples"
+    "question": "The moon is a large round object that travels",
+    "options": ["around the earth", "round the hemisphere", "around the ocean", "around space"],
+    "answer": "around the earth"
   }
 ]
