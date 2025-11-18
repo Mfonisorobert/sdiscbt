@@ -1,267 +1,132 @@
 [
-  {
-    "question": "What is the largest planet in our solar system?",
-    "options": ["Jupiter", "Earth", "Mars", "Saturn"],
-    "answer": "Jupiter"
-  },
-  {
-    "question": "Which planet is known as the “RED PLANET”?",
-    "options": ["Neptune", "Mars", "Mercury", "Pluto"],
-    "answer": "Mars"
-  },
-  {
-    "question": "What is in the center of our solar system?",
-    "options": ["The moon", "The galaxy", "The stars", "The sun"],
-    "answer": "The sun"
-  },
-  {
-    "question": "Which planet is closest to the sun?",
-    "options": ["Pluto", "planet", "Mercury", "Venus"],
-    "answer": "Mercury"
-  },
-  {
-    "question": "What is the largest moon in our solar system?",
-    "options": ["Ganymede", "orbiting moon", "Orbiting galaxy", "Orbiting planet"],
-    "answer": "Ganymede"
-  },
-  {
-    "question": "How many planets are in the solar system?",
-    "options": ["7", "9", "8", "10"],
-    "answer": "8"
-  },
-  {
-    "question": "Which planet has the most moons?",
-    "options": ["Jupiter", "Mars", "Venus", "Earth"],
-    "answer": "Jupiter"
-  },
-  {
-    "question": "Which planet is known as the hottest?",
-    "options": ["Mercury", "Venus", "Jupiter", "Mars"],
-    "answer": "Venus"
-  },
-  {
-    "question": "What is the process by which planets formed in our solar system?",
-    "options": ["Accretion", "acceleration", "momentum", "assimilation"],
-    "answer": "Accretion"
-  },
-  {
-    "question": "What is the farthest planet from the sun?",
-    "options": ["Neptune", "sun", "Venus", "Saturn"],
-    "answer": "Neptune"
-  },
-  {
-    "question": "The basic colours are called",
-    "options": ["secondary colours", "tertiary colours", "complimentary colours", "primary colours"],
-    "answer": "primary colours"
-  },
-  {
-    "question": "What colour is created by mixing blue and purple?",
-    "options": ["blue-purple", "yellow-purple", "green-purple", "purple-red"],
-    "answer": "blue-purple"
-  },
-  {
-    "question": "What is the term for the colour wheel’s arrangement of primary, secondary and tertiary colours?",
-    "options": ["colour harmony", "colour decoration", "colour arrangement", "colour list"],
-    "answer": "colour harmony"
-  },
-  {
-    "question": "What colour is created by mixing red and blue?",
-    "options": ["orange", "purple", "indigo", "violet"],
-    "answer": "purple"
-  },
-  {
-    "question": "What are the three primary colours?",
-    "options": ["red, blue and yellow", "blue, purple and pink", "orange, yellow and red", "indigo, violet and red"],
-    "answer": "red, blue and yellow"
-  },
-  {
-    "question": "Which ocean is the largest of the five major oceans?",
-    "options": ["Pacific Ocean", "Arctic Ocean", "Indian Ocean", "Southern Ocean"],
-    "answer": "Pacific Ocean"
-  },
-  {
-    "question": "Which ocean is the smallest?",
-    "options": ["Southern Ocean", "Arctic Ocean", "Indian Ocean", "Pacific Ocean"],
-    "answer": "Arctic Ocean"
-  },
-  {
-    "question": "Which ocean surrounds Antarctica?",
-    "options": ["Indian Ocean", "Pacific Ocean", "Southern Ocean", "Asian Ocean"],
-    "answer": "Southern Ocean"
-  },
-  {
-    "question": "Which ocean is home to the Mariana Trench?",
-    "options": ["Pacific Ocean", "Indian Ocean", "Arctic Ocean", "North Ocean"],
-    "answer": "Pacific Ocean"
-  },
-  {
-    "question": "Which ocean calls to the Gulf Stream?",
-    "options": ["Egypt Ocean", "North Sea", "Red Sea", "Atlantic Ocean"],
-    "answer": "Atlantic Ocean"
-  },
-  {
-    "question": "Where is the North Sea located?",
-    "options": ["Northern Europe", "Southern Europe", "Eastern Europe", "Western Europe"],
-    "answer": "Northern Europe"
-  },
-  {
-    "question": "What is the economic importance of the North Sea?",
-    "options": [
-      "Sources of oil, gas and fish, also supports busy shipping lanes and tourism.",
-      "Sources of animal materials supply and exploration.",
-      "Sources of sufficient road network and telecommunication services.",
-      "Sources of natural resources exploration."
-    ],
-    "answer": "Sources of oil, gas and fish, also supports busy shipping lanes and tourism."
-  },
-  {
-    "question": "How can one maintain motivation for regular exercise?",
-    "options": ["Setting dissatisfaction", "Setting distraction", "Setting achievement goals", "Setting indecision plan"],
-    "answer": "Setting achievement goals"
-  },
-  {
-    "question": "What can improve flexibility?",
-    "options": ["Irregular stretching of the body", "Regular stretching of the body", "Imbalance sleep", "Conditional stimuli"],
-    "answer": "Regular stretching of the body"
-  },
-  {
-    "question": "What is the importance of hydration in physical fitness?",
-    "options": ["Regulates body temperature", "Stability of eating exercise", "Imbalance memory", "Regaining strength"],
-    "answer": "Regaining strength"
-  },
-  {
-    "question": "One of these is NOT a type of relay race.",
-    "options": ["4x500 relay", "4x400 relay", "4x100 relay", "medley relay"],
-    "answer": "4x500 relay"
-  },
-  {
-    "question": "A hollow cylinder of wood or plastic used in relay race is known as",
-    "options": ["staff", "baton", "mutton", "pole"],
-    "answer": "baton"
-  },
-  {
-    "question": "The following are techniques in relay race except",
-    "options": ["baton grip", "take-off", "Sliding off", "run-up"],
-    "answer": "Sliding off"
-  },
-  {
-    "question": "The objective of high jump is to try to",
-    "options": ["jump as low as possible", "jump as high as possible", "jump as long as possible", "jump as distance as possible"],
-    "answer": "jump as high as possible"
-  },
-  {
-    "question": "All of these are styles in high jump except",
-    "options": ["overhead roll", "western roll", "eastern roll", "the straddle"],
-    "answer": "overhead roll"
-  },
-  {
-    "question": "A set of physical activities that allows the body to respond or adapt to the need and stress of physical effort is referred to as",
-    "options": ["body conditioning", "physical fitness", "component alignment", "readiness exercise"],
-    "answer": "physical fitness"
-  },
-  {
-    "question": "The ability to stop, start, and change directions quickly indicates",
-    "options": ["power", "balance", "beam walk", "agility"],
-    "answer": "agility"
-  },
-  {
-    "question": "The process of preparing the body with exercises in readiness for sport activities that require much effort is known as",
-    "options": ["power", "agility", "body conditioning", "physical fit"],
-    "answer": "body conditioning"
-  },
-  {
-    "question": "Measurement of power include",
-    "options": [
-      "sergeant jump and standing board jump",
-      "agility and power",
-      "leaps vertically and beam walk",
-      "beam walk and standing order"
-    ],
-    "answer": "sergeant jump and standing board jump"
-  },
-  {
-    "question": "One of the benefits of agility, power, flexibility and balance is",
-    "options": ["reduce risk", "improves performance", "develop balance", "all of the above"],
-    "answer": "all of the above"
-  },
-  {
-    "question": "One of these best describes word processing.",
-    "options": [
-      "booting, shaping, storing and transferring",
-      "typing, editing, formatting, storing and printing",
-      "repairing, reshaping, editing and storing",
-      "formatting, teaching, elaborating and printing"
-    ],
-    "answer": "typing, editing, formatting, storing and printing"
-  },
-  {
-    "question": "The sun can be described as",
-    "options": ["giant galaxy", "giant moon", "giant lightening", "giant star"],
-    "answer": "giant star"
-  },
-  {
-    "question": "The world we live in is known as",
-    "options": ["earth", "sphere", "atmosphere", "biosphere"],
-    "answer": "earth"
-  },
-  {
-    "question": "The part of the earth where soil, rocks, plants and animals are found is known as",
-    "options": ["hydrosphere", "lithosphere", "atmosphere", "earth’s surface"],
-    "answer": "lithosphere"
-  },
-  {
-    "question": "The earth turns around its axis in a",
-    "options": ["circular form", "triangular form", "prism form", "rectangular form"],
-    "answer": "circular form"
-  },
-  {
-    "question": "Rotation of the earth brings about",
-    "options": ["day and night", "hotness and dryness", "evolutional density", "ecology clarification"],
-    "answer": "day and night"
-  },
-  {
-    "question": "All of the following is the uses of word processing EXCEPT",
-    "options": ["text formatting", "Text editing", "word enlightenment", "printing"],
-    "answer": "word enlightenment"
-  },
-  {
-    "question": "Word processing is easier and",
-    "options": ["faster", "slowest", "outlook", "format"],
-    "answer": "faster"
-  },
-  {
-    "question": "One example of word processing software is",
-    "options": ["Google Docs", "AbiWord", "Microsoft Word", "All of the above"],
-    "answer": "All of the above"
-  },
-  {
-    "question": "The most popular word processing application is",
-    "options": ["Pages", "OpenOffice", "WordPerfect", "Microsoft Word"],
-    "answer": "Microsoft Word"
-  },
-  {
-    "question": "The Lunar eclipse is also known as",
-    "options": ["satellite", "eclipse of the moon", "effects rotation", "galaxy"],
-    "answer": "eclipse of the moon"
-  },
-  {
-    "question": "Galaxies are many stars held together by the force of gravity.",
-    "options": ["natural bodies", "maybe", "true", "uncertain"],
-    "answer": "true"
-  },
-  {
-    "question": "The biggest planet of the solar system is the",
-    "options": ["Jupiter", "Mercury", "Neptune", "Venus"],
-    "answer": "Jupiter"
-  },
-  {
-    "question": "The round object that gives light to the earth is called",
-    "options": ["sun", "moon", "lightening", "thundering"],
-    "answer": "sun"
-  },
-  {
-    "question": "The moon is a large round object that travels",
-    "options": ["around the earth", "round the hemisphere", "around the ocean", "around space"],
-    "answer": "around the earth"
-  }
+    {
+      "number": 1,
+      "question": "What is the abbreviation for Sun Dream Int’l School?",
+      "options": ["SDS", "SDSS", "SDISS", "SDIS"],
+      "answer": "SDIS"
+    },
+    {
+      "number": 2,
+      "question": "How many houses do we have in Sun Dream School ahead of the inter-house sports next year?",
+      "options": ["3", "4", "5", "6"],
+      "answer": "4"
+    },
+    {
+      "number": 3,
+      "question": "Who is the Director of Sun Dream International School?",
+      "options": ["Mr Ogaja", "Hon. Malachy Duru", "Mrs Edera", "Hon. Ned Nwoko"],
+      "answer": "Hon. Malachy Duru"
+    },
+    {
+      "number": 4,
+      "question": "How many Revd sisters do we have in Sun Dream?",
+      "options": ["3", "4", "2", "1"],
+      "answer": "2"
+    },
+    {
+      "number": 5,
+      "question": "How many hostels do we have in Sun Dream School?",
+      "options": ["2", "4", "3", "5"],
+      "answer": "4"
+    },
+    {
+      "number": 6,
+      "question": "What is the name of the current HOS of Sun Dream Int’l School?",
+      "options": ["Mr Merciful", "Sir Charles", "Mr Nicholas", "Revd Sister Egejara"],
+      "answer": "Sir Charles"
+    },
+    {
+      "number": 7,
+      "question": "Who is the current deputy senior prefect of Sun Dream School?",
+      "options": ["Miss Vanessa", "Miss Favour", "Miss Chidimma", "Miss Stephanie"],
+      "answer": "Miss Chidimma"
+    },
+    {
+      "number": 8,
+      "question": "Who was the former Senior Prefect of Sun Dream International School?",
+      "options": ["Master Keaston", "Miss Chiemeriem Miriam", "Miss Francisca", "Miss Duru Favour"],
+      "answer": "Miss Chiemeriem Miriam"
+    },
+    {
+      "number": 9,
+      "question": "Who bagged the award as the best graduating student of Sun Dream School last session?",
+      "options": ["Miss Miriam", "Miss Francisca", "Miss Favour", "Miss Alwel"],
+      "answer": "Miss Francisca"
+    },
+    {
+      "number": 10,
+      "question": "Who is the Head of Humanity and Welfare in Sun Dream School?",
+      "options": ["Mrs Faith", "Mrs Lynda", "Mrs Favour", "Mrs Ijeoma"],
+      "answer": "Mrs Favour"
+    },
+    {
+      "number": 11,
+      "question": "What is the appellation of the Hostel Mistress in Sun Dream?",
+      "options": ["Miss Stancey Ihezuo", "Mrs Ijeoma", "Mrs Amarachi", "Miss Vivian Nkemjika"],
+      "answer": "Miss Stancey Ihezuo"
+    },
+    {
+      "number": 12,
+      "question": "What is the name of the Chief Driver of Sun Dream Int’l School Transport Department?",
+      "options": ["Mr Anyaehie", "Mr Uche", "Mr Osita", "Mr Sam"],
+      "answer": "Mr Uche"
+    },
+    {
+      "number": 13,
+      "question": "How many uniforms do we have in the secondary wing in Sun Dream?",
+      "options": ["2", "3", "4", "1"],
+      "answer": "2"
+    },
+    {
+      "number": 14,
+      "question": "Which class emerged as the winner in the senior category of the science interclass quiz challenge held at Sun Dream this term?",
+      "options": ["Year 9", "Year 10", "Year 11", "Year 12"],
+      "answer": "Year 12"
+    },
+    {
+      "number": 15,
+      "question": "Who won the award as the most well-behaved learner during the last graduation party?",
+      "options": ["Master Duru", "Master ThankGod", "Master Divine", "Miss Favour"],
+      "answer": "Master ThankGod"
+    },
+    {
+      "number": 16,
+      "question": "What is the name of the coding instructor at Sun Dream Int’l School?",
+      "options": ["Mr Princewill", "Mr Richard", "Mr Victor Eze", "Mr Ugonna"],
+      "answer": "Mr Victor Eze"
+    },
+    {
+      "number": 17,
+      "question": "What is the signature colour of the secondary school uniform of Sun Dream?",
+      "options": ["Blue", "White", "Yellow", "Red"],
+      "answer": "Blue"
+    },
+    {
+      "number": 18,
+      "question": "What is the motto of Sun Dream School?",
+      "options": [
+        "Wisdom, knowledge & perseverance",
+        "Knowledge, greatness & aspiration",
+        "Knowledge, wisdom & fairness",
+        "Wisdom, knowledge & service"
+      ],
+      "answer": "Wisdom, knowledge & service"
+    },
+    {
+      "number": 19,
+      "question": "What is the first line of the first verse of Sun Dream Int’l School anthem?",
+      "options": ["We hail thee", "O great sundream", "Great Sundream", "We are great scholars"],
+      "answer": "Great Sundream"
+    },
+    {
+      "number": 20,
+      "question": "What is the correct official website address of Sun Dream International School?",
+      "options": [
+        "www.sundreamschool.sch.org",
+        "www.sdis.com.ng",
+        "www.sundreamschool.com.ng",
+        "www.sundreaminternational.com.ng"
+      ],
+      "answer": "www.sundreaminternational.com.ng"
+    }
 ]
