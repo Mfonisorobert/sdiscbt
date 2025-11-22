@@ -540,67 +540,67 @@
   "questions": [
     {
       "number": 50,
-      "symbol": "/I:/",
+      "question": "/I:/",
       "options": ["Church", "sheep", "shine", "rush", "push"],
       "answer": "sheep"
     },
     {
       "number": 51,
-      "symbol": "/u:/",
+      "question": "/u:/",
       "options": ["think", "pool", "they", "though", "those"],
       "answer": "pool"
     },
     {
       "number": 52,
-      "symbol": "/aɪ/",
+      " question ": "/aɪ/",
       "options": ["late", "fight", "fed", "heart", "caught"],
       "answer": "fight"
     },
     {
       "number": 53,
-      "symbol": "/u/",
+      " question ": "/u/",
       "options": ["chair", "bear", "dear", "full", "fear"],
       "answer": "full"
     },
     {
       "number": 54,
-      "symbol": "/I/",
+      " question ": "/I/",
       "options": ["word", "sword", "sit", "ward", "wood"],
       "answer": "sit"
     },
     {
       "number": 55,
-      "symbol": "/ŋ/",
+      " question ": "/ŋ/",
       "options": ["wing", "win", "wink", "wine", "wire"],
       "answer": "wing"
     },
     {
       "number": 56,
-      "symbol": "/dʒ/",
+      " question ": "/dʒ/",
       "options": ["judge", "joy", "giant", "bridge", "all of the above"],
       "answer": "judge"
     },
     {
       "number": 57,
-      "symbol": "/u:/",
+      " question ": "/u:/",
       "options": ["good", "boot", "could", "pull", "put"],
       "answer": "good"
     },
     {
       "number": 58,
-      "symbol": "/t/",
+      " question ": "/t/",
       "options": ["men", "main", "man", "meant", "mend"],
       "answer": "meant"
     },
     {
       "number": 59,
-      "symbol": "/ʧ/",
+      " question ": "/ʧ/",
       "options": ["chat", "chain", "chair", "check", "all of the above"],
       "answer": "all of the above"
     },
     {
       "number": 60,
-      "symbol": "/p/",
+      " question ": "/p/",
       "options": ["Put", "Loot", "Shoe", "Goat"],
       "answer": "Put"
     }
@@ -608,4 +608,5 @@
 }
 
 ]
+
 
