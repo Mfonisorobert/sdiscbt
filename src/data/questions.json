@@ -1,132 +1,611 @@
 [
+  {
+      "instruction": "Answer the question by choosing the correct option.",
+      "questions": [
+  
     {
       "number": 1,
-      "question": "What is the abbreviation for Sun Dream Int’l School?",
-      "options": ["SDS", "SDSS", "SDISS", "SDIS"],
-      "answer": "SDIS"
+      "question": "Which of the following statements is not true according to the passage?",
+      "options": [
+        "Ada was nervous on her first day.",
+        "Her roommates were harsh and unfriendly.",
+        "She admired older students in uniform.",
+        "Ada learned to manage her time.",
+        "Boarding life was not as easy as she imagined."
+      ],
+      "answer": "She admired older students in uniform."
     },
     {
       "number": 2,
-      "question": "How many houses do we have in Sun Dream School ahead of the inter-house sports next year?",
-      "options": ["3", "4", "5", "6"],
-      "answer": "4"
+      "question": "According to the passage, Ada began to appreciate school life because it",
+      "options": [
+        "allowed her to sleep more often",
+        "gave her freedom and discipline",
+        "reminded her of home every day",
+        "required less effort than expected",
+        "was full of food and laughter"
+      ],
+      "answer": "gave her freedom and discipline"
     },
     {
       "number": 3,
-      "question": "Who is the Director of Sun Dream International School?",
-      "options": ["Mr Ogaja", "Hon. Malachy Duru", "Mrs Edera", "Hon. Ned Nwoko"],
-      "answer": "Hon. Malachy Duru"
+      "question": "The phrase “earn her extra chores” means",
+      "options": [
+        "she was rewarded with food",
+        "she was praised for good work",
+        "she was punished with more duties",
+        "she was excused from tasks",
+        "she was allowed to rest"
+      ],
+      "answer": "she was punished with more duties"
     },
     {
       "number": 4,
-      "question": "How many Revd sisters do we have in Sun Dream?",
-      "options": ["3", "4", "2", "1"],
-      "answer": "2"
+      "question": "The word “independence” as used in the passage can best be replaced with",
+      "options": [
+        "laziness",
+        "freedom",
+        "stubbornness",
+        "teamwork",
+        "loneliness"
+      ],
+      "answer": "freedom"
     },
     {
       "number": 5,
-      "question": "How many hostels do we have in Sun Dream School?",
-      "options": ["2", "4", "3", "5"],
-      "answer": "4"
+      "question": "The writer’s main purpose is to",
+      "options": [
+        "criticize boarding schools",
+        "narrate Ada’s experiences and lessons",
+        "describe senior students’ behavior",
+        "explain the importance of chores",
+        "warn students against leaving home"
+      ],
+      "answer": "narrate Ada’s experiences and lessons"
     },
     {
       "number": 6,
-      "question": "What is the name of the current HOS of Sun Dream Int’l School?",
-      "options": ["Mr Merciful", "Sir Charles", "Mr Nicholas", "Revd Sister Egejara"],
-      "answer": "Sir Charles"
+      "question": "I will not go to the market until my mother __.",
+      "options": [
+        "arrives",
+        "arrived",
+        "has arrive",
+        "arriving",
+        "arrive"
+      ],
+      "answer": "arrives"
     },
     {
       "number": 7,
-      "question": "Who is the current deputy senior prefect of Sun Dream School?",
-      "options": ["Miss Vanessa", "Miss Favour", "Miss Chidimma", "Miss Stephanie"],
-      "answer": "Miss Chidimma"
+      "question": "The woman __ purse was stolen reported the case to the police.",
+      "options": [
+        "that",
+        "who",
+        "whom",
+        "whose",
+        "which"
+      ],
+      "answer": "whose"
     },
     {
       "number": 8,
-      "question": "Who was the former Senior Prefect of Sun Dream International School?",
-      "options": ["Master Keaston", "Miss Chiemeriem Miriam", "Miss Francisca", "Miss Duru Favour"],
-      "answer": "Miss Chiemeriem Miriam"
+      "question": "We were all surprised that he could sing __ well.",
+      "options": [
+        "so",
+        "too",
+        "quite",
+        "very",
+        "most"
+      ],
+      "answer": "so"
     },
     {
       "number": 9,
-      "question": "Who bagged the award as the best graduating student of Sun Dream School last session?",
-      "options": ["Miss Miriam", "Miss Francisca", "Miss Favour", "Miss Alwel"],
-      "answer": "Miss Francisca"
+      "question": "If I __ you, I would apologize immediately.",
+      "options": [
+        "is",
+        "was",
+        "am",
+        "were",
+        "be"
+      ],
+      "answer": "were"
     },
     {
       "number": 10,
-      "question": "Who is the Head of Humanity and Welfare in Sun Dream School?",
-      "options": ["Mrs Faith", "Mrs Lynda", "Mrs Favour", "Mrs Ijeoma"],
-      "answer": "Mrs Favour"
+      "question": "The manager promised to look __ the matter.",
+      "options": [
+        "on",
+        "into",
+        "at",
+        "for",
+        "after"
+      ],
+      "answer": "into"
     },
     {
       "number": 11,
-      "question": "What is the appellation of the Hostel Mistress in Sun Dream?",
-      "options": ["Miss Stancey Ihezuo", "Mrs Ijeoma", "Mrs Amarachi", "Miss Vivian Nkemjika"],
-      "answer": "Miss Stancey Ihezuo"
+      "question": "The doctor advised me to take my medicine according to the ____ on the bottle.",
+      "options": [
+        "direction",
+        "instruction",
+        "prescription",
+        "description",
+        "decoration"
+      ],
+      "answer": "prescription"
     },
     {
       "number": 12,
-      "question": "What is the name of the Chief Driver of Sun Dream Int’l School Transport Department?",
-      "options": ["Mr Anyaehie", "Mr Uche", "Mr Osita", "Mr Sam"],
-      "answer": "Mr Uche"
+      "question": "The farmer stored his grains in a large ____.",
+      "options": [
+        "library",
+        "barn",
+        "garage",
+        "factory",
+        "basket"
+      ],
+      "answer": "basket"
     },
     {
       "number": 13,
-      "question": "How many uniforms do we have in the secondary wing in Sun Dream?",
-      "options": ["2", "3", "4", "1"],
-      "answer": "2"
+      "question": "The soldiers were praised for their ____ during the rescue mission.",
+      "options": [
+        "laziness",
+        "bravery",
+        "hesitation",
+        "delay",
+        "pride"
+      ],
+      "answer": "bravery"
     },
     {
       "number": 14,
-      "question": "Which class emerged as the winner in the senior category of the science interclass quiz challenge held at Sun Dream this term?",
-      "options": ["Year 9", "Year 10", "Year 11", "Year 12"],
-      "answer": "Year 12"
+      "question": "The teacher told the students to keep their books in good ____.",
+      "options": [
+        "shape",
+        "look",
+        "size",
+        "fashion",
+        "position"
+      ],
+      "answer": "shape"
     },
     {
       "number": 15,
-      "question": "Who won the award as the most well-behaved learner during the last graduation party?",
-      "options": ["Master Duru", "Master ThankGod", "Master Divine", "Miss Favour"],
-      "answer": "Master ThankGod"
+      "question": "The new principal promised to ____ discipline in the school.",
+      "options": [
+        "introduce",
+        "install",
+        "insist",
+        "maintain",
+        "instruct"
+      ],
+      "answer": "install"
     },
     {
       "number": 16,
-      "question": "What is the name of the coding instructor at Sun Dream Int’l School?",
-      "options": ["Mr Princewill", "Mr Richard", "Mr Victor Eze", "Mr Ugonna"],
-      "answer": "Mr Victor Eze"
+      "question": "The patient was ____ with typhoid fever.",
+      "options": [
+        "described",
+        "designed",
+        "diagnosed",
+        "discovered",
+        "directed"
+      ],
+      "answer": "diagnosed"
     },
     {
       "number": 17,
-      "question": "What is the signature colour of the secondary school uniform of Sun Dream?",
-      "options": ["Blue", "White", "Yellow", "Red"],
-      "answer": "Blue"
+      "question": "The ____ prepared a delicious meal for the guests.",
+      "options": [
+        "waiter",
+        "chef",
+        "cleaner",
+        "hostess",
+        "butcher"
+      ],
+      "answer": "chef"
     },
     {
       "number": 18,
-      "question": "What is the motto of Sun Dream School?",
+      "question": "The ____ presented strong evidence in court.",
       "options": [
-        "Wisdom, knowledge & perseverance",
-        "Knowledge, greatness & aspiration",
-        "Knowledge, wisdom & fairness",
-        "Wisdom, knowledge & service"
+        "judge",
+        "defendant",
+        "lawyer",
+        "clerk",
+        "witness"
       ],
-      "answer": "Wisdom, knowledge & service"
+      "answer": "lawyer"
     },
     {
       "number": 19,
-      "question": "What is the first line of the first verse of Sun Dream Int’l School anthem?",
-      "options": ["We hail thee", "O great sundream", "Great Sundream", "We are great scholars"],
-      "answer": "Great Sundream"
+      "question": "The baby cried because her toy was ____.",
+      "options": [
+        "lost",
+        "found",
+        "clean",
+        "present",
+        "shining"
+      ],
+      "answer": "lost"
     },
     {
       "number": 20,
-      "question": "What is the correct official website address of Sun Dream International School?",
+      "question": "Our school library is known for its wide ____ of books.",
       "options": [
-        "www.sundreamschool.sch.org",
-        "www.sdis.com.ng",
-        "www.sundreamschool.com.ng",
-        "www.sundreaminternational.com.ng"
+        "selection",
+        "portion",
+        "picture",
+        "reflection",
+        "expansion"
       ],
-      "answer": "www.sundreaminternational.com.ng"
+      "answer": "selection"
     }
+  ]
+  },
+{
+  "instruction": "Complete each of the following sentences with the most appropriate option.",
+  "questions": [
+    {
+      "number": 21,
+      "question": "The boys bought _______ storybooks at the fair.",
+      "options": [
+        "three interesting small",
+        "small interesting three",
+        "interesting three small",
+        "three small interesting",
+        "small three interesting"
+      ],
+      "answer": "three small interesting"
+    },
+    {
+      "number": 22,
+      "question": "Active voice: The students are painting the classroom. Passive voice: The classroom _______ by the students.",
+      "options": [
+        "is being painted",
+        "was painted",
+        "will be painted",
+        "has been painted",
+        "were painted"
+      ],
+      "answer": "is being painted"
+    },
+    {
+      "number": 23,
+      "question": "Direct Speech: “I am studying for my test,” said Peter. Indirect Speech: Peter said that he _______ for his test.",
+      "options": [
+        "studied",
+        "is studying",
+        "was studying",
+        "has studied",
+        "studies"
+      ],
+      "answer": "was studying"
+    },
+    {
+      "number": 24,
+      "question": "The train had left _______ we arrived at the station.",
+      "options": [
+        "before",
+        "after",
+        "until",
+        "when",
+        "since"
+      ],
+      "answer": "before"
+    },
+    {
+      "number": 25,
+      "question": "Each of the girls _______ given a new uniform.",
+      "options": [
+        "were",
+        "are",
+        "is",
+        "have",
+        "be"
+      ],
+      "answer": "were"
+    },
+    {
+      "number": 26,
+      "question": "Tunde plays football every evening, _______ he?",
+      "options": [
+        "do",
+        "doesn't",
+        "does",
+        "did",
+        "didn't"
+      ],
+      "answer": "doesn't"
+    },
+    {
+      "number": 27,
+      "question": "Passive voice: The hall will be decorated by the prefects. Active voice: The prefects _______ the hall.",
+      "options": [
+        "are decorating",
+        "decorated",
+        "have decorated",
+        "will decorate",
+        "had decorated"
+      ],
+      "answer": "will decorate"
+    },
+    {
+      "number": 28,
+      "question": "It was I who _______ chosen to lead the debate.",
+      "options": [
+        "were",
+        "has been",
+        "have been",
+        "was",
+        "are"
+      ],
+      "answer": "was"
+    },
+    {
+      "number": 29,
+      "question": "The girl _______ won the spelling competition is my cousin.",
+      "options": [
+        "whom",
+        "whose",
+        "which",
+        "who’s",
+        "who"
+      ],
+      "answer": "who"
+    },
+    {
+      "number": 30,
+      "question": "My bag is _______ than yours.",
+      "options": [
+        "heavy",
+        "heaviest",
+        "more heavy",
+        "heavier",
+        "most heavy"
+      ],
+      "answer": "heavier"
+    },
+    {
+      "number": 31,
+      "question": "The man travelled to Abuja _______ train.",
+      "options": [
+        "in",
+        "with",
+        "on",
+        "by",
+        "through"
+      ],
+      "answer": "by"
+    },
+    {
+      "number": 32,
+      "question": "Which of the following prefixes can be added to the word legal to form its opposite?",
+      "options": [
+        "un-",
+        "dis-",
+        "il-",
+        "mis-",
+        "non-"
+      ],
+      "answer": "il-"
+    },
+    {
+      "number": 33,
+      "question": "Direct Speech: “We are tired,” the boys said. Indirect Speech: The boys said that they _______ tired.",
+      "options": [
+        "are",
+        "were",
+        "have been",
+        "will be",
+        "would be"
+      ],
+      "answer": "were"
+    },
+    {
+      "number": 34,
+      "question": "The mechanic repaired a _______ of cars last week.",
+      "options": [
+        "troop",
+        "bunch",
+        "fleet",
+        "set",
+        "collection"
+      ],
+      "answer": "fleet"
+    },
+    {
+      "number": 35,
+      "question": "The teacher praised one of the pupils who _______ well in the test.",
+      "options": [
+        "perform",
+        "was performing",
+        "have performed",
+        "performed",
+        "were performing"
+      ],
+      "answer": "performed"
+    },
+    {
+      "number": 36,
+      "question": "Neither the governor nor his aides _______ aware of the accident.",
+      "options": [
+        "are",
+        "is",
+        "were",
+        "be",
+        "being"
+      ],
+      "answer": "were"
+    },
+    {
+      "number": 37,
+      "question": "Bisi cannot sing very well, _______ she?",
+      "options": [
+        "does",
+        "can",
+        "can't",
+        "isn't",
+        "is"
+      ],
+      "answer": "can"
+    },
+    {
+      "number": 38,
+      "question": "The fire caused _______ damage to the building.",
+      "options": [
+        "colateral",
+        "collectoral",
+        "collateral",
+        "colatteral",
+        "colateral"
+      ],
+      "answer": "collateral"
+    },
+    {
+      "number": 39,
+      "question": "The child’s behaviour is not _______ with good manners.",
+      "options": [
+        "consistant",
+        "consistent",
+        "consistence",
+        "consistanty",
+        "consistance"
+      ],
+      "answer": "consistent"
+    }
+  ]
+},
+
+{
+  "instruction": "In the following passage, the numbered gaps indicate missing words. Against each number (40–49), four options are provided. Choose the most suitable word to fill each gap.",
+  "questions": [
+    {
+      "number": 40,
+      "options": ["effective", "protective", "defensive", "preventive"],
+      "answer": "preventive"
+    },
+    {
+      "number": 41,
+      "options": ["curative", "healing", "corrective", "anesthetic"],
+      "answer": "curative"
+    },
+    {
+      "number": 42,
+      "options": ["acquires", "contracts", "contacts", "develops"],
+      "answer": "contracts"
+    },
+    {
+      "number": 43,
+      "options": ["consultation", "interaction", "discussion", "instruction"],
+      "answer": "consultation"
+    },
+    {
+      "number": 44,
+      "options": ["explain", "discover", "diagnose", "detect"],
+      "answer": "diagnose"
+    },
+    {
+      "number": 45,
+      "options": ["signs", "indications", "symptoms", "dues"],
+      "answer": "symptoms"
+    },
+    {
+      "number": 46,
+      "options": ["pharmacy", "infirmary", "ward", "laboratory"],
+      "answer": "laboratory"
+    },
+    {
+      "number": 47,
+      "options": ["an image", "an X-ray", "a film", "a photograph"],
+      "answer": "an X-ray"
+    },
+    {
+      "number": 48,
+      "options": ["prescribe", "write", "select", "dictate"],
+      "answer": "prescribe"
+    },
+    {
+      "number": 49,
+      "options": ["concoctions", "syringes", "additives", "injections"],
+      "answer": "injections"
+    }
+  ]
+},
+
+{
+  "instruction": "Choose from the options lettered A–E the one that contains the given phonetic symbol.",
+  "questions": [
+    {
+      "number": 50,
+      "symbol": "/I:/",
+      "options": ["Church", "sheep", "shine", "rush", "push"],
+      "answer": "sheep"
+    },
+    {
+      "number": 51,
+      "symbol": "/u:/",
+      "options": ["think", "pool", "they", "though", "those"],
+      "answer": "pool"
+    },
+    {
+      "number": 52,
+      "symbol": "/aɪ/",
+      "options": ["late", "fight", "fed", "heart", "caught"],
+      "answer": "fight"
+    },
+    {
+      "number": 53,
+      "symbol": "/u/",
+      "options": ["chair", "bear", "dear", "full", "fear"],
+      "answer": "full"
+    },
+    {
+      "number": 54,
+      "symbol": "/I/",
+      "options": ["word", "sword", "sit", "ward", "wood"],
+      "answer": "sit"
+    },
+    {
+      "number": 55,
+      "symbol": "/ŋ/",
+      "options": ["wing", "win", "wink", "wine", "wire"],
+      "answer": "wing"
+    },
+    {
+      "number": 56,
+      "symbol": "/dʒ/",
+      "options": ["judge", "joy", "giant", "bridge", "all of the above"],
+      "answer": "judge"
+    },
+    {
+      "number": 57,
+      "symbol": "/u:/",
+      "options": ["good", "boot", "could", "pull", "put"],
+      "answer": "good"
+    },
+    {
+      "number": 58,
+      "symbol": "/t/",
+      "options": ["men", "main", "man", "meant", "mend"],
+      "answer": "meant"
+    },
+    {
+      "number": 59,
+      "symbol": "/ʧ/",
+      "options": ["chat", "chain", "chair", "check", "all of the above"],
+      "answer": "all of the above"
+    },
+    {
+      "number": 60,
+      "symbol": "/p/",
+      "options": ["Put", "Loot", "Shoe", "Goat"],
+      "answer": "Put"
+    }
+  ]
+}
+
 ]
+
