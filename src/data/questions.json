@@ -1,612 +1,254 @@
-[
-  {
-      "instruction": "Answer the question by choosing the correct option.",
-      "questions": [
-  
-    {
-      "number": 1,
-      "question": "Which of the following statements is not true according to the passage?",
-      "options": [
-        "Ada was nervous on her first day.",
-        "Her roommates were harsh and unfriendly.",
-        "She admired older students in uniform.",
-        "Ada learned to manage her time.",
-        "Boarding life was not as easy as she imagined."
-      ],
-      "answer": "She admired older students in uniform."
-    },
-    {
-      "number": 2,
-      "question": "According to the passage, Ada began to appreciate school life because it",
-      "options": [
-        "allowed her to sleep more often",
-        "gave her freedom and discipline",
-        "reminded her of home every day",
-        "required less effort than expected",
-        "was full of food and laughter"
-      ],
-      "answer": "gave her freedom and discipline"
-    },
-    {
-      "number": 3,
-      "question": "The phrase “earn her extra chores” means",
-      "options": [
-        "she was rewarded with food",
-        "she was praised for good work",
-        "she was punished with more duties",
-        "she was excused from tasks",
-        "she was allowed to rest"
-      ],
-      "answer": "she was punished with more duties"
-    },
-    {
-      "number": 4,
-      "question": "The word “independence” as used in the passage can best be replaced with",
-      "options": [
-        "laziness",
-        "freedom",
-        "stubbornness",
-        "teamwork",
-        "loneliness"
-      ],
-      "answer": "freedom"
-    },
-    {
-      "number": 5,
-      "question": "The writer’s main purpose is to",
-      "options": [
-        "criticize boarding schools",
-        "narrate Ada’s experiences and lessons",
-        "describe senior students’ behavior",
-        "explain the importance of chores",
-        "warn students against leaving home"
-      ],
-      "answer": "narrate Ada’s experiences and lessons"
-    },
-    {
-      "number": 6,
-      "question": "I will not go to the market until my mother __.",
-      "options": [
-        "arrives",
-        "arrived",
-        "has arrive",
-        "arriving",
-        "arrive"
-      ],
-      "answer": "arrives"
-    },
-    {
-      "number": 7,
-      "question": "The woman __ purse was stolen reported the case to the police.",
-      "options": [
-        "that",
-        "who",
-        "whom",
-        "whose",
-        "which"
-      ],
-      "answer": "whose"
-    },
-    {
-      "number": 8,
-      "question": "We were all surprised that he could sing __ well.",
-      "options": [
-        "so",
-        "too",
-        "quite",
-        "very",
-        "most"
-      ],
-      "answer": "so"
-    },
-    {
-      "number": 9,
-      "question": "If I __ you, I would apologize immediately.",
-      "options": [
-        "is",
-        "was",
-        "am",
-        "were",
-        "be"
-      ],
-      "answer": "were"
-    },
-    {
-      "number": 10,
-      "question": "The manager promised to look __ the matter.",
-      "options": [
-        "on",
-        "into",
-        "at",
-        "for",
-        "after"
-      ],
-      "answer": "into"
-    },
-    {
-      "number": 11,
-      "question": "The doctor advised me to take my medicine according to the ____ on the bottle.",
-      "options": [
-        "direction",
-        "instruction",
-        "prescription",
-        "description",
-        "decoration"
-      ],
-      "answer": "prescription"
-    },
-    {
-      "number": 12,
-      "question": "The farmer stored his grains in a large ____.",
-      "options": [
-        "library",
-        "barn",
-        "garage",
-        "factory",
-        "basket"
-      ],
-      "answer": "basket"
-    },
-    {
-      "number": 13,
-      "question": "The soldiers were praised for their ____ during the rescue mission.",
-      "options": [
-        "laziness",
-        "bravery",
-        "hesitation",
-        "delay",
-        "pride"
-      ],
-      "answer": "bravery"
-    },
-    {
-      "number": 14,
-      "question": "The teacher told the students to keep their books in good ____.",
-      "options": [
-        "shape",
-        "look",
-        "size",
-        "fashion",
-        "position"
-      ],
-      "answer": "shape"
-    },
-    {
-      "number": 15,
-      "question": "The new principal promised to ____ discipline in the school.",
-      "options": [
-        "introduce",
-        "install",
-        "insist",
-        "maintain",
-        "instruct"
-      ],
-      "answer": "install"
-    },
-    {
-      "number": 16,
-      "question": "The patient was ____ with typhoid fever.",
-      "options": [
-        "described",
-        "designed",
-        "diagnosed",
-        "discovered",
-        "directed"
-      ],
-      "answer": "diagnosed"
-    },
-    {
-      "number": 17,
-      "question": "The ____ prepared a delicious meal for the guests.",
-      "options": [
-        "waiter",
-        "chef",
-        "cleaner",
-        "hostess",
-        "butcher"
-      ],
-      "answer": "chef"
-    },
-    {
-      "number": 18,
-      "question": "The ____ presented strong evidence in court.",
-      "options": [
-        "judge",
-        "defendant",
-        "lawyer",
-        "clerk",
-        "witness"
-      ],
-      "answer": "lawyer"
-    },
-    {
-      "number": 19,
-      "question": "The baby cried because her toy was ____.",
-      "options": [
-        "lost",
-        "found",
-        "clean",
-        "present",
-        "shining"
-      ],
-      "answer": "lost"
-    },
-    {
-      "number": 20,
-      "question": "Our school library is known for its wide ____ of books.",
-      "options": [
-        "selection",
-        "portion",
-        "picture",
-        "reflection",
-        "expansion"
-      ],
-      "answer": "selection"
-    }
-  ]
-  },
-{
-  "instruction": "Complete each of the following sentences with the most appropriate option.",
-  "questions": [
-    {
-      "number": 21,
-      "question": "The boys bought _______ storybooks at the fair.",
-      "options": [
-        "three interesting small",
-        "small interesting three",
-        "interesting three small",
-        "three small interesting",
-        "small three interesting"
-      ],
-      "answer": "three small interesting"
-    },
-    {
-      "number": 22,
-      "question": "Active voice: The students are painting the classroom. Passive voice: The classroom _______ by the students.",
-      "options": [
-        "is being painted",
-        "was painted",
-        "will be painted",
-        "has been painted",
-        "were painted"
-      ],
-      "answer": "is being painted"
-    },
-    {
-      "number": 23,
-      "question": "Direct Speech: “I am studying for my test,” said Peter. Indirect Speech: Peter said that he _______ for his test.",
-      "options": [
-        "studied",
-        "is studying",
-        "was studying",
-        "has studied",
-        "studies"
-      ],
-      "answer": "was studying"
-    },
-    {
-      "number": 24,
-      "question": "The train had left _______ we arrived at the station.",
-      "options": [
-        "before",
-        "after",
-        "until",
-        "when",
-        "since"
-      ],
-      "answer": "before"
-    },
-    {
-      "number": 25,
-      "question": "Each of the girls _______ given a new uniform.",
-      "options": [
-        "were",
-        "are",
-        "is",
-        "have",
-        "be"
-      ],
-      "answer": "were"
-    },
-    {
-      "number": 26,
-      "question": "Tunde plays football every evening, _______ he?",
-      "options": [
-        "do",
-        "doesn't",
-        "does",
-        "did",
-        "didn't"
-      ],
-      "answer": "doesn't"
-    },
-    {
-      "number": 27,
-      "question": "Passive voice: The hall will be decorated by the prefects. Active voice: The prefects _______ the hall.",
-      "options": [
-        "are decorating",
-        "decorated",
-        "have decorated",
-        "will decorate",
-        "had decorated"
-      ],
-      "answer": "will decorate"
-    },
-    {
-      "number": 28,
-      "question": "It was I who _______ chosen to lead the debate.",
-      "options": [
-        "were",
-        "has been",
-        "have been",
-        "was",
-        "are"
-      ],
-      "answer": "was"
-    },
-    {
-      "number": 29,
-      "question": "The girl _______ won the spelling competition is my cousin.",
-      "options": [
-        "whom",
-        "whose",
-        "which",
-        "who’s",
-        "who"
-      ],
-      "answer": "who"
-    },
-    {
-      "number": 30,
-      "question": "My bag is _______ than yours.",
-      "options": [
-        "heavy",
-        "heaviest",
-        "more heavy",
-        "heavier",
-        "most heavy"
-      ],
-      "answer": "heavier"
-    },
-    {
-      "number": 31,
-      "question": "The man travelled to Abuja _______ train.",
-      "options": [
-        "in",
-        "with",
-        "on",
-        "by",
-        "through"
-      ],
-      "answer": "by"
-    },
-    {
-      "number": 32,
-      "question": "Which of the following prefixes can be added to the word legal to form its opposite?",
-      "options": [
-        "un-",
-        "dis-",
-        "il-",
-        "mis-",
-        "non-"
-      ],
-      "answer": "il-"
-    },
-    {
-      "number": 33,
-      "question": "Direct Speech: “We are tired,” the boys said. Indirect Speech: The boys said that they _______ tired.",
-      "options": [
-        "are",
-        "were",
-        "have been",
-        "will be",
-        "would be"
-      ],
-      "answer": "were"
-    },
-    {
-      "number": 34,
-      "question": "The mechanic repaired a _______ of cars last week.",
-      "options": [
-        "troop",
-        "bunch",
-        "fleet",
-        "set",
-        "collection"
-      ],
-      "answer": "fleet"
-    },
-    {
-      "number": 35,
-      "question": "The teacher praised one of the pupils who _______ well in the test.",
-      "options": [
-        "perform",
-        "was performing",
-        "have performed",
-        "performed",
-        "were performing"
-      ],
-      "answer": "performed"
-    },
-    {
-      "number": 36,
-      "question": "Neither the governor nor his aides _______ aware of the accident.",
-      "options": [
-        "are",
-        "is",
-        "were",
-        "be",
-        "being"
-      ],
-      "answer": "were"
-    },
-    {
-      "number": 37,
-      "question": "Bisi cannot sing very well, _______ she?",
-      "options": [
-        "does",
-        "can",
-        "can't",
-        "isn't",
-        "is"
-      ],
-      "answer": "can"
-    },
-    {
-      "number": 38,
-      "question": "The fire caused _______ damage to the building.",
-      "options": [
-        "colateral",
-        "collectoral",
-        "collateral",
-        "colatteral",
-        "colateral"
-      ],
-      "answer": "collateral"
-    },
-    {
-      "number": 39,
-      "question": "The child’s behaviour is not _______ with good manners.",
-      "options": [
-        "consistant",
-        "consistent",
-        "consistence",
-        "consistanty",
-        "consistance"
-      ],
-      "answer": "consistent"
-    }
-  ]
-},
-
-{
-  "instruction": "In the following passage, the numbered gaps indicate missing words. Against each number (40–49), four options are provided. Choose the most suitable word to fill each gap.",
-  "questions": [
-    {
-      "number": 40,
-      "options": ["effective", "protective", "defensive", "preventive"],
-      "answer": "preventive"
-    },
-    {
-      "number": 41,
-      "options": ["curative", "healing", "corrective", "anesthetic"],
-      "answer": "curative"
-    },
-    {
-      "number": 42,
-      "options": ["acquires", "contracts", "contacts", "develops"],
-      "answer": "contracts"
-    },
-    {
-      "number": 43,
-      "options": ["consultation", "interaction", "discussion", "instruction"],
-      "answer": "consultation"
-    },
-    {
-      "number": 44,
-      "options": ["explain", "discover", "diagnose", "detect"],
-      "answer": "diagnose"
-    },
-    {
-      "number": 45,
-      "options": ["signs", "indications", "symptoms", "dues"],
-      "answer": "symptoms"
-    },
-    {
-      "number": 46,
-      "options": ["pharmacy", "infirmary", "ward", "laboratory"],
-      "answer": "laboratory"
-    },
-    {
-      "number": 47,
-      "options": ["an image", "an X-ray", "a film", "a photograph"],
-      "answer": "an X-ray"
-    },
-    {
-      "number": 48,
-      "options": ["prescribe", "write", "select", "dictate"],
-      "answer": "prescribe"
-    },
-    {
-      "number": 49,
-      "options": ["concoctions", "syringes", "additives", "injections"],
-      "answer": "injections"
-    }
-  ]
-},
-
-{
-  "instruction": "Choose from the options lettered A–E the one that contains the given phonetic symbol.",
-  "questions": [
-    {
-      "number": 50,
-      "question": "/I:/",
-      "options": ["Church", "sheep", "shine", "rush", "push"],
-      "answer": "sheep"
-    },
-    {
-      "number": 51,
-      "question": "/u:/",
-      "options": ["think", "pool", "they", "though", "those"],
-      "answer": "pool"
-    },
-    {
-      "number": 52,
-      "question": "/aɪ/",
-      "options": ["late", "fight", "fed", "heart", "caught"],
-      "answer": "fight"
-    },
-    {
-      "number": 53,
-      "question": "/u/",
-      "options": ["chair", "bear", "dear", "full", "fear"],
-      "answer": "full"
-    },
-    {
-      "number": 54,
-      "question": "/I/",
-      "options": ["word", "sword", "sit", "ward", "wood"],
-      "answer": "sit"
-    },
-    {
-      "number": 55,
-      "question": "/ŋ/",
-      "options": ["wing", "win", "wink", "wine", "wire"],
-      "answer": "wing"
-    },
-    {
-      "number": 56,
-      "question": "/dʒ/",
-      "options": ["judge", "joy", "giant", "bridge", "all of the above"],
-      "answer": "judge"
-    },
-    {
-      "number": 57,
-      "question": "/u:/",
-      "options": ["good", "boot", "could", "pull", "put"],
-      "answer": "good"
-    },
-    {
-      "number": 58,
-      "question": "/t/",
-      "options": ["men", "main", "man", "meant", "mend"],
-      "answer": "meant"
-    },
-    {
-      "number": 59,
-      "question": "/ʧ/",
-      "options": ["chat", "chain", "chair", "check", "all of the above"],
-      "answer": "all of the above"
-    },
-    {
-      "number": 60,
-      "question": "/p/",
-      "options": ["Put", "Loot", "Shoe", "Goat"],
-      "answer": "Put"
-    }
-  ]
-}
-
+[ 
+  { 
+  "question": "My father _______ every weekend.", 
+  "options": ["cook", "cooked", "cooks", "cooking"], 
+  "answer": "cooks" 
+  }, 
+  { 
+  "question": "A _______ of musicians performed during the swearing-in ceremony of the president.", 
+  "options": ["choir", "group", "band", "team"], 
+  "answer": "band" 
+  }, 
+  { 
+  "question": "All the girls in the party quarrelled with _______.", 
+  "options": ["each other", "one another", "themselves", "theirselves"], 
+  "answer": "one another" 
+  }, 
+  { 
+  "question": "The principal sent Jessica and ______ on an errand.", 
+  "options": ["myself", "himself", "I", "me"], 
+    "answer": "me" 
+  }, 
+  { 
+  "question": "The baby cried ________ when it was hungry.", 
+  "options": ["loud", "loudly", "louder", "loudest"], 
+  "answer": "louder" 
+  }, 
+  { 
+  "question": "He ______ scrubbed the floor to remove the stains on the tiles.", 
+  "options": ["firmly", "hardly", "sluggishly", "thoroughly"], 
+  "answer": "thoroughly" 
+  }, 
+  { 
+  "question": "Nelly and her brother are always very fond of ______.", 
+  "options": ["one another", "themselves", "each other", "theirselves"], 
+  "answer": "each other" 
+  }, 
+  { 
+  "question": "Which sentence contains an adjective?", 
+  "options": ["She danced gracefully", "The soup tastes sweet.", "The boy runs fast.", "They arrived early"], 
+  "answer": "The soup tastes sweet." 
+  }, 
+  { 
+  "question": "The family head has always advised every other member to always endeavour to care for _______.", 
+  "options": ["one another", "each other", "themselves", "himself"], 
+  "answer": "one another" 
+  }, 
+  { 
+  "question": "The boy’s father always _____ them to school on a daily basis.", 
+  "options": ["brought", "brings", "bringing", "bring"], 
+  "answer": "brings" 
+  }, 
+  { 
+  "question": "Does your father always _________ his new car?", 
+  "options": ["drives", "drove", "drive", "driving"], 
+  "answer": "drive" 
+  }, 
+  { 
+  "question": "My teacher _______ us ever since the term began.", 
+  "options": ["taught", "teaches", "has been teaching", "has taught"], 
+  "answer": "has been teaching" 
+  }, 
+  { 
+  "question": "He has no money to attend the cinema; ________ his mother will not allow him.", 
+  "options": ["thus", "until", "when", "nevertheless"], 
+  "answer": "nevertheless" 
+  }, 
+  { 
+  "question": "David, Maureen and _______ were invited to a birthday party.", 
+  "options": ["me", "I", "mine", "her"], 
+  "answer": "I" 
+  }, 
+  { 
+  "question": "She must have ______ to the church where all the family members worship.", 
+  "options": ["go", "going", "gone", "went"], 
+  "answer": "gone" 
+  }, 
+  { 
+  "question": "I would like to buy ______ umbrella as it seems rainy season is quite approaching.", 
+  "options": ["some", "a few", "an", "a"], 
+  "answer": "an" 
+  }, 
+  { 
+  "question": "Mr. Jones _____ visit his children at all times.", 
+  "options": ["goes", "wents", "go", "has gone"], 
+  "answer": "goes" 
+  }, 
+  { 
+  "question": "Tony and Samuel love ______ so much that they are always seen together.", 
+  "options": ["one another", "themselves", "each other", "theirselves"], 
+  "answer": "each other" 
+  }, 
+  { 
+  "question": "I would like you to know that I can tidy up my work _______.", 
+  "options": ["yourself", "themselves", "myself", "herself"], 
+  "answer": "myself" 
+  }, 
+  { 
+  "question": "A _______ of angels are praising thy Lord.", 
+  "options": ["host", "group", "troupe", "team"], 
+  "answer": "host" 
+  }, 
+  { 
+  "question": "The man hid the puppy ______ the table to avoid suspicion.", 
+  "options": ["over", "beneath", "under", "above"], 
+  "answer": "under"  
+  }, 
+  { 
+  "question": "The man pleaded ______ his wife to allow him take his children to school.", 
+  "options": ["on", "upon", "by", "with"], 
+  "answer": "with" 
+  }, 
+  { 
+  "question": "My mom always drives me to school _____ her car.", 
+  "options": ["in", "with", "on", "by"], 
+  "answer": "by" 
+  }, 
+  { 
+  "question": "The girl seems to be _______ today than yesterday.", 
+  "options": ["more neat", "very neater", "neater", "neatest"], 
+  "answer": "neater" 
+  }, 
+  { 
+  "question": "The boy's pair of trousers _______ torn.", 
+  "options": ["is", "was", "has", "are"], 
+  "answer": "are" 
+  }, 
+  { 
+  "question": "An ______ of soldiers took over the city.", 
+  "options": ["army", "armoury", "array", "navy"], 
+  "answer": "army" 
+  }, 
+  { 
+  "question": "No one _______ John's real name now.", 
+  "options": ["knew", "knows", "know", "known"], 
+  "answer": "knows" 
+  }, 
+  { 
+  "question": "My pencil _______ stolen before I woke up.", 
+  "options": ["have been", "has been", "had been", "was being"], 
+  "answer": "has been" 
+  }, 
+  { 
+  "question": "Audu says that he _______ up at 6:00 every morning.", 
+  "options": ["wake", "woke", "wakes", "woken"], 
+  "answer": "wakes" 
+  }, 
+  { 
+  "question": "My mother _______ my sister yesterday.", 
+  "options": ["feeded", "feeds", "feed", "fed"], 
+  "answer": "fed" 
+  }, 
+  { 
+  "question": "Mr. Cooks took Margret, Alice and _____ round the factory.", 
+  "options": ["me", "we", "I", "he"], 
+  "answer": "me" 
+  }, 
+  { 
+  "question": "Tunji divided the money between David and ______.", 
+  "options": ["he", "him", "himself", "themselves"], 
+  "answer": "himself" 
+  }, 
+  { 
+  "question": "Tony is a good friend of ______.", 
+  "options": ["hers", "he's", "she", "we"], 
+  "answer": "hers" 
+  }, 
+  { 
+  "question": "The breakdown of our marriage was no fault of ______.", 
+  "options": ["me", "my", "mine", "I"], 
+  "answer": "mine" 
+  }, 
+  { 
+  "question": "He is almost as big as _______.", 
+  "options": ["I", "me", "he", "she"], 
+  "answer": "me" 
+  }, 
+  { 
+  "question": "If I ______ you, I would do the homework now.", 
+  "options": ["were", "was", "am", "be"], 
+  "answer": "were" 
+  }, 
+  { 
+  "question": "The head teacher came to our classroom but she didn't talk to _____.", 
+  "options": ["somebody", "anybody", "nobody", "no one"], 
+  "answer": "anybody" 
+  }, 
+  { 
+  "question": "I am afraid I _____ not be able to come with you because I am not sure if it would be possible.", 
+  "options": ["may", "can", "will", "shall"], 
+  "answer": "will" 
+  }, 
+  { 
+  "question": "The man _____ to the police station to file a complaint this morning.", 
+  "options": ["will went", "must gone", "has gone", "would went"], 
+  "answer": "has gone" 
+  }, 
+  { 
+  "question": "James and Sam ______ not able to make it to school for they woke quite late.", 
+  "options": ["was", "were", "is", "are"], 
+  "answer": "were" 
+  }, 
+  { 
+  "question": "She enjoys lots of ice-cream _____ her sister doesn’t.", 
+  "options": ["which", "what", "where", "while"], 
+  "answer": "while" 
+  }, 
+  { 
+  "question": "Mr. Williams caught the thief trying to drag his wobbly legs so as to escape. What is directly opposite in meaning to 'wobbly'?", 
+  "options": ["strong", "feeble", "weak", "battered"], 
+  "answer": "strong" 
+  }, 
+  { 
+  "question": "Please do not be too rigid with your decisions. What is opposite in meaning to 'rigid' here?", 
+  "options": ["flexible", "wicked", "mean", "serious"], 
+    "answer": "flexible" 
+  }, 
+  { 
+  "question": "My mom was so stunned to see me make honour roll at the end of the term. Which is opposite in meaning to 'stunned'?", 
+  "options": ["confused", "amazed", "joyous", "excited"], 
+  "answer": "amazed" 
+  }, 
+  { 
+  "question": "Miriam was so excited to see her baby brother at birth. What is opposite in meaning to 'excited'?", 
+  "options": ["elated", "glomming", "astonished", "confused"], 
+  "answer": "confused" 
+  }, 
+  { 
+  "question": "The man was told not to make a cruel policy that will affect everyone. What is opposite in meaning to 'cruel'?", 
+  "options": ["nice", "wicked", "mean", "ugly"], 
+  "answer": "nice" 
+  }, 
+  { 
+  "question": "The man appeared so feeble that I decided to help him. What is similar in meaning to 'feeble'?", 
+  "options": ["strong", "helpless", "weak", "powerful"], 
+  "answer": "weak" 
+  }, 
+  { 
+  "question": "I told Nancy to keep taciturn but she did not obey my instructions. What is similar in meaning to 'taciturn'?", 
+  "options": ["quiet", "radiating", "pushing through", "motivated"], 
+  "answer": "quiet" 
+  }, 
+  { 
+  "question": "The students always present trivial issues as though they are serious. What is similar in meaning to 'trivial'?", 
+  "options": ["light", "complicated", "difficult", "worrisome"], 
+  "answer": "light" 
+  }, 
+  { 
+  "question": "They have always loved to tackle complex topics before talking about others. What is similar in meaning to 'complex'?", 
+  "options": ["simple", "broad", "difficult", "easy"], 
+  "answer": "difficult" 
+  } 
 ]
 
 
