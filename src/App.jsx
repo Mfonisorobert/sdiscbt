@@ -50,27 +50,27 @@ const [hasStarted, setHasStarted] = useState(false);
 
 
 // Use this for instructional questions where the questions needs to be chosen from a particular number to another number
-useEffect(() => {
-  const flattenedQuestions = [];
+// useEffect(() => {
+//   const flattenedQuestions = [];
 
-  questionsData.forEach((group) => {
-    const instruction = group.instruction;
-    group.questions.forEach((question) => {
-      flattenedQuestions.push({
-        ...question,
-        instruction,
-        options: question.options, // Keep options in original order
+//   questionsData.forEach((group) => {
+//     const instruction = group.instruction;
+//     group.questions.forEach((question) => {
+//       flattenedQuestions.push({
+//         ...question,
+//         instruction,
+//         options: question.options, // Keep options in original order
 
-        // To shuffle the options use this
-        // options: shuffleArray(question.options), 
-        // shuffle options ends here
+//         // To shuffle the options use this
+//         // options: shuffleArray(question.options), 
+//         // shuffle options ends here
 
-      });
-    });
-  });
+//       });
+//     });
+//   });
 
-  setQuestions(flattenedQuestions); // Keep questions in original order
-}, []);
+//   setQuestions(flattenedQuestions); // Keep questions in original order
+// }, []);
 
 
 // instructional questions ends here
