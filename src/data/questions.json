@@ -1,254 +1,552 @@
-[ 
-  { 
-  "question": "My father _______ every weekend.", 
-  "options": ["cook", "cooked", "cooks", "cooking"], 
-  "answer": "cooks" 
-  }, 
-  { 
-  "question": "A _______ of musicians performed during the swearing-in ceremony of the president.", 
-  "options": ["choir", "group", "band", "team"], 
-  "answer": "band" 
-  }, 
-  { 
-  "question": "All the girls in the party quarrelled with _______.", 
-  "options": ["each other", "one another", "themselves", "theirselves"], 
-  "answer": "one another" 
-  }, 
-  { 
-  "question": "The principal sent Jessica and ______ on an errand.", 
-  "options": ["myself", "himself", "I", "me"], 
-    "answer": "me" 
-  }, 
-  { 
-  "question": "The baby cried ________ when it was hungry.", 
-  "options": ["loud", "loudly", "louder", "loudest"], 
-  "answer": "louder" 
-  }, 
-  { 
-  "question": "He ______ scrubbed the floor to remove the stains on the tiles.", 
-  "options": ["firmly", "hardly", "sluggishly", "thoroughly"], 
-  "answer": "thoroughly" 
-  }, 
-  { 
-  "question": "Nelly and her brother are always very fond of ______.", 
-  "options": ["one another", "themselves", "each other", "theirselves"], 
-  "answer": "each other" 
-  }, 
-  { 
-  "question": "Which sentence contains an adjective?", 
-  "options": ["She danced gracefully", "The soup tastes sweet.", "The boy runs fast.", "They arrived early"], 
-  "answer": "The soup tastes sweet." 
-  }, 
-  { 
-  "question": "The family head has always advised every other member to always endeavour to care for _______.", 
-  "options": ["one another", "each other", "themselves", "himself"], 
-  "answer": "one another" 
-  }, 
-  { 
-  "question": "The boy’s father always _____ them to school on a daily basis.", 
-  "options": ["brought", "brings", "bringing", "bring"], 
-  "answer": "brings" 
-  }, 
-  { 
-  "question": "Does your father always _________ his new car?", 
-  "options": ["drives", "drove", "drive", "driving"], 
-  "answer": "drive" 
-  }, 
-  { 
-  "question": "My teacher _______ us ever since the term began.", 
-  "options": ["taught", "teaches", "has been teaching", "has taught"], 
-  "answer": "has been teaching" 
-  }, 
-  { 
-  "question": "He has no money to attend the cinema; ________ his mother will not allow him.", 
-  "options": ["thus", "until", "when", "nevertheless"], 
-  "answer": "nevertheless" 
-  }, 
-  { 
-  "question": "David, Maureen and _______ were invited to a birthday party.", 
-  "options": ["me", "I", "mine", "her"], 
-  "answer": "I" 
-  }, 
-  { 
-  "question": "She must have ______ to the church where all the family members worship.", 
-  "options": ["go", "going", "gone", "went"], 
-  "answer": "gone" 
-  }, 
-  { 
-  "question": "I would like to buy ______ umbrella as it seems rainy season is quite approaching.", 
-  "options": ["some", "a few", "an", "a"], 
-  "answer": "an" 
-  }, 
-  { 
-  "question": "Mr. Jones _____ visit his children at all times.", 
-  "options": ["goes", "wents", "go", "has gone"], 
-  "answer": "goes" 
-  }, 
-  { 
-  "question": "Tony and Samuel love ______ so much that they are always seen together.", 
-  "options": ["one another", "themselves", "each other", "theirselves"], 
-  "answer": "each other" 
-  }, 
-  { 
-  "question": "I would like you to know that I can tidy up my work _______.", 
-  "options": ["yourself", "themselves", "myself", "herself"], 
-  "answer": "myself" 
-  }, 
-  { 
-  "question": "A _______ of angels are praising thy Lord.", 
-  "options": ["host", "group", "troupe", "team"], 
-  "answer": "host" 
-  }, 
-  { 
-  "question": "The man hid the puppy ______ the table to avoid suspicion.", 
-  "options": ["over", "beneath", "under", "above"], 
-  "answer": "under"  
-  }, 
-  { 
-  "question": "The man pleaded ______ his wife to allow him take his children to school.", 
-  "options": ["on", "upon", "by", "with"], 
-  "answer": "with" 
-  }, 
-  { 
-  "question": "My mom always drives me to school _____ her car.", 
-  "options": ["in", "with", "on", "by"], 
-  "answer": "in" 
-  }, 
-  { 
-  "question": "The girl seems to be _______ today than yesterday.", 
-  "options": ["more neat", "very neater", "neater", "neatest"], 
-  "answer": "neater" 
-  }, 
-  { 
-  "question": "The boy's pair of trousers _______ torn.", 
-  "options": ["is", "was", "has", "are"], 
-  "answer": "are" 
-  }, 
-  { 
-  "question": "An ______ of soldiers took over the city.", 
-  "options": ["army", "armoury", "array", "navy"], 
-  "answer": "army" 
-  }, 
-  { 
-  "question": "No one _______ John's real name now.", 
-  "options": ["knew", "knows", "know", "known"], 
-  "answer": "knows" 
-  }, 
-  { 
-  "question": "My pencil _______ stolen before I woke up.", 
-  "options": ["have been", "has been", "had been", "was being"], 
-  "answer": "has been" 
-  }, 
-  { 
-  "question": "Audu says that he _______ up at 6:00 every morning.", 
-  "options": ["wake", "woke", "wakes", "woken"], 
-  "answer": "wakes" 
-  }, 
-  { 
-  "question": "My mother _______ my sister yesterday.", 
-  "options": ["feeded", "feeds", "feed", "fed"], 
-  "answer": "fed" 
-  }, 
-  { 
-  "question": "Mr. Cooks took Margret, Alice and _____ round the factory.", 
-  "options": ["me", "we", "I", "he"], 
-  "answer": "me" 
-  }, 
-  { 
-  "question": "Tunji divided the money between David and ______.", 
-  "options": ["he", "him", "himself", "themselves"], 
-  "answer": "himself" 
-  }, 
-  { 
-  "question": "Tony is a good friend of ______.", 
-  "options": ["hers", "he's", "she", "we"], 
-  "answer": "hers" 
-  }, 
-  { 
-  "question": "The breakdown of our marriage was no fault of ______.", 
-  "options": ["me", "my", "mine", "I"], 
-  "answer": "mine" 
-  }, 
-  { 
-  "question": "He is almost as big as _______.", 
-  "options": ["I", "me", "he", "she"], 
-  "answer": "me" 
-  }, 
-  { 
-  "question": "If I ______ you, I would do the homework now.", 
-  "options": ["were", "was", "am", "be"], 
-  "answer": "were" 
-  }, 
-  { 
-  "question": "The head teacher came to our classroom but she didn't talk to _____.", 
-  "options": ["somebody", "anybody", "nobody", "no one"], 
-  "answer": "anybody" 
-  }, 
-  { 
-  "question": "I am afraid I _____ not be able to come with you because I am not sure if it would be possible.", 
-  "options": ["may", "can", "will", "shall"], 
-  "answer": "will" 
-  }, 
-  { 
-  "question": "The man _____ to the police station to file a complaint this morning.", 
-  "options": ["will went", "must gone", "has gone", "would went"], 
-  "answer": "has gone" 
-  }, 
-  { 
-  "question": "James and Sam ______ not able to make it to school for they woke quite late.", 
-  "options": ["was", "were", "is", "are"], 
-  "answer": "were" 
-  }, 
-  { 
-  "question": "She enjoys lots of ice-cream _____ her sister doesn’t.", 
-  "options": ["which", "what", "where", "while"], 
-  "answer": "while" 
-  }, 
-  { 
-  "question": "Mr. Williams caught the thief trying to drag his wobbly legs so as to escape. What is directly opposite in meaning to 'wobbly'?", 
-  "options": ["strong", "feeble", "weak", "battered"], 
-  "answer": "strong" 
-  }, 
-  { 
-  "question": "Please do not be too rigid with your decisions. What is opposite in meaning to 'rigid' here?", 
-  "options": ["flexible", "wicked", "mean", "serious"], 
-    "answer": "flexible" 
-  }, 
-  { 
-  "question": "My mom was so stunned to see me make honour roll at the end of the term. Which is opposite in meaning to 'stunned'?", 
-  "options": ["confused", "amazed", "joyous", "excited"], 
-  "answer": "amazed" 
-  }, 
-  { 
-  "question": "Miriam was so excited to see her baby brother at birth. What is opposite in meaning to 'excited'?", 
-  "options": ["elated", "glomming", "astonished", "confused"], 
-  "answer": "confused" 
-  }, 
-  { 
-  "question": "The man was told not to make a cruel policy that will affect everyone. What is opposite in meaning to 'cruel'?", 
-  "options": ["nice", "wicked", "mean", "ugly"], 
-  "answer": "nice" 
-  }, 
-  { 
-  "question": "The man appeared so feeble that I decided to help him. What is similar in meaning to 'feeble'?", 
-  "options": ["strong", "helpless", "weak", "powerful"], 
-  "answer": "weak" 
-  }, 
-  { 
-  "question": "I told Nancy to keep taciturn but she did not obey my instructions. What is similar in meaning to 'taciturn'?", 
-  "options": ["quiet", "radiating", "pushing through", "motivated"], 
-  "answer": "quiet" 
-  }, 
-  { 
-  "question": "The students always present trivial issues as though they are serious. What is similar in meaning to 'trivial'?", 
-  "options": ["light", "complicated", "difficult", "worrisome"], 
-  "answer": "light" 
-  }, 
-  { 
-  "question": "They have always loved to tackle complex topics before talking about others. What is similar in meaning to 'complex'?", 
-  "options": ["simple", "broad", "difficult", "easy"], 
-  "answer": "difficult" 
-  } 
-]
-
-
+[
+    {
+      "number": 1,
+      "question": "The science and art of producing and keeping livestock is __",
+      "options": [
+         "Animal health",
+         "regurgitation",
+         "Animal husbandry",
+         "livestock"
+      ],
+      "answer": "Animal husbandry"
+    },
+    {
+      "number": 2,
+      "question": "___ are feeds that have crude fibre content in high quantity",
+      "options": [
+         "minerals",
+         "Roughages",
+         "fibre",
+         "silage"
+      ],
+      "answer": "Roughages"
+    },
+    {
+      "number": 3,
+      "question": "The third stomach of a ruminant animal is the __",
+      "options": [
+         "rumen",
+         "omasum",
+         "abomasum",
+         "reticulum"
+      ],
+      "answer": "omasum"
+    },
+    {
+      "number": 4,
+      "question": "A male cattle is called ____",
+      "options": [
+         "capon",
+         "cock",
+         "cow",
+         "bull"
+      ],
+      "answer": "bull"
+    },
+    {
+      "number": 5,
+      "question": "The waste product from domestic fowl/bird is called___",
+      "options": [
+         "faeces",
+         "dung",
+         "fertilizer",
+         "wood shaven"
+      ],
+      "answer": "dung"
+    },
+    {
+      "number": 6,
+      "question": "Animals which chew the cud are ___",
+      "options": [
+         "ruminants",
+         "reptiles",
+         "non-ruminant",
+         "amphibians"
+      ],
+      "answer": "ruminants"
+    },
+    {
+      "number": 7,
+      "question": "The following are economic importance of farm animals except __",
+      "options": [
+         "it serves source of feed ingredients",
+         "as source of food",
+         "as raw materials",
+         "as maintenance"
+      ],
+      "answer": "as maintenance"
+    },
+    {
+      "number": 8,
+      "question": "The following are examples of non-ruminant animals except __",
+      "options": [
+         "domestic fowl",
+         "pig",
+         "rabbit",
+         "goat"
+      ],
+      "answer": "goat"
+    },
+    {
+      "number": 9,
+      "question": "The true stomach of a ruminant animal is the ___",
+      "options": [
+         "abomasum",
+         "omasam",
+         "rumen",
+         "reticulum"
+      ],
+      "answer": "abomasum"
+    },
+    {
+      "number": 10,
+      "question": "___ is the part of alimentary canal of a fowl where grinding takes place",
+      "options": [
+         "crop",
+         "gizzard",
+         "stomach",
+         "small intestine"
+      ],
+      "answer": "gizzard"
+    },
+    {
+      "number": 11,
+      "question": "The main organs of respiration are lungs, nose and bronchi except ___",
+      "options": [
+         "gullet",
+         "trachea",
+         "larynx",
+         "heart"
+      ],
+      "answer": "heart"
+    },
+    {
+      "number": 12,
+      "question": "In animals ___ organ helps the excretion of waste products",
+      "options": [
+         "small intestine",
+         "large intestine",
+         "gizzard",
+         "crop"
+      ],
+      "answer": "large intestine"
+    },
+    {
+      "number": 13,
+      "question": "___ is a class of food nutrients",
+      "options": [
+         "cowpea",
+         "carbohydrate",
+         "cattle",
+         "malnutrition"
+      ],
+      "answer": "carbohydrate"
+    },
+    {
+      "number": 14,
+      "question": "The system for removal of waste materials from the body is called __ system",
+      "options": [
+         "reproduction",
+         "excretory",
+         "digestive",
+         "nervous system"
+      ],
+      "answer": "excretory"
+    },
+    {
+      "number": 15,
+      "question": "The act of giving birth in farm animals is called ____",
+      "options": [
+         "parturition",
+         "abortion",
+         "storage",
+         "gestation"
+      ],
+      "answer": "parturition"
+    },
+    {
+      "number": 16,
+      "question": "The following are sources of animal protein except",
+      "options": [
+         "milk",
+         "egg",
+         "fish",
+         "beans"
+      ],
+      "answer": "beans"
+    },
+    {
+      "number": 17,
+      "question": "Birds store their food temporarily in the ___",
+      "options": [
+         "gizzard",
+         "proventriculus",
+         "crop",
+         "duodenum"
+      ],
+      "answer": "crop"
+    },
+    {
+      "number": 18,
+      "question": "The following equipments are used in the poultry house EXCEPT",
+      "options": [
+         "Feeding trough",
+         "water trough",
+         "goat",
+         "bucket"
+      ],
+      "answer": "goat"
+    },
+    {
+      "number": 19,
+      "question": "Corpophagy is a phenomenon found in",
+      "options": [
+         "goats",
+         "rabbits",
+         "pigs",
+         "poultry"
+      ],
+      "answer": "pigs"
+    },
+    {
+      "number": 20,
+      "question": "The four areas of the digestive tract that digestion takes place are",
+      "options": [
+         "Mouth, liver, heart & kidney",
+         "Mouth, stomach, duodenum & proventriculus",
+         "Gizzard, stomach, duodenum & small intestine",
+         "Mouth, stomach, duodenum & small intestine"
+      ],
+      "answer": "Mouth, stomach, duodenum & small intestine"
+    },
+    {
+      "number": 21,
+      "question": "Ptyalin I am enzyme found in the",
+      "options": [
+         "duodenum",
+         "liver",
+         "saliva",
+         "blood"
+      ],
+      "answer": "saliva"
+    },
+    {
+      "number": 22,
+      "question": "The enzyme Amylase converts starch to",
+      "options": [
+         "maltose",
+         "fructose",
+         "lipase",
+         "peptones"
+      ],
+      "answer": "maltose"
+    },
+    {
+      "number": 23,
+      "question": "The enzyme that converts proteins and peptones to polypeptide in the duodenum is called",
+      "options": [
+         "Trypsinogen",
+         "Pepsinogen",
+         "Lipase",
+         "duodenogen"
+      ],
+      "answer": "Trypsinogen"
+    },
+    {
+      "number": 24,
+      "question": "Which of the following types of meat is obtained from sheep?",
+      "options": [
+         "beef",
+         "chevron",
+         "mutton",
+         "ham"
+      ],
+      "answer": "mutton"
+    },
+    {
+      "number": 25,
+      "question": "Which of the following birds is purposely raised for meat?",
+      "options": [
+         "Broilers",
+         "Cockerels",
+         "Layers",
+         "Pullets"
+      ],
+      "answer": "Broilers"
+    },
+    {
+      "number": 26,
+      "question": "An example of a non ruminant herbivore is",
+      "options": [
+         "cattle",
+         "horse",
+         "pig",
+         "sheep"
+      ],
+      "answer": "pig"
+    },
+    {
+      "number": 27,
+      "question": "Which of the following products could be obtained from poultry by-products?",
+      "options": [
+         "Glue",
+         "Pillow",
+         "Sweater",
+         "Leather"
+      ],
+      "answer": "Pillow"
+    },
+    {
+      "number": 28,
+      "question": "Which of the following processes are associated with digestion in cattle? I. Grazing II. Coprophagy III. Regurgitation",
+      "options": [
+         "I and II only",
+         "I and III only",
+         "II and III only",
+         "I, II and III"
+      ],
+      "answer": "I and III only"
+    },
+    {
+      "number": 29,
+      "question": "The alimentary canals of fowl and pig end respectively as",
+      "options": [
+         "rectum & cloaca",
+         "caeca & cloaca",
+         "colon & rectum",
+         "cloaca & rectum"
+      ],
+      "answer": "cloaca & rectum"
+    },
+    {
+      "number": 30,
+      "question": "The process of reproduction in animals in which the embryo grows and develop within the eggs after which eggs are hatched to give rise to new offsprings is called",
+      "options": [
+         "Viviparity",
+         "Aves",
+         "oviparity",
+         "polarity"
+      ],
+      "answer": "oviparity"
+    },
+    {
+      "number": 31,
+      "question": "One of the following is not a classification of farm animals based on their uses.",
+      "options": [
+         "Horns",
+         "feathers",
+         "dung and manur",
+         "Aves"
+      ],
+      "answer": "Aves"
+    },
+    {
+      "number": 32,
+      "question": "Which of the meat of farm animals is regarded as chevon?",
+      "options": [
+         "Goat",
+         "rabbit",
+         "sheep",
+         "fowl"
+      ],
+      "answer": "Goat"
+    },
+    {
+      "number": 33,
+      "question": "The digestion of fat and oil is aided by the ______ which is secreted by the liver and stored in the gall bladder",
+      "options": [
+         "Stomach",
+         "pancreas",
+         "bile",
+         "lipase"
+      ],
+      "answer": "lipase"
+    },
+    {
+      "number": 34,
+      "question": "_____ converts fat and oil to fatty acids and glycerol",
+      "options": [
+         "Amylase",
+         "bile",
+         "lipase",
+         "trypsinogen"
+      ],
+      "answer": "lipase"
+    },
+    {
+      "number": 35,
+      "question": "Oxygen and water are transported around the body of farm animals through the",
+      "options": [
+         "blood",
+         "heart",
+         "kidney",
+         "liver"
+      ],
+      "answer": "blood"
+    },
+    {
+      "number": 36,
+      "question": "_____ is the part of the alimentary canal of fowl where grinding takes place",
+      "options": [
+         "crop",
+         "gizzard",
+         "stomach",
+         "small intestine"
+      ],
+      "answer": "gizzard"
+    },
+    {
+      "number": 37,
+      "question": "Another name for Animal Husbandry is",
+      "options": [
+         "Agro-Forestry",
+         "Livestock Farming",
+         "Animal Nutrition",
+         "Animal Genetics"
+      ],
+      "answer": "Livestock Farming"
+    },
+    {
+      "number": 38,
+      "question": "One of the following is not a part of the digestive system of a poultry.",
+      "options": [
+         "Gizzard",
+         "Crop",
+         "Rumen",
+         "Small intestines"
+      ],
+      "answer": "Rumen"
+    },
+    {
+      "number": 39,
+      "question": "One of these farm animals is not classified as a large farm animal.",
+      "options": [
+         "Rabbit",
+         "Goat",
+         "Cattle",
+         "Sheep"
+      ],
+      "answer": "Rabbit"
+    },
+    {
+      "number": 40,
+      "question": "Raising some farm animals like Pigs in the northern part of Nigeria will mostly be affected by ……factor.",
+      "options": [
+         "Socio-economic",
+         "Land Use Act",
+         "Availability of Finance",
+         "None of the above"
+      ],
+      "answer": "Socio-economic"
+    },
+    {
+      "number": 41,
+      "question": "Animal Husbandry / Livestock Farming includes the following animals EXCEPT",
+      "options": [
+         "Goat",
+         "Cattle",
+         "Crayfish",
+         "Poultry"
+      ],
+      "answer": "Crayfish"
+    },
+    {
+      "number": 42,
+      "question": "What is the primary goal of animal husbandry?",
+      "options": [
+         "To produce meat",
+         "To produce milk",
+         "To improve animal breeds",
+         "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "number": 43,
+      "question": "Which of the following is NOT a type of animal husbandry?",
+      "options": [
+         "Poultry production",
+         "Fish farming",
+         "Apiculture",
+         "None of the above"
+      ],
+      "answer": "None of the above"
+    },
+    {
+      "number": 44,
+      "question": "What is the term for the process of bringing up food from the rumen back into their mouth to chew it again, breaking down cellulose in plant material?",
+      "options": [
+         "Corpophagy",
+         "Regurgitation",
+         "Digestion",
+         "Throwing–up"
+      ],
+      "answer": "Regurgitation"
+    },
+    {
+      "number": 45,
+      "question": "Which of the following is a benefit of animal husbandry?",
+      "options": [
+         "Increased food production",
+         "source of occupation",
+         "Increased income for farmers",
+         "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "number": 46,
+      "question": "What is the name of the process by which farm animals produce young ones.",
+      "options": [
+         "Reproduction",
+         "Breeding",
+         "Parturition",
+         "Lactation"
+      ],
+      "answer": "Reproduction"
+    },
+    {
+      "number": 47,
+      "question": "Which farm animal is mostly associated with the phenomenon called Corpophagy?",
+      "options": [
+         "Sheep",
+         "Rabbit",
+         "Lion",
+         "Chicken"
+      ],
+      "answer": "Rabbit"
+    },
+    {
+      "number": 48,
+      "question": "……is part of the process of Regurgitation in Ruminants.",
+      "options": [
+         "Chewing the cud",
+         "Grazing on grasses",
+         "Corpophagy",
+         "Mounting"
+      ],
+      "answer": "Chewing the cud"
+    },
+    {
+      "number": 49,
+      "question": "Farm animals mostly used for communication is",
+      "options": [
+         "Kite",
+         "Mouse",
+         "Pigeon",
+         "Eagle"
+      ],
+      "answer": "Pigeon"
+    },
+    {
+      "number": 50,
+      "question": "The most common farm animals based in the Eastern part of Nigeria are",
+      "options": [
+         "Cattle and Fish",
+         "Sheep and Fish",
+         "Donkey and horse",
+         "Goat and Chicken"
+      ],
+      "answer": "Goat and Chicken"
+    }
+  ]
