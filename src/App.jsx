@@ -20,13 +20,13 @@ const [hasStarted, setHasStarted] = useState(false);
 
 // This is for shuffling of questions
 // Use this when you want to shuffle the questions
-// useEffect(() => {
-//   const randomized = shuffleArray(questionsData).map((q) => ({
-//     ...q,
-//     options: shuffleArray(q.options),
-//   }));
-//   setQuestions(randomized);
-// }, []);
+useEffect(() => {
+  const randomized = shuffleArray(questionsData).map((q) => ({
+    ...q,
+    options: shuffleArray(q.options),
+  }));
+  setQuestions(randomized);
+}, []);
 
 // Shuffling of questions ends here
 
@@ -37,14 +37,14 @@ const [hasStarted, setHasStarted] = useState(false);
 
   
   // Use this when you don't want to randomized the questions and options
-  useEffect(() => {
-    setQuestions(questionsData);
+  // useEffect(() => {
+  //   setQuestions(questionsData);
   
-    const savedAnswers = localStorage.getItem("cbt-answers");
-    const savedIndex = localStorage.getItem("cbt-current-index");
-    if (savedAnswers) setAnswers(JSON.parse(savedAnswers));
-    if (savedIndex) setCurrentQIndex(Number(savedIndex));
-  }, []);
+  //   const savedAnswers = localStorage.getItem("cbt-answers");
+  //   const savedIndex = localStorage.getItem("cbt-current-index");
+  //   if (savedAnswers) setAnswers(JSON.parse(savedAnswers));
+  //   if (savedIndex) setCurrentQIndex(Number(savedIndex));
+  // }, []);
 
   // modified ends
 
