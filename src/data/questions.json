@@ -206,7 +206,7 @@
          "pigs",
          "poultry"
       ],
-      "answer": "pigs"
+      "answer": "rabbits"
     },
     {
       "number": 20,
@@ -335,7 +335,7 @@
       "options": [
          "Horns",
          "feathers",
-         "dung and manur",
+         "dung and manure",
          "Aves"
       ],
       "answer": "Aves"
