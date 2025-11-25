@@ -1,552 +1,554 @@
 [
     {
       "number": 1,
-      "question": "The science and art of producing and keeping livestock is __",
+      "question": "The purpose of Physical and Health Education provides the individuals the opportunity to develop in all but ______.",
       "options": [
-         "Animal health",
-         "regurgitation",
-         "Animal husbandry",
-         "livestock"
+         "spiritual growth",
+         "physical",
+         "mental",
+         "emotional"
       ],
-      "answer": "Animal husbandry"
+      "answer": "spiritual growth"
     },
     {
       "number": 2,
-      "question": "___ are feeds that have crude fibre content in high quantity",
+      "question": "The ability to do your daily activities without fatigue and still have reserve energy is ______.",
       "options": [
-         "minerals",
-         "Roughages",
-         "fibre",
-         "silage"
+         "physical fitness",
+         "physical strength",
+         "physical appearance",
+         "physical power"
       ],
-      "answer": "Roughages"
+      "answer": "physical fitness"
     },
     {
       "number": 3,
-      "question": "The third stomach of a ruminant animal is the __",
+      "question": "______ are activities such as sports and exercise which people need physical power to compete in",
       "options": [
-         "rumen",
-         "omasum",
-         "abomasum",
-         "reticulum"
+         "Athletics",
+         "Events",
+         "Occasion",
+         "Rally"
       ],
-      "answer": "omasum"
+      "answer": "Athletics"
     },
     {
       "number": 4,
-      "question": "A male cattle is called ____",
+      "question": "All track events are performed in _______.",
       "options": [
-         "capon",
-         "cock",
-         "cow",
-         "bull"
+         "lanes",
+         "field",
+         "school",
+         "church"
       ],
-      "answer": "bull"
+      "answer": "lanes"
     },
     {
       "number": 5,
-      "question": "The waste product from domestic fowl/bird is called___",
+      "question": "Running is an example of _____ event.",
       "options": [
-         "faeces",
-         "dung",
-         "fertilizer",
-         "wood shaven"
+         "track",
+         "field",
+         "sport",
+         "all of the above"
       ],
-      "answer": "dung"
+      "answer": "track"
     },
     {
       "number": 6,
-      "question": "Animals which chew the cud are ___",
+      "question": "All field events are performed in_______.",
       "options": [
-         "ruminants",
-         "reptiles",
-         "non-ruminant",
-         "amphibians"
+         "field",
+         "track",
+         "sport",
+         "all of the above"
       ],
-      "answer": "ruminants"
+      "answer": "field"
     },
     {
       "number": 7,
-      "question": "The following are economic importance of farm animals except __",
+      "question": "______ events are activities which involves jumping and throwing.",
       "options": [
-         "it serves source of feed ingredients",
-         "as source of food",
-         "as raw materials",
-         "as maintenance"
+         "Field",
+         "Track",
+         "Pole vault",
+         "Javelin"
       ],
-      "answer": "as maintenance"
+      "answer": "Field"
     },
     {
       "number": 8,
-      "question": "The following are examples of non-ruminant animals except __",
+      "question": "______ are events which are intended to cover heights.",
       "options": [
-         "domestic fowl",
-         "pig",
-         "rabbit",
-         "goat"
+         "Jumps",
+         "Throws",
+         "Race",
+         "None of the above"
       ],
-      "answer": "goat"
+      "answer": "Jumps"
     },
     {
       "number": 9,
-      "question": "The true stomach of a ruminant animal is the ___",
+      "question": "Pole vault is a field event.",
       "options": [
-         "abomasum",
-         "omasam",
-         "rumen",
-         "reticulum"
+         "True",
+         "False",
+         "at time",
+         "most times"
       ],
-      "answer": "abomasum"
+      "answer": "True"
     },
     {
       "number": 10,
-      "question": "___ is the part of alimentary canal of a fowl where grinding takes place",
+      "question": "Refuse are unwanted ________.",
       "options": [
-         "crop",
-         "gizzard",
-         "stomach",
-         "small intestine"
+         "liquid waste",
+         "solid waste",
+         "solvent waste",
+         "faeces waste"
       ],
-      "answer": "gizzard"
+      "answer": "solid waste"
     },
     {
       "number": 11,
-      "question": "The main organs of respiration are lungs, nose and bronchi except ___",
+      "question": "The following are ways that bad lifestyle affects our health except",
       "options": [
-         "gullet",
-         "trachea",
-         "larynx",
-         "heart"
+         "body abuse",
+         "discipline",
+         "unsafe sex",
+         "malnutrition"
       ],
-      "answer": "heart"
+      "answer": "discipline"
     },
     {
       "number": 12,
-      "question": "In animals ___ organ helps the excretion of waste products",
+      "question": "The elongated start is mostly used by ______ athletes.",
       "options": [
-         "small intestine",
-         "large intestine",
-         "gizzard",
-         "crop"
+         "fat",
+         "tall",
+         "short",
+         "huge"
       ],
-      "answer": "large intestine"
+      "answer": "tall"
     },
     {
       "number": 13,
-      "question": "___ is a class of food nutrients",
+      "question": "The bullet start is mostly used by _____ athletes.",
       "options": [
-         "cowpea",
-         "carbohydrate",
-         "cattle",
-         "malnutrition"
+         "tall",
+         "short",
+         "huge",
+         "fat"
       ],
-      "answer": "carbohydrate"
+      "answer": "short"
     },
     {
       "number": 14,
-      "question": "The system for removal of waste materials from the body is called __ system",
+      "question": "The medium start is mostly used by _____ athletes.",
       "options": [
-         "reproduction",
-         "excretory",
-         "digestive",
-         "nervous system"
+         "short",
+         "average",
+         "fat",
+         "huge"
       ],
-      "answer": "excretory"
+      "answer": "average"
     },
     {
       "number": 15,
-      "question": "The act of giving birth in farm animals is called ____",
+      "question": "What is a bandage used for?",
       "options": [
-         "parturition",
-         "abortion",
-         "storage",
-         "gestation"
+         "It is used to tie a wound or cut",
+         "Used as sponge for bathing",
+         "It helps to protect us from cold",
+         "It is used as a head cover"
       ],
-      "answer": "parturition"
+      "answer": "It is used to tie a wound or cut"
     },
     {
       "number": 16,
-      "question": "The following are sources of animal protein except",
+      "question": "Which of the following is not a recommended sport wear?",
       "options": [
-         "milk",
-         "egg",
-         "fish",
-         "beans"
+         "Gown",
+         "Short",
+         "Canvas and socks",
+         "Track suits"
       ],
-      "answer": "beans"
+      "answer": "Gown"
     },
     {
       "number": 17,
-      "question": "Birds store their food temporarily in the ___",
+      "question": "A relay team consist of ____ athletes.",
       "options": [
-         "gizzard",
-         "proventriculus",
-         "crop",
-         "duodenum"
+         "4",
+         "6",
+         "8",
+         "2"
       ],
-      "answer": "crop"
+      "answer": "4"
     },
     {
       "number": 18,
-      "question": "The following equipments are used in the poultry house EXCEPT",
+      "question": "Which of the following is a benefit of recreation?",
       "options": [
-         "Feeding trough",
-         "water trough",
-         "goat",
-         "bucket"
+         "Can be regarded as a job",
+         "Gives joy and satisfaction",
+         "Is performed during leisure hours",
+         "Is voluntary"
       ],
-      "answer": "goat"
+      "answer": "Gives joy and satisfaction"
     },
     {
       "number": 19,
-      "question": "Corpophagy is a phenomenon found in",
+      "question": "Which of these is not true about a warm up exercise?",
       "options": [
-         "goats",
-         "rabbits",
-         "pigs",
-         "poultry"
+         "Reduces blood circulation",
+         "Improve performance",
+         "Prevents early fatigue",
+         "Reduces incidence of injury"
       ],
-      "answer": "rabbits"
+      "answer": "Reduces blood circulation"
     },
     {
       "number": 20,
-      "question": "The four areas of the digestive tract that digestion takes place are",
+      "question": "The following are aspects of leisure activities except",
       "options": [
-         "Mouth, liver, heart & kidney",
-         "Mouth, stomach, duodenum & proventriculus",
-         "Gizzard, stomach, duodenum & small intestine",
-         "Mouth, stomach, duodenum & small intestine"
+         "fishing",
+         "gardening",
+         "reading",
+         "wrestling"
       ],
-      "answer": "Mouth, stomach, duodenum & small intestine"
+      "answer": "wrestling"
     },
     {
       "number": 21,
-      "question": "Ptyalin I am enzyme found in the",
+      "question": "Recreational activities are performed during ________.",
       "options": [
-         "duodenum",
-         "liver",
-         "saliva",
-         "blood"
+         "bed time",
+         "break period",
+         "weekend",
+         "closure time"
       ],
-      "answer": "saliva"
+      "answer": "break period"
     },
     {
       "number": 22,
-      "question": "The enzyme Amylase converts starch to",
+      "question": "The functions of the family include the provision of the following except",
       "options": [
-         "maltose",
-         "fructose",
-         "lipase",
-         "peptones"
+         "clothing",
+         "weather",
+         "food",
+         "guidance"
       ],
-      "answer": "maltose"
+      "answer": "weather"
     },
     {
       "number": 23,
-      "question": "The enzyme that converts proteins and peptones to polypeptide in the duodenum is called",
+      "question": "Desirable health practices include the following except",
       "options": [
-         "Trypsinogen",
-         "Pepsinogen",
-         "Lipase",
-         "duodenogen"
+         "adequate diet",
+         "self-medication",
+         "immunization",
+         "medical check-up"
       ],
-      "answer": "Trypsinogen"
+      "answer": "self-medication"
     },
     {
       "number": 24,
-      "question": "Which of the following types of meat is obtained from sheep?",
+      "question": "The class of food that serves as the best source of energy for athletes during training is called",
       "options": [
-         "beef",
-         "chevron",
-         "mutton",
-         "ham"
+         "mineral",
+         "carbohydrates",
+         "protein",
+         "fat & oil"
       ],
-      "answer": "mutton"
+      "answer": "fat & oil"
     },
     {
       "number": 25,
-      "question": "Which of the following birds is purposely raised for meat?",
+      "question": "The process by which the body takes in and utilizes food is called _______.",
       "options": [
-         "Broilers",
-         "Cockerels",
-         "Layers",
-         "Pullets"
+         "consumption",
+         "metabolism",
+         "digestion",
+         "nutrition"
       ],
-      "answer": "Broilers"
+      "answer": "nutrition"
     },
     {
       "number": 26,
-      "question": "An example of a non ruminant herbivore is",
+      "question": "The air that is inhaled into the body is called _______.",
       "options": [
-         "cattle",
-         "horse",
-         "pig",
-         "sheep"
+         "artificial air",
+         "fresh air",
+         "clean air",
+         "oxygen"
       ],
-      "answer": "pig"
+      "answer": "oxygen"
     },
     {
       "number": 27,
-      "question": "Which of the following products could be obtained from poultry by-products?",
+      "question": "The air that is exhaled from the body is called",
       "options": [
-         "Glue",
-         "Pillow",
-         "Sweater",
-         "Leather"
+         "concentrated air",
+         "saturated air",
+         "contaminated air",
+         "carbon dioxide"
       ],
-      "answer": "Pillow"
+      "answer": "carbon dioxide"
     },
     {
       "number": 28,
-      "question": "Which of the following processes are associated with digestion in cattle? I. Grazing II. Coprophagy III. Regurgitation",
+      "question": "The following are sources of protein except",
       "options": [
-         "I and II only",
-         "I and III only",
-         "II and III only",
-         "I, II and III"
+         "beans",
+         "fish",
+         "egg",
+         "banana"
       ],
-      "answer": "I and III only"
+      "answer": "banana"
     },
     {
       "number": 29,
-      "question": "The alimentary canals of fowl and pig end respectively as",
+      "question": "Rice, bread and yam are main sources of _______.",
       "options": [
-         "rectum & cloaca",
-         "caeca & cloaca",
-         "colon & rectum",
-         "cloaca & rectum"
+         "mineral",
+         "vitamins",
+         "protein",
+         "carbohydrates"
       ],
-      "answer": "cloaca & rectum"
+      "answer": "carbohydrates"
     },
     {
       "number": 30,
-      "question": "The process of reproduction in animals in which the embryo grows and develop within the eggs after which eggs are hatched to give rise to new offsprings is called",
+      "question": "Which of the following is an agency responsible for consumer protection in Nigeria?",
       "options": [
-         "Viviparity",
-         "Aves",
-         "oviparity",
-         "polarity"
+         "F.R.S.C",
+         "Police",
+         "Army",
+         "NAFDAC"
       ],
-      "answer": "oviparity"
+      "answer": "NAFDAC"
     },
     {
       "number": 31,
-      "question": "One of the following is not a classification of farm animals based on their uses.",
+      "question": "Which of the following prepares one for other sports?",
       "options": [
-         "Horns",
-         "feathers",
-         "dung and manure",
-         "Aves"
+         "Physical exercise",
+         "Running",
+         "Gymnastics",
+         "Studying"
       ],
-      "answer": "Aves"
+      "answer": "Physical exercise"
     },
     {
       "number": 32,
-      "question": "Which of the meat of farm animals is regarded as chevon?",
+      "question": "Which of the following recreational activities is best for an elderly person?",
       "options": [
-         "Goat",
-         "rabbit",
-         "sheep",
-         "fowl"
+         "Walking",
+         "Camping",
+         "Cycling",
+         "Swimming"
       ],
-      "answer": "Goat"
+      "answer": "Walking"
     },
     {
       "number": 33,
-      "question": "The digestion of fat and oil is aided by the ______ which is secreted by the liver and stored in the gall bladder",
+      "question": "Which of the following is an agency responsible for protection on Nigerian roads?",
       "options": [
-         "Stomach",
-         "pancreas",
-         "bile",
-         "lipase"
+         "F.R.S.C",
+         "C. P.C",
+         "Police",
+         "INEC"
       ],
-      "answer": "lipase"
+      "answer": "F.R.S.C"
     },
     {
       "number": 34,
-      "question": "_____ converts fat and oil to fatty acids and glycerol",
+      "question": "The following are branches of health education except",
       "options": [
-         "Amylase",
-         "bile",
-         "lipase",
-         "trypsinogen"
+         "community health",
+         "family planning",
+         "sex education",
+         "fundamental movement"
       ],
-      "answer": "lipase"
+      "answer": "fundamental movement"
     },
     {
       "number": 35,
-      "question": "Oxygen and water are transported around the body of farm animals through the",
+      "question": "Which of the following classes of food is stored in the body as energy reserve?",
       "options": [
-         "blood",
-         "heart",
-         "kidney",
-         "liver"
+         "Carbohydrates",
+         "Proteins",
+         "Vitamins",
+         "Fats and oil"
       ],
-      "answer": "blood"
+      "answer": "Fats and oil"
     },
     {
       "number": 36,
-      "question": "_____ is the part of the alimentary canal of fowl where grinding takes place",
+      "question": "Which of these should not be found in a first aid box?",
       "options": [
-         "crop",
-         "gizzard",
-         "stomach",
-         "small intestine"
+         "Tetracycline",
+         "Cotton wool",
+         "Plaster",
+         "Antiseptic"
       ],
-      "answer": "gizzard"
+      "answer": "Tetracycline"
     },
     {
       "number": 37,
-      "question": "Another name for Animal Husbandry is",
+      "question": "Which of the following best describes physical fitness? Ability to ______",
       "options": [
-         "Agro-Forestry",
-         "Livestock Farming",
-         "Animal Nutrition",
-         "Animal Genetics"
+         "perform work",
+         "lift heavy load",
+         "overcome stress",
+         "run very fast"
       ],
-      "answer": "Livestock Farming"
+      "answer": "perform work"
     },
     {
       "number": 38,
-      "question": "One of the following is not a part of the digestive system of a poultry.",
+      "question": "Which of these is not a source of carbohydrates?",
       "options": [
-         "Gizzard",
-         "Crop",
-         "Rumen",
-         "Small intestines"
+         "Beans",
+         "Cocoyam",
+         "Plantain",
+         "Potatoes"
       ],
-      "answer": "Rumen"
+      "answer": "Beans"
     },
     {
       "number": 39,
-      "question": "One of these farm animals is not classified as a large farm animal.",
+      "question": "The following are aims of physical education except",
       "options": [
-         "Rabbit",
-         "Goat",
-         "Cattle",
-         "Sheep"
+         "sport law",
+         "safety",
+         "leisure",
+         "motor skills"
       ],
-      "answer": "Rabbit"
+      "answer": "sport law"
     },
     {
       "number": 40,
-      "question": "Raising some farm animals like Pigs in the northern part of Nigeria will mostly be affected by ……factor.",
+      "question": "Athletics means running on _______.",
       "options": [
-         "Socio-economic",
-         "Land Use Act",
-         "Availability of Finance",
-         "None of the above"
+         "flat surface",
+         "valley",
+         "hill",
+         "none of the above"
       ],
-      "answer": "Socio-economic"
+      "answer": "flat surface"
     },
     {
       "number": 41,
-      "question": "Animal Husbandry / Livestock Farming includes the following animals EXCEPT",
+      "question": "_____ is a race consisting of four stages, which is usually run by different members of the same team.",
       "options": [
-         "Goat",
-         "Cattle",
-         "Crayfish",
-         "Poultry"
+         "100m race",
+         "200m race",
+         "sprints",
+         "relay"
       ],
-      "answer": "Crayfish"
+      "answer": "relay"
     },
     {
       "number": 42,
-      "question": "What is the primary goal of animal husbandry?",
+      "question": "The following are middle distance races except",
       "options": [
-         "To produce meat",
-         "To produce milk",
-         "To improve animal breeds",
-         "All of the above"
+         "10,000m",
+         "5,000m",
+         "800m",
+         "3,000m"
       ],
-      "answer": "All of the above"
+      "answer": "10,000m"
     },
     {
       "number": 43,
-      "question": "Which of the following is NOT a type of animal husbandry?",
+      "question": "The following are sprints races except",
       "options": [
-         "Poultry production",
-         "Fish farming",
-         "Apiculture",
-         "None of the above"
+         "1,500m",
+         "100m",
+         "4x100m",
+         "400m"
       ],
-      "answer": "None of the above"
+      "answer": "1,500m"
     },
     {
       "number": 44,
-      "question": "What is the term for the process of bringing up food from the rumen back into their mouth to chew it again, breaking down cellulose in plant material?",
+      "question": "Which of the following activities is a team event in athletics?",
       "options": [
-         "Corpophagy",
-         "Regurgitation",
-         "Digestion",
-         "Throwing–up"
+         "High jump",
+         "Long jump",
+         "Hurdles",
+         "Relay"
       ],
-      "answer": "Regurgitation"
+      "answer": "Relay"
     },
     {
       "number": 45,
-      "question": "Which of the following is a benefit of animal husbandry?",
+      "question": "HIV/AIDS can be prevented in the following ways except",
       "options": [
-         "Increased food production",
-         "source of occupation",
-         "Increased income for farmers",
-         "All of the above"
+         "abstinence from indiscriminate sex",
+         "screening of blood for transfusion",
+         "teaching of moral values",
+         "use of unsterilized syringe"
       ],
-      "answer": "All of the above"
+      "answer": "use of unsterilized syringe"
     },
     {
       "number": 46,
-      "question": "What is the name of the process by which farm animals produce young ones.",
+      "question": "HIV/AIDS can be spread through the following ways except",
       "options": [
-         "Reproduction",
-         "Breeding",
-         "Parturition",
-         "Lactation"
+         "breast feeding from infected mother",
+         "indiscriminate sex",
+         "unsterilized syringe",
+         "handshake and hugging"
       ],
-      "answer": "Reproduction"
+      "answer": "unsterilized syringe"
     },
     {
       "number": 47,
-      "question": "Which farm animal is mostly associated with the phenomenon called Corpophagy?",
+      "question": "Which of the following factors does not contribute to physical fitness?",
       "options": [
-         "Sheep",
-         "Rabbit",
-         "Lion",
-         "Chicken"
+         "Exercise",
+         "Heredity",
+         "Good nutrition",
+         "Religion"
       ],
-      "answer": "Rabbit"
+      "answer": "Religion"
     },
     {
       "number": 48,
-      "question": "……is part of the process of Regurgitation in Ruminants.",
+      "question": "Which of the following habits does not promote a healthy living?",
       "options": [
-         "Chewing the cud",
-         "Grazing on grasses",
-         "Corpophagy",
-         "Mounting"
+         "Rest and sleep",
+         "Poor environment sanitation",
+         "Personal hygiene",
+         "Regular exercise"
       ],
-      "answer": "Chewing the cud"
+      "answer": "Poor environment sanitation"
     },
     {
       "number": 49,
-      "question": "Farm animals mostly used for communication is",
+      "question": "An individual who renders an immediate assistance to an injured person is known as",
       "options": [
-         "Kite",
-         "Mouse",
-         "Pigeon",
-         "Eagle"
+         "nurse",
+         "first aider",
+         "doctor",
+         "Health Educator"
       ],
-      "answer": "Pigeon"
+      "answer": "first aider"
     },
     {
       "number": 50,
-      "question": "The most common farm animals based in the Eastern part of Nigeria are",
+      "question": "Who is a sport journalist?",
       "options": [
-         "Cattle and Fish",
-         "Sheep and Fish",
-         "Donkey and horse",
-         "Goat and Chicken"
+         "One who instructs the athletes on how to win their opponents",
+         "Sport writer that reports and analysis sports and games",
+         "An individual trained to counsel athletes",
+         "Professional who works on fractured limbs"
       ],
-      "answer": "Goat and Chicken"
+      "answer": "Sport writer that reports and analysis sports and games"
     }
   ]
+
+
