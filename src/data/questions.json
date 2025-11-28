@@ -233,6 +233,9 @@
       "answer": "Personification"
     },
     {
+  "instruction": "Answer the following questions",
+  "questions": [
+    {
       "number": 21,
       "question": "A speech made by one character alone on stage is called",
       "options": [
@@ -401,7 +404,12 @@
          "Irony"
       ],
       "answer": "Metaphor"
-    },
+    }
+  ]
+},
+{
+  "instruction": "Answer the following questions",
+  "questions": [
     {
       "number": 36,
       "question": "When a line of poetry continues without pause into the next, it is",
@@ -680,5 +688,7 @@
   ]
 }
 ]
+    }
+  ]
 
 
