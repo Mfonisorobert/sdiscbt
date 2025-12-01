@@ -1,554 +1,418 @@
- [
+[
+  {
+     "instruction": "Answer the following questions",
+      "questions": [
     {
       "number": 1,
-      "question": "What is data?",
-      "options": [
-         "Processed facts that have meaning",
-         "Raw, unprocessed facts and figures",
-         "A type of software",
-         "A form of hardware"
-      ],
-      "answer": "Raw, unprocessed facts and figures"
+      "question": "The forest zone in Nigeria that is dominated by climbing and training plants is",
+      "options": ["Coastal forest", "Guinea savanna", "Sahel savanna", "Sudan savanna"],
+      "answer": "Coastal forest"
     },
     {
       "number": 2,
-      "question": "Information is:",
-      "options": [
-         "Raw data with no context",
-         "Data that has been processed and organized meaningfully",
-         "Always numeric data",
-         "Irrelevant data"
-      ],
-      "answer": "Data that has been processed and organized meaningfully"
+      "question": "The major reason for the conversion of a piece of land into a forest reserve is to _____",
+      "options": ["Lower population", "Prevent microbial activities", "Prevent natural hazards", "Provide timber"],
+      "answer": "Provide timber"
     },
     {
       "number": 3,
-      "question": "Which of the following is an example of data?",
-      "options": [
-         "A report summarizing sales",
-         "The number 2500 in a spreadsheet",
-         "A graph showing trends",
-         "A conclusion drawn from analysis"
-      ],
-      "answer": "The number 2500 in a spreadsheet"
+      "question": "The following are effects of deforestation except that it reduces ______.",
+      "options": ["Desert encroachment", "The amount of rainfall", "The humus content of soil", "Wild life population"],
+      "answer": "Desert encroachment"
     },
     {
       "number": 4,
-      "question": "Which best describes the relationship between data and information?",
-      "options": [
-         "Data is created from information",
-         "Information is processed data",
-         "Data and information are the same",
-         "Information is raw facts"
-      ],
-      "answer": "Information is processed data"
+      "question": "When crops produced from Nigeria are exported to other countries, they attract _____.",
+      "options": ["Credit facilities", "Foreign currencies", "Foreign loan", "Import taxes"],
+      "answer": "Foreign currencies"
     },
     {
       "number": 5,
-      "question": "Which of the following transforms data into information?",
-      "options": [
-         "Input devices",
-         "Processing",
-         "Storage devices",
-         "Output devices"
-      ],
-      "answer": "Processing"
+      "question": "Which of the following factors causes low price of agricultural products in the market?",
+      "options": ["Crop failure", "Inadequate capital", "Low demand", "Low supply"],
+      "answer": "Low demand"
     },
     {
       "number": 6,
-      "question": "Which of the following is NOT a characteristic of good information?",
-      "options": [
-         "Accurate",
-         "Timely",
-         "Irrelevant",
-         "Complete"
-      ],
-      "answer": "Irrelevant"
+      "question": "When a tomato farmer informs the public through radio broadcast about his newly produced tomato paste, he is said to have _____ his produce.",
+      "options": ["Advertised", "Distributed", "Graded", "Merchandized"],
+      "answer": "Advertised"
     },
     {
       "number": 7,
-      "question": "Data can be stored in which of the following formats?",
+      "question": "Farm produce are packaged to _____.",
       "options": [
-         "Text",
-         "Images",
-         "Numbers",
-         "All of the above"
+        "ensure availability of produce where such is not found",
+        "increase the production cost of farmer",
+        "shrink and decay gradually",
+        "save the farmer the stress of moving production"
       ],
-      "answer": "All of the above"
+      "answer": "ensure availability of produce where such is not found"
     },
     {
       "number": 8,
-      "question": "Which term refers to the collection of related data stored together?",
-      "options": [
-         "Database",
-         "Network",
-         "Algorithm",
-         "Software"
-      ],
-      "answer": "Database"
+      "question": "Which of the following farm animal should be allowed to creep feed?",
+      "options": ["Chick", "Cow", "Lamb", "Nanny"],
+      "answer": "Lamb"
     },
     {
       "number": 9,
-      "question": "What is an example of qualitative data?",
+      "question": "Farm animals can be infected with diseases through the following means except",
       "options": [
-         "Temperature readings",
-         "Names of countries",
-         "Number of students",
-         "Sales figures"
+        "bites from insect vector",
+        "contact with infected droppings",
+        "feeding on contaminated materials",
+        "Inherited from parents"
       ],
-      "answer": "Names of countries"
+      "answer": "Inherited from parents"
     },
     {
       "number": 10,
-      "question": "What kind of data is typically used in decision-making processes?",
-      "options": [
-         "Raw data",
-         "Processed information",
-         "Unorganized facts",
-         "None of the above"
-      ],
-      "answer": "Processed information"
+      "question": "Which of the following disease can be transmitted to poultry by stale feed contaminated feed and water?",
+      "options": ["Anthrax", "Brucellosis", "Cocciliosis", "Rinderpest"],
+      "answer": "Cocciliosis"
     },
     {
       "number": 11,
-      "question": "What is information transmission?",
+      "question": "A poultry farmer was advised to dispose all his sick old stock and sanitize the poultry house before the arrival of his new purchase stock. What might be the reason for the advice? To",
       "options": [
-         "The process of storing data",
-         "The process of sending data from one place to another",
-         "The process of deleting data",
-         "The process of editing data"
+        "avoid pecking and cannibalism in the farm",
+        "meet up with the seasonal market demand",
+        "raise more capital for the new purchase",
+        "reduce the spread of disease in the farm"
       ],
-      "answer": "The process of sending data from one place to another"
+      "answer": "reduce the spread of disease in the farm"
     },
     {
       "number": 12,
-      "question": "Which device is commonly used to send information over a network?",
+      "question": "Viral diseases of animals are mainly controlled by _______.",
       "options": [
-         "Monitor",
-         "Router",
-         "Printer",
-         "Keyboard"
+        "breeding of resistant varieties",
+        "destruction of diseased animals",
+        "good farmhouse sanitization",
+        "isolation of disease animals"
       ],
-      "answer": "Router"
+      "answer": "destruction of diseased animals"
     },
     {
       "number": 13,
-      "question": "What is the basic unit of digital data transmission?",
+      "question": "Forest trees serve as wind break on the farm land because it _______.",
       "options": [
-         "Byte",
-         "Bit",
-         "Packet",
-         "Frame"
+        "assist in reducing evaporation of soil water",
+        "helps in preventing nutrients leaching",
+        "helps in purifying the atmospheric air",
+        "prevents wind erosion and desert encroachment"
       ],
-      "answer": "Bit"
+      "answer": "prevents wind erosion and desert encroachment"
     },
     {
       "number": 14,
-      "question": "What is the maximum distance that information can travel without degradation called?",
-      "options": [
-         "Bandwidth",
-         "Latency",
-         "Range",
-         "Transmission limit"
-      ],
-      "answer": "Range"
+      "question": "Which of these Nigeria vegetation zones has the least rainfall in the year?",
+      "options": ["Guinea savanna", "Rain forest", "Sahel savanna", "Sudan savanna"],
+      "answer": "Rain forest"
     },
     {
       "number": 15,
-      "question": "In the Shannon-Weaver model, what is the term for unwanted disturbances that affect the message during transmission?",
-      "options": [
-         "Feedback",
-         "Noise",
-         "Channel",
-         "Encoding"
-      ],
-      "answer": "Noise"
+      "question": "The vegetation zone that is most appropriate for livestock grazing is _______.",
+      "options": ["Desert", "Mangrove", "Montane", "Savanna"],
+      "answer": "Savanna"
     },
     {
       "number": 16,
-      "question": "What is data processing?",
+      "question": "Farm produce are generally preserved for the following reasons except",
       "options": [
-         "Collecting raw data only",
-         "Converting raw data into meaningful information",
-         "Storing data in a database",
-         "Printing data on paper"
+        "protection from discoloration",
+        "prevention of microbial growth",
+        "reduction of market demand",
+        "provision of planting materials"
       ],
-      "answer": "Converting raw data into meaningful information"
+      "answer": "reduction of market demand"
     },
     {
       "number": 17,
-      "question": "Which of the following is the first step in data processing?",
+      "question": "Exhibition organized to bring together produce and buyers of agricultural products and inputs is referred to as _______.",
       "options": [
-         "Data collection",
-         "Data storage",
-         "Data output",
-         "Data analysis"
+        "Agricultural symposium",
+        "Bilateral trade relationship",
+        "Multilateral trade relationship",
+        "Trade fair"
       ],
-      "answer": "Data collection"
+      "answer": "Trade fair"
     },
     {
       "number": 18,
-      "question": "What device is primarily used for data input?",
+      "question": "The task of encouraging the sales of agricultural produce outside Nigeria is the responsibility of ______.",
       "options": [
-         "Monitor",
-         "Keyboard",
-         "Printer",
-         "Speaker"
+        "association of Nigeria cooperation exports",
+        "Nigeria export promotion council",
+        "Nigeria shipper council",
+        "Nigeria stock exchange"
       ],
-      "answer": "Keyboard"
+      "answer": "Nigeria export promotion council"
     },
     {
       "number": 19,
-      "question": "Which process checks the accuracy and completeness of data?",
+      "question": "An agricultural school learners who has an ordinary National Diploma is qualified to be employed in the ministry of agriculture as",
       "options": [
-         "Data validation",
-         "Data encoding",
-         "Data storage",
-         "Data output"
+        "Agricultural superintendent",
+        "Educational officers",
+        "Graduate assistant",
+        "Research assistant"
       ],
-      "answer": "Data validation"
+      "answer": "Research assistant"
     },
     {
       "number": 20,
-      "question": "What is batch processing?",
+      "question": "If a school wishes to employ an agricultural superintendent for the upgrading of the goals in her school farm which of the following professionals will be employed?",
       "options": [
-         "Processing data one item at a time",
-         "Processing a group of data together at once",
-         "Real-time data processing",
-         "Processing data without a computer"
+        "Animal breeders",
+        "Animal health technologist",
+        "Animal nutritionist",
+        "None of the above"
       ],
-      "answer": "Processing a group of data together at once"
+      "answer": "Animal breeders"
     },
     {
       "number": 21,
-      "question": "Which type of data processing handles data immediately as it is input?",
-      "options": [
-         "Batch processing",
-         "Real-time processing",
-         "Offline processing",
-         "Manual processing"
-      ],
-      "answer": "Real-time processing"
+      "question": "When a forest is established where it has not been existing. The practice is called ______.",
+      "options": ["Afforestation", "Cultivation", "Deforestation", "Desertification"],
+      "answer": "Afforestation"
     },
     {
       "number": 22,
-      "question": "What is data storage?",
-      "options": [
-         "Entering data into the system",
-         "Saving data for future use",
-         "Printing data on paper",
-         "Deleting old data"
-      ],
-      "answer": "Saving data for future use"
+      "question": "Which of the following produce cannot be gotten from a forest reserve?",
+      "options": ["Gum", "Herb", "Resin", "Wool"],
+      "answer": "Wool"
     },
     {
       "number": 23,
-      "question": "Which of the following is an example of data output?",
+      "question": "Science and technology is applied in the following areas of agriculture except",
       "options": [
-         "Storing data on a hard drive",
-         "Displaying data on a screen",
-         "Entering data through a scanner",
-         "Validating data"
+        "development of agricultural policies",
+        "increasing crop yield",
+        "pest and disease control",
+        "reduction of unskilled labour"
       ],
-      "answer": "Displaying data on a screen"
+      "answer": "development of agricultural policies"
     },
     {
       "number": 24,
-      "question": "What is the purpose of data processing?",
+      "question": "Which of the following is not a problem of agricultural development in Nigeria?",
       "options": [
-         "To confuse the user",
-         "To convert data into useful information",
-         "To store data permanently",
-         "To delete unnecessary data"
+        "inadequate basic amenities",
+        "inadequate land",
+        "poor storage and processing facilities",
+        "provision of loan to farmers"
       ],
-      "answer": "To convert data into useful information"
+      "answer": "provision of loan to farmers"
     },
     {
       "number": 25,
-      "question": "Which of the following is NOT a method of data processing?",
-      "options": [
-         "Batch processing",
-         "Real-time processing",
-         "Manual processing",
-         "Digital encryption"
-      ],
-      "answer": "Digital encryption"
+      "question": "Swollen shoot disease cannot be transmitted through _______.",
+      "options": ["Disease stems", "Insect vector", "Mechanical inoculation", "Rain splash"],
+      "answer": "Mechanical inoculation"
     },
     {
       "number": 26,
-      "question": "What does “data encoding” mean?",
-      "options": [
-         "Converting data into a particular format for processing",
-         "Deleting data from memory",
-         "Printing data on paper",
-         "Transmitting data through a network"
-      ],
-      "answer": "Converting data into a particular format for processing"
+      "question": "The effect of crop disease on plant does not include ______.",
+      "options": ["Death of crop plants", "Increased cost of production", "Low crop yield", "Reduction of quality"],
+      "answer": "Increased cost of production"
     },
     {
       "number": 27,
-      "question": "What type of data processing system is used in ATM machines?",
-      "options": [
-         "Batch processing",
-         "Real-time processing",
-         "Manual processing",
-         "Offline processing"
-      ],
-      "answer": "Real-time processing"
+      "question": "The application of nematode on a farm land reduces damages done by nematode on _____.",
+      "options": ["Flowers", "Fruits", "Leaves", "Roots"],
+      "answer": "Roots"
     },
     {
       "number": 28,
-      "question": "Which step follows data processing in the data cycle?",
-      "options": [
-         "Data collection",
-         "Data storage",
-         "Data output",
-         "Data validation"
-      ],
-      "answer": "Data output"
+      "question": "Which of these is not a common symptom of plant disease on root?",
+      "options": ["Discolouration", "Drying", "Enlargement", "Knots"],
+      "answer": "Knots"
     },
     {
       "number": 29,
-      "question": "What is online data processing?",
-      "options": [
-         "Processing data using internet-based applications",
-         "Processing data immediately as it is entered",
-         "Processing data in groups at scheduled times",
-         "Processing data without using a computer"
-      ],
-      "answer": "Processing data immediately as it is entered"
+      "question": "Fusarium wil of tomato is caused by ______.",
+      "options": ["bacteria", "fungi", "nematode", "virus"],
+      "answer": "fungi"
     },
     {
       "number": 30,
-      "question": "Which of the following is an example of manual data processing?",
-      "options": [
-         "Calculations done by hand",
-         "Data processing using a computer",
-         "Automated billing systems",
-         "Online banking"
-      ],
-      "answer": "Calculations done by hand"
+      "question": "Tikka is a disease of ______.",
+      "options": ["banana", "cotton", "groundnut", "maize"],
+      "answer": "groundnut"
     },
     {
       "number": 31,
-      "question": "Which of these is an advantage of automated data processing?",
-      "options": [
-         "More prone to errors",
-         "Slower processing speed",
-         "Increased accuracy and efficiency",
-         "Requires more manual labor"
-      ],
-      "answer": "Increased accuracy and efficiency"
-    },
+      "question": "Which of the following is not a disease causing agent of farm animals?",
+      "options": ["Bacteria", "Fungus", "Nematode", "Protozoan"],
+      "answer": "Protozoan"
+    }
+  ]
+}, 
     {
-      "number": 32,
-      "question": "Which device is used to convert physical documents into digital data?",
-      "options": [
-         "Monitor",
-         "Scanner",
-         "Printer",
-         "Modem"
-      ],
-      "answer": "Scanner"
+     "instruction": "Use this information below to answer question 32 – 33. If 600 birds were infected by a disease organism and 400 out of the infected birds died within one week before the arrival of the veterinary doctor while the remaining 200 birds looked dull and weak.",
+      "questions": [
+        {
+          "number": 32,
+          "question": "Which of the following advices will not be given by a veterinary doctor on the husbandman?",
+          "options": [
+            "Administer drugs to the survived birds",
+            "Breed all the infected birds",
+            "Bury all the infected birds",
+            "Isolate only the infected birds"
+          ],
+          "answer": "Breed all the infected birds"
+        },
+        {
+          "number": 33,
+          "question": "Which of the following management practices could have prevented the infection in the farm from onset?",
+          "options": [
+            "Culling of the infected birds",
+            "Introduction of infected birds",
+            "Selective slaughtering of birds",
+            "Vaccination of the birds"
+          ],
+          "answer": "Vaccination of the birds"
+        }
+      ]
     },
-    {
-      "number": 33,
-      "question": "What is data validation used for in data processing?",
-      "options": [
-         "To ensure data is accurate and consistent",
-         "To store data",
-         "To delete unnecessary data",
-         "To encrypt data"
-      ],
-      "answer": "To ensure data is accurate and consistent"
-    },
-    {
+  
+   {
+     "instruction": "Answer the following questions",
+      "questions": [
+        {
       "number": 34,
-      "question": "What is the difference between data and information?",
-      "options": [
-         "Data is processed, information is raw",
-         "Data is raw, information is processed",
-         "Data and information are the same",
-         "Information is stored, data is deleted"
-      ],
-      "answer": "Data is raw, information is processed"
+      "question": "Rinderpest is referred to as ______.",
+      "options": ["Bitharzia", "Cattle plague", "Nagana", "Tick fever"],
+      "answer": "Cattle plague"
     },
     {
       "number": 35,
-      "question": "Which of the following is NOT a component of a data processing system?",
-      "options": [
-         "Input devices",
-         "Processing unit",
-         "Output devices",
-         "Web browser"
-      ],
-      "answer": "Web browser"
+      "question": "Which of the following is not a symptom of animal disease?",
+      "options": ["Abortion", "Anaemia", "Fever", "Wound"],
+      "answer": "Wound"
     },
     {
       "number": 36,
-      "question": "Who is known as the “Father of the Computer”?",
+      "question": "The practice of keeping a dipping vat at the entrance of a brooder house is done in order to",
       "options": [
-         "Alan Turing",
-         "Charles Babbage",
-         "John von Neumann",
-         "Thomas Edison"
+        "help chicks digest the feed provided",
+        "increase the number of chicks hatched",
+        "minimize the rate of feed wastage",
+        "minimize the spread of poultry disease"
       ],
-      "answer": "Charles Babbage"
+      "answer": "minimize the spread of poultry disease"
     },
     {
       "number": 37,
-      "question": "Which generation of computers used vacuum tubes?",
-      "options": [
-         "First generation",
-         "Second generation",
-         "Third generation",
-         "Fourth generation"
-      ],
-      "answer": "First generation"
+      "question": "An organism which lives on or inside of farm animal and depends on the animal for food and shelter is known as ________.",
+      "options": ["host", "insect", "parasite", "pest"],
+      "answer": "parasite"
     },
     {
       "number": 38,
-      "question": "The invention of the transistor marked the beginning of which generation of computers?",
-      "options": [
-         "First generation",
-         "Second generation",
-         "Third generation",
-         "Fifth generation"
-      ],
-      "answer": "Second generation"
+      "question": "Acaricide is used in controlling",
+      "options": ["Fleas", "Lice", "Mites", "Worms"],
+      "answer": "Mites"
     },
     {
       "number": 39,
-      "question": "Which computer is considered the first electronic general-purpose computer?",
-      "options": [
-         "ENIAC",
-         "UNIVAC",
-         "IBM 701",
-         "Apple I"
-      ],
-      "answer": "ENIAC"
+      "question": "Liver fluke is a parasite of the following animal except",
+      "options": ["Cattle", "Chicken", "Goat", "Dog"],
+      "answer": "Chicken"
     },
     {
       "number": 40,
-      "question": "What is a device in computing?",
-      "options": [
-         "A software program",
-         "A physical component used to input, output, or store data",
-         "A type of algorithm",
-         "A networking protocol"
-      ],
-      "answer": "A physical component used to input, output, or store data"
+      "question": "Which of the following farm produce cannot be processed and preserved for a long time?",
+      "options": ["Carrot", "Cowpea", "Maize", "Rice"],
+      "answer": "Carrot"
     },
     {
       "number": 41,
-      "question": "Which of the following is an input device?",
+      "question": "Criteria used in classifying farm animals include the following except",
       "options": [
-         "Monitor",
-         "Keyboard",
-         "Printer",
-         "Speaker"
+        "how they reproduce and feed their young one’s",
+        "the composition of the feed they eat",
+        "the size of their body",
+        "the type of stomach they have"
       ],
-      "answer": "Keyboard"
+      "answer": "the composition of the feed they eat"
     },
     {
       "number": 42,
-      "question": "Which device is used to display information to the user?",
-      "options": [
-         "Mouse",
-         "Monitor",
-         "Scanner",
-         "Microphone"
-      ],
-      "answer": "Monitor"
+      "question": "Which of the following workers does agriculture empower economically?",
+      "options": ["Electrician", "Orchard labourers", "Panel beaters", "Security men"],
+      "answer": "Orchard labourers"
     },
     {
       "number": 43,
-      "question": "A device that converts digital data into printed text or images is called a:",
-      "options": [
-         "Scanner",
-         "Printer",
-         "Modem",
-         "Projector"
-      ],
-      "answer": "Printer"
+      "question": "The security of farm produce in the market after each farming season can be reduces by the provision of ______.",
+      "options": ["basic amenities", "credit facilities", "farm inputs", "storage facilities"],
+      "answer": "storage facilities"
     },
     {
       "number": 44,
-      "question": "Which device is used to capture physical images and convert them into digital format?",
-      "options": [
-         "Printer",
-         "Scanner",
-         "Speaker",
-         "Keyboard"
-      ],
-      "answer": "Scanner"
+      "question": "The maintenance of high hygienic standards in agricultural marketing requires except",
+      "options": ["Assembling", "Grading", "Packaging", "Storage"],
+      "answer": "Assembling"
     },
     {
       "number": 45,
-      "question": "Which technology was used in the first generation of computers?",
-      "options": [
-         "Transistors",
-         "Vacuum tubes",
-         "Integrated circuits",
-         "Microprocessors"
-      ],
-      "answer": "Vacuum tubes"
+      "question": "Which of the following preservation methods is not used for crop produce?",
+      "options": ["Canning", "Milking", "Pickling", "Sugaring"],
+      "answer": "Milking"
     },
     {
       "number": 46,
-      "question": "The second generation of computers primarily used:",
+      "question": "Use the information: A group of Akoko community women pooled their resources together in order to purchase and process palm nut oil for export. They later agreed after two years to continue as a formal association in the business dually registered.\nWhat type of cooperative will the Akoko community women association be referred to?",
       "options": [
-         "Vacuum tubes",
-         "Transistors",
-         "Integrated circuits",
-         "Microprocessors"
+        "Consumer’s cooperative",
+        "Credit and thrift cooperative",
+        "Exporters cooperative",
+        "Producers’ cooperative"
       ],
-      "answer": "Transistors"
+      "answer": "Producers’ cooperative"
     },
     {
       "number": 47,
-      "question": "_____ deals with voice or sound only",
+      "question": "Which of the following aims will not be in the interest of the newly formed Akoko community cooperatives? To",
       "options": [
-         "Audio",
-         "Music",
-         "Digital",
-         "visual"
+        "achieve a better price for palm nut oil",
+        "attain the groups set goals and objectives",
+        "divert the cooperative resources",
+        "facilitate production of quality palm nut oil"
       ],
-      "answer": "visual"
+      "answer": "divert the cooperative resources"
     },
     {
       "number": 48,
-      "question": "Which generation of computers made use of keyboards and monitors for input and output?",
+      "question": "Which of the following is not a quality of a good agricultural cooperative number?",
       "options": [
-         "First generation",
-         "Second generation",
-         "Third generation",
-         "Fourth generation"
+        "Ability to mobilize resources",
+        "Financial management skills",
+        "Good communication skills",
+        "Self-centered attitude"
       ],
-      "answer": "Third generation"
+      "answer": "Self-centered attitude"
     },
     {
       "number": 49,
-      "question": "Which generation of computers was the largest in size and consumed a lot of electricity?",
+      "question": "The following are ways of managing agricultural cooperative except",
       "options": [
-         "First generation",
-         "Third generation",
-         "Fourth generation",
-         "Fifth generation"
+        "allowing full participation of members",
+        "controlling members democratically",
+        "developing business plan",
+        "having concern for community"
       ],
-      "answer": "First generation"
+      "answer": "controlling members democratically"
     },
     {
       "number": 50,
-      "question": "Which generation of computers made use of keyboards and monitors for input and output?",
-      "options": [
-         "First generation",
-         "Second generation",
-         "Third generation",
-         "Fourth generation"
-      ],
-      "answer": "Third generation"
+      "question": "A market with only one seller is referred to as",
+      "options": ["Duopoly", "Duopsony", "Monopoly", "Oligopoly"],
+      "answer": "Monopoly"
     }
   ]
-
-
+}
+]
