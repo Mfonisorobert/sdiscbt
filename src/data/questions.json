@@ -69,8 +69,8 @@
     {
       "number": 10,
       "question": "Which of the following disease can be transmitted to poultry by stale feed contaminated feed and water?",
-      "options": ["Anthrax", "Brucellosis", "Cocciliosis", "Rinderpest"],
-      "answer": "Cocciliosis"
+      "options": ["Anthrax", "Brucellosis", "Coccidiosis", "Rinderpest"],
+      "answer": "Coccidiosis"
     },
     {
       "number": 11,
@@ -347,7 +347,7 @@
     },
     {
       "number": 43,
-      "question": "The security of farm produce in the market after each farming season can be reduces by the provision of ______.",
+      "question": "The security of farm produce in the market after each farming season can be reduce by the provision of ______.",
       "options": ["basic amenities", "credit facilities", "farm inputs", "storage facilities"],
       "answer": "storage facilities"
     },
