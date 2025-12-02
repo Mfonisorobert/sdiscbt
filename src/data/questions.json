@@ -1,418 +1,52 @@
 [
-  {
-     "instruction": "Answer the following questions",
-      "questions": [
-    {
-      "number": 1,
-      "question": "The forest zone in Nigeria that is dominated by climbing and training plants is",
-      "options": ["Coastal forest", "Guinea savanna", "Sahel savanna", "Sudan savanna"],
-      "answer": "Coastal forest"
-    },
-    {
-      "number": 2,
-      "question": "The major reason for the conversion of a piece of land into a forest reserve is to _____",
-      "options": ["Lower population", "Prevent microbial activities", "Prevent natural hazards", "Provide timber"],
-      "answer": "Provide timber"
-    },
-    {
-      "number": 3,
-      "question": "The following are effects of deforestation except that it reduces ______.",
-      "options": ["Desert encroachment", "The amount of rainfall", "The humus content of soil", "Wild life population"],
-      "answer": "Desert encroachment"
-    },
-    {
-      "number": 4,
-      "question": "When crops produced from Nigeria are exported to other countries, they attract _____.",
-      "options": ["Credit facilities", "Foreign currencies", "Foreign loan", "Import taxes"],
-      "answer": "Foreign currencies"
-    },
-    {
-      "number": 5,
-      "question": "Which of the following factors causes low price of agricultural products in the market?",
-      "options": ["Crop failure", "Inadequate capital", "Low demand", "Low supply"],
-      "answer": "Low demand"
-    },
-    {
-      "number": 6,
-      "question": "When a tomato farmer informs the public through radio broadcast about his newly produced tomato paste, he is said to have _____ his produce.",
-      "options": ["Advertised", "Distributed", "Graded", "Merchandized"],
-      "answer": "Advertised"
-    },
-    {
-      "number": 7,
-      "question": "Farm produce are packaged to _____.",
-      "options": [
-        "ensure availability of produce where such is not found",
-        "increase the production cost of farmer",
-        "shrink and decay gradually",
-        "save the farmer the stress of moving production"
-      ],
-      "answer": "ensure availability of produce where such is not found"
-    },
-    {
-      "number": 8,
-      "question": "Which of the following farm animal should be allowed to creep feed?",
-      "options": ["Chick", "Cow", "Lamb", "Nanny"],
-      "answer": "Lamb"
-    },
-    {
-      "number": 9,
-      "question": "Farm animals can be infected with diseases through the following means except",
-      "options": [
-        "bites from insect vector",
-        "contact with infected droppings",
-        "feeding on contaminated materials",
-        "Inherited from parents"
-      ],
-      "answer": "Inherited from parents"
-    },
-    {
-      "number": 10,
-      "question": "Which of the following disease can be transmitted to poultry by stale feed contaminated feed and water?",
-      "options": ["Anthrax", "Brucellosis", "Coccidiosis", "Rinderpest"],
-      "answer": "Coccidiosis"
-    },
-    {
-      "number": 11,
-      "question": "A poultry farmer was advised to dispose all his sick old stock and sanitize the poultry house before the arrival of his new purchase stock. What might be the reason for the advice? To",
-      "options": [
-        "avoid pecking and cannibalism in the farm",
-        "meet up with the seasonal market demand",
-        "raise more capital for the new purchase",
-        "reduce the spread of disease in the farm"
-      ],
-      "answer": "reduce the spread of disease in the farm"
-    },
-    {
-      "number": 12,
-      "question": "Viral diseases of animals are mainly controlled by _______.",
-      "options": [
-        "breeding of resistant varieties",
-        "destruction of diseased animals",
-        "good farmhouse sanitization",
-        "isolation of disease animals"
-      ],
-      "answer": "destruction of diseased animals"
-    },
-    {
-      "number": 13,
-      "question": "Forest trees serve as wind break on the farm land because it _______.",
-      "options": [
-        "assist in reducing evaporation of soil water",
-        "helps in preventing nutrients leaching",
-        "helps in purifying the atmospheric air",
-        "prevents wind erosion and desert encroachment"
-      ],
-      "answer": "prevents wind erosion and desert encroachment"
-    },
-    {
-      "number": 14,
-      "question": "Which of these Nigeria vegetation zones has the least rainfall in the year?",
-      "options": ["Guinea savanna", "Rain forest", "Sahel savanna", "Sudan savanna"],
-      "answer": "Rain forest"
-    },
-    {
-      "number": 15,
-      "question": "The vegetation zone that is most appropriate for livestock grazing is _______.",
-      "options": ["Desert", "Mangrove", "Montane", "Savanna"],
-      "answer": "Savanna"
-    },
-    {
-      "number": 16,
-      "question": "Farm produce are generally preserved for the following reasons except",
-      "options": [
-        "protection from discoloration",
-        "prevention of microbial growth",
-        "reduction of market demand",
-        "provision of planting materials"
-      ],
-      "answer": "reduction of market demand"
-    },
-    {
-      "number": 17,
-      "question": "Exhibition organized to bring together produce and buyers of agricultural products and inputs is referred to as _______.",
-      "options": [
-        "Agricultural symposium",
-        "Bilateral trade relationship",
-        "Multilateral trade relationship",
-        "Trade fair"
-      ],
-      "answer": "Trade fair"
-    },
-    {
-      "number": 18,
-      "question": "The task of encouraging the sales of agricultural produce outside Nigeria is the responsibility of ______.",
-      "options": [
-        "association of Nigeria cooperation exports",
-        "Nigeria export promotion council",
-        "Nigeria shipper council",
-        "Nigeria stock exchange"
-      ],
-      "answer": "Nigeria export promotion council"
-    },
-    {
-      "number": 19,
-      "question": "An agricultural school learners who has an ordinary National Diploma is qualified to be employed in the ministry of agriculture as",
-      "options": [
-        "Agricultural superintendent",
-        "Educational officers",
-        "Graduate assistant",
-        "Research assistant"
-      ],
-      "answer": "Research assistant"
-    },
-    {
-      "number": 20,
-      "question": "If a school wishes to employ an agricultural superintendent for the upgrading of the goals in her school farm which of the following professionals will be employed?",
-      "options": [
-        "Animal breeders",
-        "Animal health technologist",
-        "Animal nutritionist",
-        "None of the above"
-      ],
-      "answer": "Animal breeders"
-    },
-    {
-      "number": 21,
-      "question": "When a forest is established where it has not been existing. The practice is called ______.",
-      "options": ["Afforestation", "Cultivation", "Deforestation", "Desertification"],
-      "answer": "Afforestation"
-    },
-    {
-      "number": 22,
-      "question": "Which of the following produce cannot be gotten from a forest reserve?",
-      "options": ["Gum", "Herb", "Resin", "Wool"],
-      "answer": "Wool"
-    },
-    {
-      "number": 23,
-      "question": "Science and technology is applied in the following areas of agriculture except",
-      "options": [
-        "development of agricultural policies",
-        "increasing crop yield",
-        "pest and disease control",
-        "reduction of unskilled labour"
-      ],
-      "answer": "development of agricultural policies"
-    },
-    {
-      "number": 24,
-      "question": "Which of the following is not a problem of agricultural development in Nigeria?",
-      "options": [
-        "inadequate basic amenities",
-        "inadequate land",
-        "poor storage and processing facilities",
-        "provision of loan to farmers"
-      ],
-      "answer": "provision of loan to farmers"
-    },
-    {
-      "number": 25,
-      "question": "Swollen shoot disease cannot be transmitted through _______.",
-      "options": ["Disease stems", "Insect vector", "Mechanical inoculation", "Rain splash"],
-      "answer": "Mechanical inoculation"
-    },
-    {
-      "number": 26,
-      "question": "The effect of crop disease on plant does not include ______.",
-      "options": ["Death of crop plants", "Increased cost of production", "Low crop yield", "Reduction of quality"],
-      "answer": "Increased cost of production"
-    },
-    {
-      "number": 27,
-      "question": "The application of nematode on a farm land reduces damages done by nematode on _____.",
-      "options": ["Flowers", "Fruits", "Leaves", "Roots"],
-      "answer": "Roots"
-    },
-    {
-      "number": 28,
-      "question": "Which of these is not a common symptom of plant disease on root?",
-      "options": ["Discolouration", "Drying", "Enlargement", "Knots"],
-      "answer": "Knots"
-    },
-    {
-      "number": 29,
-      "question": "Fusarium wil of tomato is caused by ______.",
-      "options": ["bacteria", "fungi", "nematode", "virus"],
-      "answer": "fungi"
-    },
-    {
-      "number": 30,
-      "question": "Tikka is a disease of ______.",
-      "options": ["banana", "cotton", "groundnut", "maize"],
-      "answer": "groundnut"
-    },
-    {
-      "number": 31,
-      "question": "Which of the following is not a disease causing agent of farm animals?",
-      "options": ["Bacteria", "Fungus", "Nematode", "Protozoan"],
-      "answer": "Protozoan"
-    }
+    {"number":1,"question":"The process by which wind lifts and removes loose particles from the ground is called:","options":["Abrasion","Deflation","Attrition","Solution"],"answer":"Deflation"},
+    {"number":2,"question":"Wind erodes land surfaces mainly by:","options":["Flooding","Evaporation","Abrasion and deflation","Condensation"],"answer":"Abrasion and deflation"},
+    {"number":3,"question":"Which of the following is NOT a desert?","options":["Sahara","Kalahari","Amazon","Gobi"],"answer":"Amazon"},
+    {"number":4,"question":"The largest hot desert in the world is:","options":["Arabian Desert","Sahara Desert","Kalahari Desert","Gobi Desert"],"answer":"Sahara Desert"},
+    {"number":5,"question":"Deserts generally receive rainfall of:","options":["Above 200 cm","Below 25 cm","50–80 cm","100–150 cm"],"answer":"Below 25 cm"},
+    {"number":6,"question":"Which of the following is a characteristic of deserts?","options":["High rainfall","Sparse vegetation","Thick forests","Ice cover"],"answer":"Sparse vegetation"},
+    {"number":7,"question":"A hot desert is usually located:","options":["Near the poles","Along the equator","Between 15° and 30° North and South","On mountain peaks"],"answer":"Between 15° and 30° North and South"},
+    {"number":8,"question":"The Gobi Desert is an example of a:","options":["Hot desert","Cold desert","Temperate desert","Coastal desert"],"answer":"Cold desert"},
+    {"number":9,"question":"A glacier is:","options":["A frozen river of ice","A dry river bed","A lake formed in mountains","A sand dune region"],"answer":"A frozen river of ice"},
+    {"number":10,"question":"The end part of a glacier where melting occurs is known as:","options":["Snout","Crevasse","Moraine","Cirque"],"answer":"Snout"},
+    {"number":11,"question":"Erosion by glaciers is mainly caused by:","options":["Solution","Plucking and abrasion","Condensation","Weathering alone"],"answer":"Plucking and abrasion"},
+    {"number":12,"question":"The bowl-shaped depression carved by a glacier is called:","options":["Drumlin","Cirque","Kame","Boulder"],"answer":"Cirque"},
+    {"number":13,"question":"Climate refers to:","options":["Daily atmospheric conditions","Long-term average weather conditions","Sudden rainfall pattern","Weekly temperature change"],"answer":"Long-term average weather conditions"},
+    {"number":14,"question":"The climate classification mostly used today was developed by:","options":["Gutenberg","Wegener","Köppen","Darwin"],"answer":"Köppen"},
+    {"number":15,"question":"Hot climatic regions are usually found:","options":["Near the poles","In tropical regions","In temperate zones","In mountain regions"],"answer":"In tropical regions"},
+    {"number":16,"question":"A key characteristic of hot climate is:","options":["Very low temperature","High temperature throughout the year","Permanent ice cover","Frequent snowfall"],"answer":"High temperature throughout the year"},
+    {"number":17,"question":"Cold climates are found mainly:","options":["Near the equator","At high altitudes and polar regions","Along coastlines","In deserts only"],"answer":"At high altitudes and polar regions"},
+    {"number":18,"question":"A major characteristic of cold climates is:","options":["Heavy rainfall","Sparse population","Thick forests","High humidity"],"answer":"Sparse population"},
+    {"number":19,"question":"Desert climates are generally characterized by:","options":["High humidity and cloud cover","Hot days and very cold nights","Heavy rainfall all year","Permanent snow cover"],"answer":"Hot days and very cold nights"},
+    {"number":20,"question":"Vegetation in desert climate is best described as:","options":["Tropical rainforest","Grassland","Xerophyte vegetation","Mangroves"],"answer":"Xerophyte vegetation"},
+    {"number":21,"question":"Which process refers to the wearing away of the river channel by running water?","options":["Transportation","Erosion","Deposition","Suspension"],"answer":"Erosion"},
+    {"number":22,"question":"The upper course of a river is also known as the:","options":["Old stage","Mature stage","Young stage","Depositional stage"],"answer":"Young stage"},
+    {"number":23,"question":"Which of the following is a main action of running water?","options":["Condensation","Erosion","Melting","Radiation"],"answer":"Erosion"},
+    {"number":24,"question":"The process by which a river transports dissolved minerals is called:","options":["Traction","Saltation","Solution","Suspension"],"answer":"Solution"},
+    {"number":25,"question":"In the upper course of a river, the dominant process is:","options":["Deposition","Erosion","Transportation","Meandering"],"answer":"Erosion"},
+    {"number":26,"question":"Which of the following features is commonly found in the upper course of a river?","options":["Delta","Meander","V-shaped valley","Floodplain"],"answer":"V-shaped valley"},
+    {"number":27,"question":"The process where small stones bounce along the riverbed is known as:","options":["Traction","Saltation","Suspension","Solution"],"answer":"Saltation"},
+    {"number":28,"question":"The middle course of a river is characterized mainly by:","options":["Vertical erosion","Lateral erosion and transportation","Deposition only","Glacial activity"],"answer":"Lateral erosion and transportation"},
+    {"number":29,"question":"Which feature is associated with the middle course of a river?","options":["Rapids","Waterfalls","Meanders","Interlocking spurs"],"answer":"Meanders"},
+    {"number":30,"question":"The flat land formed by a river along its middle and lower course is called:","options":["Floodplain","Gorge","Canyon"],"answer":"Floodplain"},
+    {"number":31,"question":"Environmental resources refer to:","options":["Only mineral deposits beneath the earth","All natural materials useful to humans","Man-made tools and machines","Resources found only in industries"],"answer":"All natural materials useful to humans"},
+    {"number":32,"question":"Which of the following is a renewable resource?","options":["Crude oil","Coal","Forest","Natural gas"],"answer":"Forest"},
+    {"number":33,"question":"Resources that cannot be replaced once exhausted are called:","options":["Renewable resources","Non-renewable resources","Recyclable resources","Permanent resources"],"answer":"Non-renewable resources"},
+    {"number":34,"question":"Which of the following is an example of a non-renewable resource?","options":["Solar energy","Water","Petroleum","Wind"],"answer":"Petroleum"},
+    {"number":35,"question":"Solar and wind energy are classified as renewable because they:","options":["Are used only in industries","Can be replaced naturally","Are found only in developed countries","Occur in limited quantity"],"answer":"Can be replaced naturally"},
+    {"number":36,"question":"The excessive cutting down of trees without replacement is known as:","options":["Afforestation","Deforestation","Regeneration","Mulching"],"answer":"Deforestation"},
+    {"number":37,"question":"Which of the following activities commonly leads to soil erosion?","options":["Crop rotation","Overgrazing","Mixed farming","Irrigation"],"answer":"Overgrazing"},
+    {"number":38,"question":"One major consequence of deforestation is:","options":["Increase in soil fertility","Decrease in rate of evaporation","Loss of wildlife habitat","Formation of glaciers"],"answer":"Loss of wildlife habitat"},
+    {"number":39,"question":"Which of the following is a major cause of environmental pollution?","options":["Recycling of materials","Industrial emissions","Proper waste disposal","Water purification"],"answer":"Industrial emissions"},
+    {"number":40,"question":"The contamination of water bodies by human waste and industrial discharge is known as:","options":["Water pollution","Land reclamation","Water harvesting","Condensation"],"answer":"Water pollution"},
+    {"number":41,"question":"The thinning of the ozone layer is mainly caused by:","options":["Oxygen gas","Chlorofluorocarbons (CFCs)","Nitrogen gas","Water vapour"],"answer":"Chlorofluorocarbons (CFCs)"},
+    {"number":42,"question":"Global warming is best described as:","options":["A decrease in atmospheric humidity","A rise in the average temperature of the earth","The movement of warm winds across the globe","The decrease in population of marine animals"],"answer":"A rise in the average temperature of the earth"},
+    {"number":43,"question":"Which of the following is a human-induced environmental problem?","options":["Earthquake","Volcanic eruption","Oil spillage","Tidal wave"],"answer":"Oil spillage"},
+    {"number":44,"question":"Acid rain is formed when rainwater mixes with:","options":["Oxygen","Carbon dioxide and sulfur compounds","Nitrogen gas","Helium gas"],"answer":"Carbon dioxide and sulfur compounds"},
+    {"number":45,"question":"The improper dumping of refuse in public places leads to:","options":["Improved sanitation","Air and land pollution","Soil conservation","Population decrease"],"answer":"Air and land pollution"},
+    {"number":46,"question":"A major effect of overgrazing is:","options":["Desertification","Soil enrichment","Rainfall increase","Reforestation"],"answer":"Desertification"},
+    {"number":47,"question":"Which of the following is a method of conserving renewable resources?","options":["Burning forests","Over-cultivation","Reforestation","Oil drilling"],"answer":"Reforestation"},
+    {"number":48,"question":"Non-renewable resources are best managed by:","options":["Wasting them to increase production","Recycling and controlled usage","Cutting down trees in large amounts","Encouraging bush burning"],"answer":"Recycling and controlled usage"},
+    {"number":49,"question":"One of the major causes of climate change is:","options":["Increased use of renewable energy","Excessive burning of fossil fuels","Reforestation projects","Ocean preservation"],"answer":"Excessive burning of fossil fuels"},
+    {"number":50,"question":"Which of the following supports the sustainable use of the environment?","options":["Pollution of rivers","Conservation of natural resources","Building on farmlands","Overfishing"],"answer":"Conservation of natural resources"}
   ]
-}, 
-    {
-     "instruction": "Use this information below to answer question 32 – 33. If 600 birds were infected by a disease organism and 400 out of the infected birds died within one week before the arrival of the veterinary doctor while the remaining 200 birds looked dull and weak.",
-      "questions": [
-        {
-          "number": 32,
-          "question": "Which of the following advices will not be given by a veterinary doctor on the husbandman?",
-          "options": [
-            "Administer drugs to the survived birds",
-            "Breed all the infected birds",
-            "Bury all the infected birds",
-            "Isolate only the infected birds"
-          ],
-          "answer": "Breed all the infected birds"
-        },
-        {
-          "number": 33,
-          "question": "Which of the following management practices could have prevented the infection in the farm from onset?",
-          "options": [
-            "Culling of the infected birds",
-            "Introduction of infected birds",
-            "Selective slaughtering of birds",
-            "Vaccination of the birds"
-          ],
-          "answer": "Vaccination of the birds"
-        }
-      ]
-    },
-  
-   {
-     "instruction": "Answer the following questions",
-      "questions": [
-        {
-      "number": 34,
-      "question": "Rinderpest is referred to as ______.",
-      "options": ["Bitharzia", "Cattle plague", "Nagana", "Tick fever"],
-      "answer": "Cattle plague"
-    },
-    {
-      "number": 35,
-      "question": "Which of the following is not a symptom of animal disease?",
-      "options": ["Abortion", "Anaemia", "Fever", "Wound"],
-      "answer": "Wound"
-    },
-    {
-      "number": 36,
-      "question": "The practice of keeping a dipping vat at the entrance of a brooder house is done in order to",
-      "options": [
-        "help chicks digest the feed provided",
-        "increase the number of chicks hatched",
-        "minimize the rate of feed wastage",
-        "minimize the spread of poultry disease"
-      ],
-      "answer": "minimize the spread of poultry disease"
-    },
-    {
-      "number": 37,
-      "question": "An organism which lives on or inside of farm animal and depends on the animal for food and shelter is known as ________.",
-      "options": ["host", "insect", "parasite", "pest"],
-      "answer": "parasite"
-    },
-    {
-      "number": 38,
-      "question": "Acaricide is used in controlling",
-      "options": ["Fleas", "Lice", "Mites", "Worms"],
-      "answer": "Mites"
-    },
-    {
-      "number": 39,
-      "question": "Liver fluke is a parasite of the following animal except",
-      "options": ["Cattle", "Chicken", "Goat", "Dog"],
-      "answer": "Chicken"
-    },
-    {
-      "number": 40,
-      "question": "Which of the following farm produce cannot be processed and preserved for a long time?",
-      "options": ["Carrot", "Cowpea", "Maize", "Rice"],
-      "answer": "Carrot"
-    },
-    {
-      "number": 41,
-      "question": "Criteria used in classifying farm animals include the following except",
-      "options": [
-        "how they reproduce and feed their young one’s",
-        "the composition of the feed they eat",
-        "the size of their body",
-        "the type of stomach they have"
-      ],
-      "answer": "the composition of the feed they eat"
-    },
-    {
-      "number": 42,
-      "question": "Which of the following workers does agriculture empower economically?",
-      "options": ["Electrician", "Orchard labourers", "Panel beaters", "Security men"],
-      "answer": "Orchard labourers"
-    },
-    {
-      "number": 43,
-      "question": "The security of farm produce in the market after each farming season can be reduce by the provision of ______.",
-      "options": ["basic amenities", "credit facilities", "farm inputs", "storage facilities"],
-      "answer": "storage facilities"
-    },
-    {
-      "number": 44,
-      "question": "The maintenance of high hygienic standards in agricultural marketing requires except",
-      "options": ["Assembling", "Grading", "Packaging", "Storage"],
-      "answer": "Assembling"
-    },
-    {
-      "number": 45,
-      "question": "Which of the following preservation methods is not used for crop produce?",
-      "options": ["Canning", "Milking", "Pickling", "Sugaring"],
-      "answer": "Milking"
-    },
-    {
-      "number": 46,
-      "question": "Use the information: A group of Akoko community women pooled their resources together in order to purchase and process palm nut oil for export. They later agreed after two years to continue as a formal association in the business dually registered.\nWhat type of cooperative will the Akoko community women association be referred to?",
-      "options": [
-        "Consumer’s cooperative",
-        "Credit and thrift cooperative",
-        "Exporters cooperative",
-        "Producers’ cooperative"
-      ],
-      "answer": "Producers’ cooperative"
-    },
-    {
-      "number": 47,
-      "question": "Which of the following aims will not be in the interest of the newly formed Akoko community cooperatives? To",
-      "options": [
-        "achieve a better price for palm nut oil",
-        "attain the groups set goals and objectives",
-        "divert the cooperative resources",
-        "facilitate production of quality palm nut oil"
-      ],
-      "answer": "divert the cooperative resources"
-    },
-    {
-      "number": 48,
-      "question": "Which of the following is not a quality of a good agricultural cooperative number?",
-      "options": [
-        "Ability to mobilize resources",
-        "Financial management skills",
-        "Good communication skills",
-        "Self-centered attitude"
-      ],
-      "answer": "Self-centered attitude"
-    },
-    {
-      "number": 49,
-      "question": "The following are ways of managing agricultural cooperative except",
-      "options": [
-        "allowing full participation of members",
-        "controlling members democratically",
-        "developing business plan",
-        "having concern for community"
-      ],
-      "answer": "controlling members democratically"
-    },
-    {
-      "number": 50,
-      "question": "A market with only one seller is referred to as",
-      "options": ["Duopoly", "Duopsony", "Monopoly", "Oligopoly"],
-      "answer": "Monopoly"
-    }
-  ]
-}
-]
