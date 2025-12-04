@@ -1,52 +1,302 @@
- [
-    {"number":1,"question":"A clerk who handles financial records in an office is called __________.","options":["Typist","Accounts clerk","Receptionist","Office assistant"],"answer":"Accounts clerk"},
-    {"number":2,"question":"The right attitude to work can lead to __________.","options":["Unemployment","Promotion and success","Dismissal","Laziness"],"answer":"Promotion and success"},
-    {"number":3,"question":"The Accounts Department is responsible for __________.","options":["Keeping financial records","Advertising goods","Recruiting workers","Maintaining machines"],"answer":"Keeping financial records"},
-    {"number":4,"question":"An office is a place where __________.","options":["Raw materials are produced","Administrative work is done","Goods are stored","Customers are entertained"],"answer":"Administrative work is done"},
-    {"number":5,"question":"The part of Business Studies that deals with record keeping is called ________.","options":["Office practice","Book-keeping","Commerce","Shorthand"],"answer":"Book-keeping"},
-    {"number":6,"question":"Which of these is not a quality of a good clerical staff?","options":["Punctuality","Carelessness","Honesty","Accuracy"],"answer":"Carelessness"},
-    {"number":7,"question":"A worker who takes care of office property is said to be __________.","options":["Careless","Honest","Wasteful","Irresponsible"],"answer":"Honest"},
-    {"number":8,"question":"Which department is responsible for recruiting and training staff?","options":["Sales Department","Personnel Department","Accounts Department","Production Department"],"answer":"Personnel Department"},
-    {"number":9,"question":"The main aim of every business is to __________.","options":["Render services only","Make profit","Employ people","Pay tax"],"answer":"Make profit"},
-    {"number":10,"question":"One of the main responsibilities of a clerk is __________.","options":["Sweeping the office","Filing documents","Cooking for the boss","Selling goods in the market"],"answer":"Filing documents"},
-    {"number":11,"question":"The department responsible for the movement of goods is __________.","options":["Transport Department","Accounts Department","Sales Department","Personnel Department"],"answer":"Transport Department"},
-    {"number":12,"question":"Which of these is not a good attitude to work?","options":["Punctuality","Integrity","Absenteeism","Commitment"],"answer":"Absenteeism"},
-    {"number":13,"question":"The Production Department mainly deals with __________.","options":["Manufacturing goods","Paying salaries","Hiring workers","Filing records"],"answer":"Manufacturing goods"},
-    {"number":14,"question":"Which of the following is an example of office equipment?","options":["Car","Typewriter","Chalkboard","Hoe"],"answer":"Typewriter"},
-    {"number":15,"question":"The main types of trade are __________.","options":["Wholesale and Retail trade","Import and Export trade","Production and Consumption","Industry and Commerce"],"answer":"Wholesale and Retail trade"},
-    {"number":16,"question":"A worker who is always late to work shows __________.","options":["Discipline","Commitment","Irresponsibility","Honesty"],"answer":"Irresponsibility"},
-    {"number":17,"question":"The person responsible for supervising office staff is called __________.","options":["Messenger","Clerk","Office Manager","Cleaner"],"answer":"Office Manager"},
-    {"number":18,"question":"The study of how goods and services move from producers to consumers is called __________.","options":["Accounting","Commerce","Economics","Entrepreneurship"],"answer":"Commerce"},
-    {"number":19,"question":"The department that ensures all machines work properly is the __________.","options":["Personnel Department","Maintenance Department","Sales Department","Accounts Department"],"answer":"Maintenance Department"},
-    {"number":20,"question":"One importance of studying Business Studies is to __________.","options":["Make students lazy","Teach students to cheat","Prepare students for future careers","Stop students from using money"],"answer":"Prepare students for future careers"},
-    {"number":21,"question":"Respecting other workers in an office shows __________.","options":["Team spirit","Disobedience","Pride","Laziness"],"answer":"Team spirit"},
-    {"number":22,"question":"Which of the following best describes the term “trade”?","options":["Buying and selling of goods and services","Transportation of goods","Insurance of goods","Storing of goods"],"answer":"Buying and selling of goods and services"},
-    {"number":23,"question":"A clerk who handles letters and other communications is called __________.","options":["Receptionist","Typist","Messenger","Correspondence clerk"],"answer":"Correspondence clerk"},
-    {"number":24,"question":"Office machines help to __________.","options":["Reduce work efficiency","Waste time","Make office work faster and easier","Create unemployment"],"answer":"Make office work faster and easier"},
-    {"number":25,"question":"The different departments in an office work together to achieve __________.","options":["Individual goals","The organization’s objectives","Laziness","Competition among workers"],"answer":"The organization’s objectives"},
-    {"number":26,"question":"Which of the following is not found in a modern office?","options":["Computer","Typewriter","Filing cabinet","Farm tool"],"answer":"Farm tool"},
-    {"number":27,"question":"A small office where routine clerical work is done is called __________.","options":["Factory","Workshop","General office","Warehouse"],"answer":"General office"},
-    {"number":28,"question":"A clerical staff is a person who __________.","options":["Works only in factories","Performs routine office duties","Manages other workers","Sells goods in the market"],"answer":"Performs routine office duties"},
-    {"number":29,"question":"A good worker should have a sense of __________.","options":["Duty","Disrespect","Dishonesty","Carelessness"],"answer":"Duty"},
-    {"number":30,"question":"The different branches of Business Studies include Commerce, Book-keeping and __________.","options":["Home Economics","Office Practice","Social Studies","Government"],"answer":"Office Practice"},
-    {"number":31,"question":"Which of these attitudes is important for teamwork?","options":["Cooperation","Selfishness","Pride","Jealousy"],"answer":"Cooperation"},
-    {"number":32,"question":"The department that handles the payment of salaries is __________.","options":["Production Department","Accounts Department","Personnel Department","Purchasing Department"],"answer":"Accounts Department"},
-    {"number":33,"question":"The main types of office are __________.","options":["Open and closed offices","Big and small offices","Executive and junior offices","Temporary and permanent offices"],"answer":"Open and closed offices"},
-    {"number":34,"question":"The Sales Department is responsible for __________.","options":["Selling the company’s products","Producing raw materials","Auditing accounts","Training workers"],"answer":"Selling the company’s products"},
-    {"number":35,"question":"The right attitude to work helps to promote __________.","options":["Laziness","Efficiency and productivity","Corruption","Dishonesty"],"answer":"Efficiency and productivity"},
-    {"number":36,"question":"The head of all clerical staff is the __________.","options":["Managing Director","Chief Clerk","Office Messenger","Cleaner"],"answer":"Chief Clerk"},
-    {"number":37,"question":"Business Studies is mainly concerned with the study of __________.","options":["Living organisms","Business activities","Physical education","Fine arts"],"answer":"Business activities"},
-    {"number":38,"question":"A clerk should have a good knowledge of __________.","options":["Carpentry","Book-keeping","Tailoring","Driving"],"answer":"Book-keeping"},
-    {"number":39,"question":"The Marketing Department ensures that products __________.","options":["Are well advertised and promoted","Are kept in the store","Are not sold","Are used by staff only"],"answer":"Are well advertised and promoted"},
-    {"number":40,"question":"Which of the following is not a function of an office?","options":["Receiving information","Sending information","Manufacturing goods","Keeping records"],"answer":"Manufacturing goods"},
-    {"number":41,"question":"Which of these is an example of office furniture?","options":["Refrigerator","Photocopier","Desk","Generator"],"answer":"Desk"},
-    {"number":42,"question":"The opposite of right attitude to work is __________.","options":["Hard work","Negative attitude","Good behavior","Efficiency"],"answer":"Negative attitude"},
-    {"number":43,"question":"The Production of goods and services to satisfy human wants is known as __________.","options":["Consumption","Exchange","Business activity","Distribution"],"answer":"Business activity"},
-    {"number":44,"question":"Which of these departments deals with buying raw materials?","options":["Purchasing Department","Marketing Department","Transport Department","Research Department"],"answer":"Purchasing Department"},
-    {"number":45,"question":"A clerk who uses calculators and computers often performs __________ work.","options":["Manual","Mental","Field","Construction"],"answer":"Mental"},
-    {"number":46,"question":"The head of the department who pays workers’ salaries is the __________.","options":["Chief Accountant","Office Messenger","Production Manager","Receptionist"],"answer":"Chief Accountant"},
-    {"number":47,"question":"Workers who are committed and disciplined help to __________.","options":["Reduce productivity","Improve organizational growth","Encourage corruption","Waste resources"],"answer":"Improve organizational growth"},
-    {"number":48,"question":"Filing in the office means __________.","options":["Arranging documents for future reference","Burning old papers","Throwing away used files","Printing documents"],"answer":"Arranging documents for future reference"},
-    {"number":49,"question":"Which of these is not a career in Business Studies?","options":["Typist","Accountant","Pharmacist","Manager"],"answer":"Pharmacist"},
-    {"number":50,"question":"The department that ensures all financial transactions are properly recorded is the __________.","options":["Accounts Department","Personnel Department","Production Department","Sales Department"],"answer":"Accounts Department"}
+[
+    {
+      "number": 1,
+      "question": "Which of the following is not an element of the marketing mix?",
+      "options": ["Product", "Profit", "Price", "Promotion"],
+      "answer": "Profit"
+    },
+    {
+      "number": 2,
+      "question": "The idea that “the consumer is king” is central to which marketing concept?",
+      "options": ["Product concept", "Production concept", "Marketing concept", "Selling concept"],
+      "answer": "Marketing concept"
+    },
+    {
+      "number": 3,
+      "question": "The term marketing is derived from the word:",
+      "options": ["Market", "Merchandise", "Mark", "Maker"],
+      "answer": "Market"
+    },
+    {
+      "number": 4,
+      "question": "Which of the following best defines marketing?",
+      "options": ["Buying and selling goods only", "Process of identifying and satisfying customer needs profitably", "Promoting products to customers", "Distribution of finished goods"],
+      "answer": "Process of identifying and satisfying customer needs profitably"
+    },
+    {
+      "number": 5,
+      "question": "The marketing mix is commonly known as:",
+      "options": ["2Ps", "3Ps", "4Ps", "6Ps"],
+      "answer": "4Ps"
+    },
+    {
+      "number": 6,
+      "question": "Which concept focuses on improving production efficiency?",
+      "options": ["Product concept", "Selling concept", "Production concept", "Marketing concept"],
+      "answer": "Production concept"
+    },
+    {
+      "number": 7,
+      "question": "A marketer who emphasizes product quality and innovation is applying which concept?",
+      "options": ["Product concept", "Selling concept", "Marketing concept", "Production concept"],
+      "answer": "Product concept"
+    },
+    {
+      "number": 8,
+      "question": "Which of these is not part of the promotion mix?",
+      "options": ["Advertising", "Publicity", "Branding", "Sales promotion"],
+      "answer": "Branding"
+    },
+    {
+      "number": 9,
+      "question": "The evolution of marketing began with the:",
+      "options": ["Barter system", "Industrial revolution", "Technological era", "Globalization"],
+      "answer": "Barter system"
+    },
+    {
+      "number": 10,
+      "question": "The term product in marketing refers to:",
+      "options": ["Physical goods only", "Anything offered to satisfy a need or want", "Services only", "Goods for resale"],
+      "answer": "Anything offered to satisfy a need or want"
+    },
+    {
+      "number": 11,
+      "question": "The “place” element of the marketing mix deals with:",
+      "options": ["Product design", "Distribution of goods", "Promotion strategy", "Pricing policy"],
+      "answer": "Distribution of goods"
+    },
+    {
+      "number": 12,
+      "question": "The selling concept assumes that:",
+      "options": ["Consumers will buy only what is affordable", "Consumers must be persuaded to buy through promotion", "Consumers know what they want", "Consumers determine production"],
+      "answer": "Consumers must be persuaded to buy through promotion"
+    },
+    {
+      "number": 13,
+      "question": "Which of the following came first in the history of marketing development?",
+      "options": ["Sales orientation", "Production orientation", "Marketing orientation", "Societal orientation"],
+      "answer": "Production orientation"
+    },
+    {
+      "number": 14,
+      "question": "The societal marketing concept emphasizes:",
+      "options": ["Company profit only", "Consumer satisfaction and social welfare", "Product promotion", "Sales maximization"],
+      "answer": "Consumer satisfaction and social welfare"
+    },
+    {
+      "number": 15,
+      "question": "A product that cannot be touched is known as:",
+      "options": ["Durable product", "Tangible product", "Intangible product", "Core product"],
+      "answer": "Intangible product"
+    },
+    {
+      "number": 16,
+      "question": "The core benefit of a product refers to:",
+      "options": ["The physical features", "The basic need the product satisfies", "The packaging", "The warranty"],
+      "answer": "The basic need the product satisfies"
+    },
+    {
+      "number": 17,
+      "question": "The process of moving goods from producers to consumers is known as:",
+      "options": ["Transportation", "Marketing", "Distribution", "Promotion"],
+      "answer": "Distribution"
+    },
+    {
+      "number": 18,
+      "question": "Which of the following is not a function of marketing?",
+      "options": ["Buying and selling", "Financing", "Manufacturing", "Market research"],
+      "answer": "Manufacturing"
+    },
+    {
+      "number": 19,
+      "question": "The marketing mix element that involves communicating with customers is:",
+      "options": ["Product", "Price", "Place", "Promotion"],
+      "answer": "Promotion"
+    },
+    {
+      "number": 20,
+      "question": "A “brand” helps to:",
+      "options": ["Increase cost of goods", "Reduce customer satisfaction", "Identify and differentiate a product", "Eliminate competition"],
+      "answer": "Identify and differentiate a product"
+    },
+    {
+      "number": 21,
+      "question": "The person who buys goods for resale is called a:",
+      "options": ["Wholesaler", "Consumer", "Manufacturer", "Retailer"],
+      "answer": "Wholesaler"
+    },
+    {
+      "number": 22,
+      "question": "The act of identifying customer needs is part of:",
+      "options": ["Selling concept", "Marketing concept", "Product concept", "Production concept"],
+      "answer": "Marketing concept"
+    },
+    {
+      "number": 23,
+      "question": "Which of these marketing eras focuses mainly on customer satisfaction?",
+      "options": ["Sales era", "Marketing era", "Production era", "Product era"],
+      "answer": "Marketing era"
+    },
+    {
+      "number": 24,
+      "question": "Which of the following is the right order of the 4Ps?",
+      "options": ["Product, Price, Place, Promotion", "Price, Product, Promotion, Place", "Place, Product, Promotion, Price", "Promotion, Product, Price, Place"],
+      "answer": "Product, Price, Place, Promotion"
+    },
+    {
+      "number": 25,
+      "question": "Which function of marketing involves storing goods until needed?",
+      "options": ["Transportation", "Warehousing", "Sales", "Distribution"],
+      "answer": "Warehousing"
+    },
+    {
+      "number": 26,
+      "question": "The product life cycle includes all the following stages except:",
+      "options": ["Introduction", "Decline", "Elimination", "Growth"],
+      "answer": "Elimination"
+    },
+    {
+      "number": 27,
+      "question": "Packaging performs all the following functions except:",
+      "options": ["Protecting goods", "Advertising goods", "Determining price", "Identifying goods"],
+      "answer": "Determining price"
+    },
+    {
+      "number": 28,
+      "question": "Pricing strategy means:",
+      "options": ["Setting a value for goods or services", "Advertising a product", "Designing a product", "Storing a product"],
+      "answer": "Setting a value for goods or services"
+    },
+    {
+      "number": 29,
+      "question": "Which concept stresses the welfare of both the consumer and society?",
+      "options": ["Product concept", "Societal marketing concept", "Selling concept", "Production concept"],
+      "answer": "Societal marketing concept"
+    },
+    {
+      "number": 30,
+      "question": "Which of the following is an example of a service product?",
+      "options": ["Shoes", "Banking", "Rice", "Furniture"],
+      "answer": "Banking"
+    },
+    {
+      "number": 31,
+      "question": "The process of informing and persuading customers to buy a product is called:",
+      "options": ["Selling", "Promotion", "Advertising", "Distribution"],
+      "answer": "Promotion"
+    },
+    {
+      "number": 32,
+      "question": "In marketing, utility means:",
+      "options": ["Usefulness or satisfaction a consumer derives from a product", "The cost of production", "The revenue from sales", "The profit of the seller"],
+      "answer": "Usefulness or satisfaction a consumer derives from a product"
+    },
+    {
+      "number": 33,
+      "question": "The concept that “a good product sells itself” belongs to:",
+      "options": ["Selling concept", "Marketing concept", "Product concept", "Production concept"],
+      "answer": "Product concept"
+    },
+    {
+      "number": 34,
+      "question": "The main goal of marketing is:",
+      "options": ["To produce goods only", "To satisfy customer needs profitably", "To reduce cost of goods", "To promote competition"],
+      "answer": "To satisfy customer needs profitably"
+    },
+    {
+      "number": 35,
+      "question": "Marketing mix decisions are taken by the:",
+      "options": ["Marketers", "Customers", "Competitors", "Government"],
+      "answer": "Marketers"
+    },
+    {
+      "number": 36,
+      "question": "Which of these functions is mainly performed by wholesalers?",
+      "options": ["Retail selling", "Bulk breaking", "Advertising", "Direct sales"],
+      "answer": "Bulk breaking"
+    },
+    {
+      "number": 37,
+      "question": "Advertising helps to:",
+      "options": ["Hide product information", "Create awareness and stimulate demand", "Reduce product quality", "Eliminate distribution"],
+      "answer": "Create awareness and stimulate demand"
+    },
+    {
+      "number": 38,
+      "question": "The production concept assumes that:",
+      "options": ["Consumers prefer affordable goods", "Consumers prefer expensive goods", "Consumers need persuasion", "Consumers focus on brand"],
+      "answer": "Consumers prefer affordable goods"
+    },
+    {
+      "number": 39,
+      "question": "Which of the following focuses on creating value for customers?",
+      "options": ["Product concept", "Marketing concept", "Selling concept", "Production concept"],
+      "answer": "Marketing concept"
+    },
+    {
+      "number": 40,
+      "question": "The marketing environment consists of:",
+      "options": ["Only external factors", "Internal and external factors", "Company employees only", "Government alone"],
+      "answer": "Internal and external factors"
+    },
+    {
+      "number": 41,
+      "question": "In the marketing mix, “price” determines:",
+      "options": ["Revenue generated", "Advertising method", "Packaging design", "Place of sale"],
+      "answer": "Revenue generated"
+    },
+    {
+      "number": 42,
+      "question": "Market segmentation involves dividing:",
+      "options": ["The total market into groups with similar needs", "Products into various stages", "Prices into categories", "Producers into classes"],
+      "answer": "The total market into groups with similar needs"
+    },
+    {
+      "number": 43,
+      "question": "Which of the following is not a level of product?",
+      "options": ["Core product", "Actual product", "Augmented product", "Decline product"],
+      "answer": "Decline product"
+    },
+    {
+      "number": 44,
+      "question": "Public relations is concerned with:",
+      "options": ["Maintaining a positive image of a firm", "Selling goods directly", "Setting prices", "Packaging products"],
+      "answer": "Maintaining a positive image of a firm"
+    },
+    {
+      "number": 45,
+      "question": "Which concept emphasizes aggressive selling and promotion?",
+      "options": ["Selling concept", "Product concept", "Production concept", "Marketing concept"],
+      "answer": "Selling concept"
+    },
+    {
+      "number": 46,
+      "question": "Which of the following is the correct combination of the marketing mix?",
+      "options": ["Product, Price, Place, Promotion", "People, Process, Product, Packaging", "Profit, Price, Place, Promotion", "Product, Profit, Place, Price"],
+      "answer": "Product, Price, Place, Promotion"
+    },
+    {
+      "number": 47,
+      "question": "Branding helps customers to:",
+      "options": ["Forget the product", "Recognize the product easily", "Confuse competitors", "Avoid product quality"],
+      "answer": "Recognize the product easily"
+    },
+    {
+      "number": 48,
+      "question": "In marketing, promotion means:",
+      "options": ["Selling goods at high prices", "Communicating product information to customers", "Storing finished goods", "Packaging items attractively"],
+      "answer": "Communicating product information to customers"
+    },
+    {
+      "number": 49,
+      "question": "The first step in marketing process is:",
+      "options": ["Product promotion", "Market segmentation", "Identifying customer needs", "Setting the price"],
+      "answer": "Identifying customer needs"
+    },
+    {
+      "number": 50,
+      "question": "A product that satisfies both functional and psychological needs is a:",
+      "options": ["Core product", "Augmented product", "Total product", "Complex product"],
+      "answer": "Total product"
+    }
   ]
