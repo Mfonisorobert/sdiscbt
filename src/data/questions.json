@@ -1,302 +1,138 @@
 [
-    {
-      "number": 1,
-      "question": "Which of the following is not an element of the marketing mix?",
-      "options": ["Product", "Profit", "Price", "Promotion"],
-      "answer": "Profit"
-    },
-    {
-      "number": 2,
-      "question": "The idea that “the consumer is king” is central to which marketing concept?",
-      "options": ["Product concept", "Production concept", "Marketing concept", "Selling concept"],
-      "answer": "Marketing concept"
-    },
-    {
-      "number": 3,
-      "question": "The term marketing is derived from the word:",
-      "options": ["Market", "Merchandise", "Mark", "Maker"],
-      "answer": "Market"
-    },
-    {
-      "number": 4,
-      "question": "Which of the following best defines marketing?",
-      "options": ["Buying and selling goods only", "Process of identifying and satisfying customer needs profitably", "Promoting products to customers", "Distribution of finished goods"],
-      "answer": "Process of identifying and satisfying customer needs profitably"
-    },
-    {
-      "number": 5,
-      "question": "The marketing mix is commonly known as:",
-      "options": ["2Ps", "3Ps", "4Ps", "6Ps"],
-      "answer": "4Ps"
-    },
-    {
-      "number": 6,
-      "question": "Which concept focuses on improving production efficiency?",
-      "options": ["Product concept", "Selling concept", "Production concept", "Marketing concept"],
-      "answer": "Production concept"
-    },
-    {
-      "number": 7,
-      "question": "A marketer who emphasizes product quality and innovation is applying which concept?",
-      "options": ["Product concept", "Selling concept", "Marketing concept", "Production concept"],
-      "answer": "Product concept"
-    },
-    {
-      "number": 8,
-      "question": "Which of these is not part of the promotion mix?",
-      "options": ["Advertising", "Publicity", "Branding", "Sales promotion"],
-      "answer": "Branding"
-    },
-    {
-      "number": 9,
-      "question": "The evolution of marketing began with the:",
-      "options": ["Barter system", "Industrial revolution", "Technological era", "Globalization"],
-      "answer": "Barter system"
-    },
-    {
-      "number": 10,
-      "question": "The term product in marketing refers to:",
-      "options": ["Physical goods only", "Anything offered to satisfy a need or want", "Services only", "Goods for resale"],
-      "answer": "Anything offered to satisfy a need or want"
-    },
-    {
-      "number": 11,
-      "question": "The “place” element of the marketing mix deals with:",
-      "options": ["Product design", "Distribution of goods", "Promotion strategy", "Pricing policy"],
-      "answer": "Distribution of goods"
-    },
-    {
-      "number": 12,
-      "question": "The selling concept assumes that:",
-      "options": ["Consumers will buy only what is affordable", "Consumers must be persuaded to buy through promotion", "Consumers know what they want", "Consumers determine production"],
-      "answer": "Consumers must be persuaded to buy through promotion"
-    },
-    {
-      "number": 13,
-      "question": "Which of the following came first in the history of marketing development?",
-      "options": ["Sales orientation", "Production orientation", "Marketing orientation", "Societal orientation"],
-      "answer": "Production orientation"
-    },
-    {
-      "number": 14,
-      "question": "The societal marketing concept emphasizes:",
-      "options": ["Company profit only", "Consumer satisfaction and social welfare", "Product promotion", "Sales maximization"],
-      "answer": "Consumer satisfaction and social welfare"
-    },
-    {
-      "number": 15,
-      "question": "A product that cannot be touched is known as:",
-      "options": ["Durable product", "Tangible product", "Intangible product", "Core product"],
-      "answer": "Intangible product"
-    },
-    {
-      "number": 16,
-      "question": "The core benefit of a product refers to:",
-      "options": ["The physical features", "The basic need the product satisfies", "The packaging", "The warranty"],
-      "answer": "The basic need the product satisfies"
-    },
-    {
-      "number": 17,
-      "question": "The process of moving goods from producers to consumers is known as:",
-      "options": ["Transportation", "Marketing", "Distribution", "Promotion"],
-      "answer": "Distribution"
-    },
-    {
-      "number": 18,
-      "question": "Which of the following is not a function of marketing?",
-      "options": ["Buying and selling", "Financing", "Manufacturing", "Market research"],
-      "answer": "Manufacturing"
-    },
-    {
-      "number": 19,
-      "question": "The marketing mix element that involves communicating with customers is:",
-      "options": ["Product", "Price", "Place", "Promotion"],
-      "answer": "Promotion"
-    },
-    {
-      "number": 20,
-      "question": "A “brand” helps to:",
-      "options": ["Increase cost of goods", "Reduce customer satisfaction", "Identify and differentiate a product", "Eliminate competition"],
-      "answer": "Identify and differentiate a product"
-    },
-    {
-      "number": 21,
-      "question": "The person who buys goods for resale is called a:",
-      "options": ["Wholesaler", "Consumer", "Manufacturer", "Retailer"],
-      "answer": "Wholesaler"
-    },
-    {
-      "number": 22,
-      "question": "The act of identifying customer needs is part of:",
-      "options": ["Selling concept", "Marketing concept", "Product concept", "Production concept"],
-      "answer": "Marketing concept"
-    },
-    {
-      "number": 23,
-      "question": "Which of these marketing eras focuses mainly on customer satisfaction?",
-      "options": ["Sales era", "Marketing era", "Production era", "Product era"],
-      "answer": "Marketing era"
-    },
-    {
-      "number": 24,
-      "question": "Which of the following is the right order of the 4Ps?",
-      "options": ["Product, Price, Place, Promotion", "Price, Product, Promotion, Place", "Place, Product, Promotion, Price", "Promotion, Product, Price, Place"],
-      "answer": "Product, Price, Place, Promotion"
-    },
-    {
-      "number": 25,
-      "question": "Which function of marketing involves storing goods until needed?",
-      "options": ["Transportation", "Warehousing", "Sales", "Distribution"],
-      "answer": "Warehousing"
-    },
-    {
-      "number": 26,
-      "question": "The product life cycle includes all the following stages except:",
-      "options": ["Introduction", "Decline", "Elimination", "Growth"],
-      "answer": "Elimination"
-    },
-    {
-      "number": 27,
-      "question": "Packaging performs all the following functions except:",
-      "options": ["Protecting goods", "Advertising goods", "Determining price", "Identifying goods"],
-      "answer": "Determining price"
-    },
-    {
-      "number": 28,
-      "question": "Pricing strategy means:",
-      "options": ["Setting a value for goods or services", "Advertising a product", "Designing a product", "Storing a product"],
-      "answer": "Setting a value for goods or services"
-    },
-    {
-      "number": 29,
-      "question": "Which concept stresses the welfare of both the consumer and society?",
-      "options": ["Product concept", "Societal marketing concept", "Selling concept", "Production concept"],
-      "answer": "Societal marketing concept"
-    },
-    {
-      "number": 30,
-      "question": "Which of the following is an example of a service product?",
-      "options": ["Shoes", "Banking", "Rice", "Furniture"],
-      "answer": "Banking"
-    },
-    {
-      "number": 31,
-      "question": "The process of informing and persuading customers to buy a product is called:",
-      "options": ["Selling", "Promotion", "Advertising", "Distribution"],
-      "answer": "Promotion"
-    },
-    {
-      "number": 32,
-      "question": "In marketing, utility means:",
-      "options": ["Usefulness or satisfaction a consumer derives from a product", "The cost of production", "The revenue from sales", "The profit of the seller"],
-      "answer": "Usefulness or satisfaction a consumer derives from a product"
-    },
-    {
-      "number": 33,
-      "question": "The concept that “a good product sells itself” belongs to:",
-      "options": ["Selling concept", "Marketing concept", "Product concept", "Production concept"],
-      "answer": "Product concept"
-    },
-    {
-      "number": 34,
-      "question": "The main goal of marketing is:",
-      "options": ["To produce goods only", "To satisfy customer needs profitably", "To reduce cost of goods", "To promote competition"],
-      "answer": "To satisfy customer needs profitably"
-    },
-    {
-      "number": 35,
-      "question": "Marketing mix decisions are taken by the:",
-      "options": ["Marketers", "Customers", "Competitors", "Government"],
-      "answer": "Marketers"
-    },
-    {
-      "number": 36,
-      "question": "Which of these functions is mainly performed by wholesalers?",
-      "options": ["Retail selling", "Bulk breaking", "Advertising", "Direct sales"],
-      "answer": "Bulk breaking"
-    },
-    {
-      "number": 37,
-      "question": "Advertising helps to:",
-      "options": ["Hide product information", "Create awareness and stimulate demand", "Reduce product quality", "Eliminate distribution"],
-      "answer": "Create awareness and stimulate demand"
-    },
-    {
-      "number": 38,
-      "question": "The production concept assumes that:",
-      "options": ["Consumers prefer affordable goods", "Consumers prefer expensive goods", "Consumers need persuasion", "Consumers focus on brand"],
-      "answer": "Consumers prefer affordable goods"
-    },
-    {
-      "number": 39,
-      "question": "Which of the following focuses on creating value for customers?",
-      "options": ["Product concept", "Marketing concept", "Selling concept", "Production concept"],
-      "answer": "Marketing concept"
-    },
-    {
-      "number": 40,
-      "question": "The marketing environment consists of:",
-      "options": ["Only external factors", "Internal and external factors", "Company employees only", "Government alone"],
-      "answer": "Internal and external factors"
-    },
-    {
-      "number": 41,
-      "question": "In the marketing mix, “price” determines:",
-      "options": ["Revenue generated", "Advertising method", "Packaging design", "Place of sale"],
-      "answer": "Revenue generated"
-    },
-    {
-      "number": 42,
-      "question": "Market segmentation involves dividing:",
-      "options": ["The total market into groups with similar needs", "Products into various stages", "Prices into categories", "Producers into classes"],
-      "answer": "The total market into groups with similar needs"
-    },
-    {
-      "number": 43,
-      "question": "Which of the following is not a level of product?",
-      "options": ["Core product", "Actual product", "Augmented product", "Decline product"],
-      "answer": "Decline product"
-    },
-    {
-      "number": 44,
-      "question": "Public relations is concerned with:",
-      "options": ["Maintaining a positive image of a firm", "Selling goods directly", "Setting prices", "Packaging products"],
-      "answer": "Maintaining a positive image of a firm"
-    },
-    {
-      "number": 45,
-      "question": "Which concept emphasizes aggressive selling and promotion?",
-      "options": ["Selling concept", "Product concept", "Production concept", "Marketing concept"],
-      "answer": "Selling concept"
-    },
-    {
-      "number": 46,
-      "question": "Which of the following is the correct combination of the marketing mix?",
-      "options": ["Product, Price, Place, Promotion", "People, Process, Product, Packaging", "Profit, Price, Place, Promotion", "Product, Profit, Place, Price"],
-      "answer": "Product, Price, Place, Promotion"
-    },
-    {
-      "number": 47,
-      "question": "Branding helps customers to:",
-      "options": ["Forget the product", "Recognize the product easily", "Confuse competitors", "Avoid product quality"],
-      "answer": "Recognize the product easily"
-    },
-    {
-      "number": 48,
-      "question": "In marketing, promotion means:",
-      "options": ["Selling goods at high prices", "Communicating product information to customers", "Storing finished goods", "Packaging items attractively"],
-      "answer": "Communicating product information to customers"
-    },
-    {
-      "number": 49,
-      "question": "The first step in marketing process is:",
-      "options": ["Product promotion", "Market segmentation", "Identifying customer needs", "Setting the price"],
-      "answer": "Identifying customer needs"
-    },
-    {
-      "number": 50,
-      "question": "A product that satisfies both functional and psychological needs is a:",
-      "options": ["Core product", "Augmented product", "Total product", "Complex product"],
-      "answer": "Total product"
-    }
+  {
+  "instructions": "CHOOSE THE NAMES OF THE PARTS OF THE BODY IN IGBO",
+  "questions": [
+    {"number": 1, "question": "HEAD", "choices": ["Ire", "Isi", "Akpa", "Ukwu"], "answer": "Isi"},
+    {"number": 2, "question": "FINGERS", "choices": ["Ikpere", "Mbo", "Mkpisiaka", "Anya"], "answer": "Mkpisiaka"},
+    {"number": 3, "question": "SHOULDER", "choices": ["Ubuaka", "Azu", "Afo", "Imi"], "answer": "Ubuaka"},
+    {"number": 4, "question": "EAR", "choices": ["Obi", "Olu", "Nti", "Aka"], "answer": "Nti"},
+    {"number": 5, "question": "TEETH", "choices": ["Onu", "Anya", "Isi", "Eze"], "answer": "Eze"}
   ]
+},
+{
+  "instructions": "TRANSLATE THESE SIMPLE SENTENCES ABOUT SELF INTRODUCTION",
+  "questions": [
+    {"number": 6, "question": "AHA M BU ONYINYE", "choices": ["I am going to school", "I am a girl", "I need water", "My name is Onyinye"], "answer": "My name is Onyinye"},
+    {"number": 7, "question": "E BI M NA MBA AMERIKA", "choices": ["I live in America", "I go to America", "I belong to America", "I love travelling to America"], "answer": "I live in America"},
+    {"number": 8, "question": "A HURU M ASUSU IGBO N’ANYA", "choices": ["I see the Igbo language", "I don’t know the Igbo language", "Where is the Igbo language?", "I love the Igbo language"], "answer": "I love the Igbo language"},
+    {"number": 9, "question": "A DI M AFO IRI", "choices": ["I am years ten old", "I am ten years old", "I am ten", "Ten years am i"], "answer": "I am years ten old"},
+    {"number": 10, "question": "A BU M ONYE IGBO", "choices": ["I am person Igbo", "I igbo am i", "I am Igbo", "I am not Igbo"], "answer": "I am Igbo"}
+  ]
+},
+{
+  "instructions": "TRANSLATE THESE SIMPLE IGBO GREETINGS CORRECTLY",
+  "questions": [
+    {"number": 11, "question": "GOOD MORNING", "choices": ["Kedu ka I mere?", "I boola chi", "Nye m nri", "A di m mma"], "answer": "I boola chi"},
+    {"number": 12, "question": "GET BETTER SOON", "choices": ["A na m aga ahia", "Ka o di echi", "Ka chi food", "Diwakwa mma"], "answer": "Diwakwa mma"},
+    {"number": 13, "question": "GOOD NIGHT", "choices": ["Ka chi foo", "Ndo", "Kasibe", "Ehihie oma"], "answer": "Ka chi foo"},
+    {"number": 14, "question": "SORRY", "choices": ["Nri", "Ndu", "Ndi", "Ndo"], "answer": "Ndo"},
+    {"number": 15, "question": "HELLO", "choices": ["Kedu?", "Ebee?", "Ndeewo", "Ka e mesia"], "answer": "Ndeewo"}
+  ]
+},
+{
+  "instructions": "PEOPLE IN THE HOME AND NEIGHBORHOOD",
+  "questions": [
+    {"number": 16, "question": "FATHER", "choices": ["Nwanne", "Enyi", "Nna", "Papa nnukwu"], "answer": "Nna"},
+    {"number": 17, "question": "MOTHER", "choices": ["Papa", "Nne", "Umunne", "Mama nnukwu"], "answer": "Nne"},
+    {"number": 18, "question": "GRANDFATHER", "choices": ["Nnenne", "Papa nnukwu", "Agbataobi", "Umu klaasi"], "answer": "Papa nnukwu"},
+    {"number": 19, "question": "SIBLINGS", "choices": ["Umunne", "Nne", "Ndi enyi", "Nwanne"], "answer": "Umunne"},
+    {"number": 20, "question": "BROTHER", "choices": ["Umunne m", "Nnenna m", "Umunwanne m", "Nwanne m nwoke"], "answer": "Nwanne m nwoke"}
+  ]
+},
+{
+  "instructions": "THINGS IN THE HOME/AROUND US",
+  "questions": [
+    {"number": 21, "question": "BROOM", "choices": ["Efere", "Ngaji", "Aziza", "Mmiri"], "answer": "Aziza"},
+    {"number": 22, "question": "PLATE", "choices": ["Ite", "Iko", "Akwa", "Efere"], "answer": "Efere"},
+    {"number": 23, "question": "CHAIR", "choices": ["Nri", "Oche", "Iko", "Ite"], "answer": "Oche"},
+    {"number": 24, "question": "CAR", "choices": ["Moto", "Ugbo elu", "Ugboala", "Ugbommiri"], "answer": "Ugboala"},
+    {"number": 25, "question": "BOOK", "choices": ["Osisi", "Akwa", "Akwukwo", "Bank"], "answer": "Akwukwo"}
+  ]
+},
+{
+  "instructions": "NAMES OF PLACES / AHA EBE", 
+  "questions": [
+    {"number": 26, "question": "SCHOOL", "choices": ["Ulo ahia", "Ulo mmiri", "Ulo oru", "Uloakwukwo"], "answer": "Uloakwukwo"},
+    {"number": 27, "question": "MOTOR PARK", "choices": ["Odu ugboelu", "Odu akwa", "Odu ugboala", "Odu ahia"], "answer": "Odu ugboala"},
+    {"number": 28, "question": "MARKET", "choices": ["Ahia", "Njem", "Ulo uka", "Ulo mmemme"], "answer": "Ahia"},
+    {"number": 29, "question": "BANK", "choices": ["Uloaku", "Ulo ego", "Ulo mmuba", "Ulo ahia"], "answer": "Uloaku"},
+    {"number": 30, "question": "COURT", "choices": ["Odu ikpe", "Odu ugbommiri", "Ulo ikpe", "Ulo eze"], "answer": "Ulo ikpe"}
+  ]
+},
+{
+  "instructions": "AHA ANUMANU / ANIMALS", 
+  "questions": [
+    {"number": 31, "question": "LION", "choices": ["Ọdụm", "Mbe", "Ngwerre", "Isam"], "answer": "Ọdụm"},
+    {"number": 32, "question": "FOWL", "choices": ["Udele", "Torotoro", "Ọkụkọ", "Azụ"], "answer": "Ọkụkọ"},
+    {"number": 33, "question": "DOG", "choices": ["Ezi", "Enyi", "Mkpi", "Nkịta"], "answer": "Nkịta"},
+    {"number": 34, "question": "SHEEP", "choices": ["Mkpi", "Atụrụ", "Ọkụkọ", "Agụ"], "answer": "Atụrụ"},
+    {"number": 35, "question": "SNAKE", "choices": ["Agwọ", "Mbe", "Agụ", "Ewu"], "answer": "Agwọ"}
+  ]
+},
+{
+  "instructions": "MKPỤRỤOSISI / FRUITS", 
+  "questions": [
+    {"number": 36, "question": "OROMA", "choices": ["Pear", "Cashew", "Coconut", "Orange"], "answer": "Orange"},
+    {"number": 37, "question": "UBE", "choices": ["Tangerine", "Strawberry", "Pear", "Fruit"], "answer": "Pear"},
+    {"number": 38, "question": "AKI BEKEE", "choices": ["African star apple", "Mango", "Cashew", "Coconut"], "answer": "Coconut"},
+    {"number": 39, "question": "ỤDARA", "choices": ["Strawberry", "Grapes", "Pear", "African star apple"], "answer": "African star apple"},
+    {"number": 40, "question": "UBE BEKEE", "choices": ["Avocado pear", "Coconut", "Black pear", "Walnut"], "answer": "Avocado pear"}
+  ]
+},
+{
+  "instructions": "TRANSLATION/NTỤGHARỊ", 
+  "questions": [
+    {"number": 41, "question": "GIVE ME WATER", "choices": ["Gbanye mmiri", "Wụọ mmiri", "Saa mmiri", "Nye m mmiri"], "answer": "Nye m mmiri"},
+    {"number": 42, "question": "I AM HUNGRY", "choices": ["Nye m nri", "Bute nri", "Agụụ na-agụ m", "Rie nri"] 
+  },
+  {
+    "number": 43,
+    "question": "MY MOTHER HAS A CAT",
+    "choices": ["Nwamba nne m nwere", "Nne m nwere nwamba", "Nye m nwamba", "Nne m nwamba"],
+    "answer": "Nne m nwere nwamba"
+  },
+  {
+    "number": 44,
+    "question": "MY FATHER’S CAR IS BLUE IN COLOUR",
+    "choices": ["Ugboala nna m na-eji oji", "Ugboala nna m mara mma", "Ụgbọala nna m na-acha anụnụ anụnụ", "Nna m nwere ụgbọala"],
+    "answer": "Ụgbọala nna m na-acha anụnụ anụnụ"
+  },
+  {
+    "number": 45,
+    "question": "DUBEM IS IN THE HOUSE",
+    "choices": ["Dubem gara ahia", "Dubem riri nri", "Dubem nọ n’ime ụlọ", "Dubem gbara ọsọ"],
+    "answer": "Dubem nọ n’ime ụlọ"
+  },
+  {
+    "number": 46,
+    "question": "WE ARE EATING",
+    "choices": ["Anyị na-eri nri", "Agụụ na-agụ ya", "Ha riri nri", "Ka anyị rie nri"],
+    "answer": "Anyị na-eri nri"
+  },
+  {
+    "number": 47,
+    "question": "THEY ARE MY SIBLINGS",
+    "choices": ["Ha bụ nne na nna m", "Ha bụ ụmụnne m", "Ha bụ nwanne", "Ha mere nwanne"],
+    "answer": "Ha bụ ụmụnne m"
+  },
+  {
+    "number": 48,
+    "question": "NKEMKA WENT TO COURT",
+    "choices": ["Nkemka na-ekpe ikpe", "Nkemka bụ onye ikpe", "Nkemka gara ụlọ ikpe", "Nkemka ekpeela ikpe"],
+    "answer": "Nkemka gara ụlọ ikpe"
+  },
+  {
+    "number": 49,
+    "question": "HOW ARE YOU PREPARING FOR CHRISTMAS?",
+    "choices": ["Ka I mere?", "Kedu ka i si akwado maka Ekeresimesi", "Kedu Maka Ekeresimesi?", "Gịnị bụ Ekeresimesi?"],
+    "answer": "Kedu ka i si akwado maka Ekeresimesi"
+  },
+  {
+    "number": 50,
+    "question": "HOW ABOUT YOUR PARENTS?",
+    "choices": ["Kedụ nne na nna gị?", "Kedụ nne gị?", "Kedu maka nne na nna gị?", "Kedụ aha nna gị?"],
+    "answer": "Kedu maka nne na nna gị?"
+  }
+]
+}
+]
