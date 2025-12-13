@@ -1,6 +1,6 @@
 [
   {
-  "instructions": "CHOOSE THE NAMES OF THE PARTS OF THE BODY IN IGBO",
+  "instruction": "CHOOSE THE NAMES OF THE PARTS OF THE BODY IN IGBO",
   "questions": [
     {"number": 1, "question": "HEAD", "choices": ["Ire", "Isi", "Akpa", "Ukwu"], "answer": "Isi"},
     {"number": 2, "question": "FINGERS", "choices": ["Ikpere", "Mbo", "Mkpisiaka", "Anya"], "answer": "Mkpisiaka"},
@@ -10,7 +10,7 @@
   ]
 },
 {
-  "instructions": "TRANSLATE THESE SIMPLE SENTENCES ABOUT SELF INTRODUCTION",
+  "instruction": "TRANSLATE THESE SIMPLE SENTENCES ABOUT SELF INTRODUCTION",
   "questions": [
     {"number": 6, "question": "AHA M BU ONYINYE", "choices": ["I am going to school", "I am a girl", "I need water", "My name is Onyinye"], "answer": "My name is Onyinye"},
     {"number": 7, "question": "E BI M NA MBA AMERIKA", "choices": ["I live in America", "I go to America", "I belong to America", "I love travelling to America"], "answer": "I live in America"},
@@ -20,7 +20,7 @@
   ]
 },
 {
-  "instructions": "TRANSLATE THESE SIMPLE IGBO GREETINGS CORRECTLY",
+  "instruction": "TRANSLATE THESE SIMPLE IGBO GREETINGS CORRECTLY",
   "questions": [
     {"number": 11, "question": "GOOD MORNING", "choices": ["Kedu ka I mere?", "I boola chi", "Nye m nri", "A di m mma"], "answer": "I boola chi"},
     {"number": 12, "question": "GET BETTER SOON", "choices": ["A na m aga ahia", "Ka o di echi", "Ka chi food", "Diwakwa mma"], "answer": "Diwakwa mma"},
@@ -30,7 +30,7 @@
   ]
 },
 {
-  "instructions": "PEOPLE IN THE HOME AND NEIGHBORHOOD",
+  "instruction": "PEOPLE IN THE HOME AND NEIGHBORHOOD",
   "questions": [
     {"number": 16, "question": "FATHER", "choices": ["Nwanne", "Enyi", "Nna", "Papa nnukwu"], "answer": "Nna"},
     {"number": 17, "question": "MOTHER", "choices": ["Papa", "Nne", "Umunne", "Mama nnukwu"], "answer": "Nne"},
@@ -40,7 +40,7 @@
   ]
 },
 {
-  "instructions": "THINGS IN THE HOME/AROUND US",
+  "instruction": "THINGS IN THE HOME/AROUND US",
   "questions": [
     {"number": 21, "question": "BROOM", "choices": ["Efere", "Ngaji", "Aziza", "Mmiri"], "answer": "Aziza"},
     {"number": 22, "question": "PLATE", "choices": ["Ite", "Iko", "Akwa", "Efere"], "answer": "Efere"},
@@ -50,7 +50,7 @@
   ]
 },
 {
-  "instructions": "NAMES OF PLACES / AHA EBE", 
+  "instruction": "NAMES OF PLACES / AHA EBE", 
   "questions": [
     {"number": 26, "question": "SCHOOL", "choices": ["Ulo ahia", "Ulo mmiri", "Ulo oru", "Uloakwukwo"], "answer": "Uloakwukwo"},
     {"number": 27, "question": "MOTOR PARK", "choices": ["Odu ugboelu", "Odu akwa", "Odu ugboala", "Odu ahia"], "answer": "Odu ugboala"},
@@ -60,7 +60,7 @@
   ]
 },
 {
-  "instructions": "AHA ANUMANU / ANIMALS", 
+  "instruction": "AHA ANUMANU / ANIMALS", 
   "questions": [
     {"number": 31, "question": "LION", "choices": ["Ọdụm", "Mbe", "Ngwerre", "Isam"], "answer": "Ọdụm"},
     {"number": 32, "question": "FOWL", "choices": ["Udele", "Torotoro", "Ọkụkọ", "Azụ"], "answer": "Ọkụkọ"},
@@ -70,7 +70,7 @@
   ]
 },
 {
-  "instructions": "MKPỤRỤOSISI / FRUITS", 
+  "instruction": "MKPỤRỤOSISI / FRUITS", 
   "questions": [
     {"number": 36, "question": "OROMA", "choices": ["Pear", "Cashew", "Coconut", "Orange"], "answer": "Orange"},
     {"number": 37, "question": "UBE", "choices": ["Tangerine", "Strawberry", "Pear", "Fruit"], "answer": "Pear"},
@@ -80,7 +80,7 @@
   ]
 },
 {
-  "instructions": "TRANSLATION/NTỤGHARỊ", 
+  "instruction": "TRANSLATION/NTỤGHARỊ", 
   "questions": [
     {"number": 41, "question": "GIVE ME WATER", "choices": ["Gbanye mmiri", "Wụọ mmiri", "Saa mmiri", "Nye m mmiri"], "answer": "Nye m mmiri"},
     {"number": 42, "question": "I AM HUNGRY", "choices": ["Nye m nri", "Bute nri", "Agụụ na-agụ m", "Rie nri"] 

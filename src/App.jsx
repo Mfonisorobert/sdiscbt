@@ -234,7 +234,7 @@ if (!hasStarted) {
      <div className="max-w-2xl mx-auto mt-4 p-6 bg-gray-50 opacity-90 rounded-2xl shadow-xl">
 
      {!showScore && (
-      <h1 className="text-3xl font-bold text-center text-blue-950 mb-2">SUN DREAM INT'L SCHOOL</h1>
+      <h1 className="text-3xl font-bold text-center text-blue-950 mb-2">YOUR FAVOURITE IGBO LANGUAGE TEACHER</h1>
     )}
       <h3 className="text-2xl font-bold text-center text-blue-950 mb-2">
       {/* <h2 className="text-2xl font-bold text-center text-blue-950 mb-2">THIRD TERM EXAM</h2> */}
