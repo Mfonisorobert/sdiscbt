@@ -2,135 +2,135 @@
   {
   "instruction": "CHOOSE THE NAMES OF THE PARTS OF THE BODY IN IGBO",
   "questions": [
-    {"number": 1, "question": "HEAD", "choices": ["Ire", "Isi", "Akpa", "Ukwu"], "answer": "Isi"},
-    {"number": 2, "question": "FINGERS", "choices": ["Ikpere", "Mbo", "Mkpisiaka", "Anya"], "answer": "Mkpisiaka"},
-    {"number": 3, "question": "SHOULDER", "choices": ["Ubuaka", "Azu", "Afo", "Imi"], "answer": "Ubuaka"},
-    {"number": 4, "question": "EAR", "choices": ["Obi", "Olu", "Nti", "Aka"], "answer": "Nti"},
-    {"number": 5, "question": "TEETH", "choices": ["Onu", "Anya", "Isi", "Eze"], "answer": "Eze"}
+    {"number": 1, "question": "HEAD", "options": ["Ire", "Isi", "Akpa", "Ukwu"], "answer": "Isi"},
+    {"number": 2, "question": "FINGERS", "options": ["Ikpere", "Mbo", "Mkpisiaka", "Anya"], "answer": "Mkpisiaka"},
+    {"number": 3, "question": "SHOULDER", "options": ["Ubuaka", "Azu", "Afo", "Imi"], "answer": "Ubuaka"},
+    {"number": 4, "question": "EAR", "options": ["Obi", "Olu", "Nti", "Aka"], "answer": "Nti"},
+    {"number": 5, "question": "TEETH", "options": ["Onu", "Anya", "Isi", "Eze"], "answer": "Eze"}
   ]
 },
 {
   "instruction": "TRANSLATE THESE SIMPLE SENTENCES ABOUT SELF INTRODUCTION",
   "questions": [
-    {"number": 6, "question": "AHA M BU ONYINYE", "choices": ["I am going to school", "I am a girl", "I need water", "My name is Onyinye"], "answer": "My name is Onyinye"},
-    {"number": 7, "question": "E BI M NA MBA AMERIKA", "choices": ["I live in America", "I go to America", "I belong to America", "I love travelling to America"], "answer": "I live in America"},
-    {"number": 8, "question": "A HURU M ASUSU IGBO N’ANYA", "choices": ["I see the Igbo language", "I don’t know the Igbo language", "Where is the Igbo language?", "I love the Igbo language"], "answer": "I love the Igbo language"},
-    {"number": 9, "question": "A DI M AFO IRI", "choices": ["I am years ten old", "I am ten years old", "I am ten", "Ten years am i"], "answer": "I am years ten old"},
-    {"number": 10, "question": "A BU M ONYE IGBO", "choices": ["I am person Igbo", "I igbo am i", "I am Igbo", "I am not Igbo"], "answer": "I am Igbo"}
+    {"number": 6, "question": "AHA M BU ONYINYE", "options": ["I am going to school", "I am a girl", "I need water", "My name is Onyinye"], "answer": "My name is Onyinye"},
+    {"number": 7, "question": "E BI M NA MBA AMERIKA", "options": ["I live in America", "I go to America", "I belong to America", "I love travelling to America"], "answer": "I live in America"},
+    {"number": 8, "question": "A HURU M ASUSU IGBO N’ANYA", "options": ["I see the Igbo language", "I don’t know the Igbo language", "Where is the Igbo language?", "I love the Igbo language"], "answer": "I love the Igbo language"},
+    {"number": 9, "question": "A DI M AFO IRI", "options": ["I am years ten old", "I am ten years old", "I am ten", "Ten years am i"], "answer": "I am years ten old"},
+    {"number": 10, "question": "A BU M ONYE IGBO", "options": ["I am person Igbo", "I igbo am i", "I am Igbo", "I am not Igbo"], "answer": "I am Igbo"}
   ]
 },
 {
   "instruction": "TRANSLATE THESE SIMPLE IGBO GREETINGS CORRECTLY",
   "questions": [
-    {"number": 11, "question": "GOOD MORNING", "choices": ["Kedu ka I mere?", "I boola chi", "Nye m nri", "A di m mma"], "answer": "I boola chi"},
-    {"number": 12, "question": "GET BETTER SOON", "choices": ["A na m aga ahia", "Ka o di echi", "Ka chi food", "Diwakwa mma"], "answer": "Diwakwa mma"},
-    {"number": 13, "question": "GOOD NIGHT", "choices": ["Ka chi foo", "Ndo", "Kasibe", "Ehihie oma"], "answer": "Ka chi foo"},
-    {"number": 14, "question": "SORRY", "choices": ["Nri", "Ndu", "Ndi", "Ndo"], "answer": "Ndo"},
-    {"number": 15, "question": "HELLO", "choices": ["Kedu?", "Ebee?", "Ndeewo", "Ka e mesia"], "answer": "Ndeewo"}
+    {"number": 11, "question": "GOOD MORNING", "options": ["Kedu ka I mere?", "I boola chi", "Nye m nri", "A di m mma"], "answer": "I boola chi"},
+    {"number": 12, "question": "GET BETTER SOON", "options": ["A na m aga ahia", "Ka o di echi", "Ka chi food", "Diwakwa mma"], "answer": "Diwakwa mma"},
+    {"number": 13, "question": "GOOD NIGHT", "options": ["Ka chi foo", "Ndo", "Kasibe", "Ehihie oma"], "answer": "Ka chi foo"},
+    {"number": 14, "question": "SORRY", "options": ["Nri", "Ndu", "Ndi", "Ndo"], "answer": "Ndo"},
+    {"number": 15, "question": "HELLO", "options": ["Kedu?", "Ebee?", "Ndeewo", "Ka e mesia"], "answer": "Ndeewo"}
   ]
 },
 {
   "instruction": "PEOPLE IN THE HOME AND NEIGHBORHOOD",
   "questions": [
-    {"number": 16, "question": "FATHER", "choices": ["Nwanne", "Enyi", "Nna", "Papa nnukwu"], "answer": "Nna"},
-    {"number": 17, "question": "MOTHER", "choices": ["Papa", "Nne", "Umunne", "Mama nnukwu"], "answer": "Nne"},
-    {"number": 18, "question": "GRANDFATHER", "choices": ["Nnenne", "Papa nnukwu", "Agbataobi", "Umu klaasi"], "answer": "Papa nnukwu"},
-    {"number": 19, "question": "SIBLINGS", "choices": ["Umunne", "Nne", "Ndi enyi", "Nwanne"], "answer": "Umunne"},
-    {"number": 20, "question": "BROTHER", "choices": ["Umunne m", "Nnenna m", "Umunwanne m", "Nwanne m nwoke"], "answer": "Nwanne m nwoke"}
+    {"number": 16, "question": "FATHER", "options": ["Nwanne", "Enyi", "Nna", "Papa nnukwu"], "answer": "Nna"},
+    {"number": 17, "question": "MOTHER", "options": ["Papa", "Nne", "Umunne", "Mama nnukwu"], "answer": "Nne"},
+    {"number": 18, "question": "GRANDFATHER", "options": ["Nnenne", "Papa nnukwu", "Agbataobi", "Umu klaasi"], "answer": "Papa nnukwu"},
+    {"number": 19, "question": "SIBLINGS", "options": ["Umunne", "Nne", "Ndi enyi", "Nwanne"], "answer": "Umunne"},
+    {"number": 20, "question": "BROTHER", "options": ["Umunne m", "Nnenna m", "Umunwanne m", "Nwanne m nwoke"], "answer": "Nwanne m nwoke"}
   ]
 },
 {
   "instruction": "THINGS IN THE HOME/AROUND US",
   "questions": [
-    {"number": 21, "question": "BROOM", "choices": ["Efere", "Ngaji", "Aziza", "Mmiri"], "answer": "Aziza"},
-    {"number": 22, "question": "PLATE", "choices": ["Ite", "Iko", "Akwa", "Efere"], "answer": "Efere"},
-    {"number": 23, "question": "CHAIR", "choices": ["Nri", "Oche", "Iko", "Ite"], "answer": "Oche"},
-    {"number": 24, "question": "CAR", "choices": ["Moto", "Ugbo elu", "Ugboala", "Ugbommiri"], "answer": "Ugboala"},
-    {"number": 25, "question": "BOOK", "choices": ["Osisi", "Akwa", "Akwukwo", "Bank"], "answer": "Akwukwo"}
+    {"number": 21, "question": "BROOM", "options": ["Efere", "Ngaji", "Aziza", "Mmiri"], "answer": "Aziza"},
+    {"number": 22, "question": "PLATE", "options": ["Ite", "Iko", "Akwa", "Efere"], "answer": "Efere"},
+    {"number": 23, "question": "CHAIR", "options": ["Nri", "Oche", "Iko", "Ite"], "answer": "Oche"},
+    {"number": 24, "question": "CAR", "options": ["Moto", "Ugbo elu", "Ugboala", "Ugbommiri"], "answer": "Ugboala"},
+    {"number": 25, "question": "BOOK", "options": ["Osisi", "Akwa", "Akwukwo", "Bank"], "answer": "Akwukwo"}
   ]
 },
 {
   "instruction": "NAMES OF PLACES / AHA EBE", 
   "questions": [
-    {"number": 26, "question": "SCHOOL", "choices": ["Ulo ahia", "Ulo mmiri", "Ulo oru", "Uloakwukwo"], "answer": "Uloakwukwo"},
-    {"number": 27, "question": "MOTOR PARK", "choices": ["Odu ugboelu", "Odu akwa", "Odu ugboala", "Odu ahia"], "answer": "Odu ugboala"},
-    {"number": 28, "question": "MARKET", "choices": ["Ahia", "Njem", "Ulo uka", "Ulo mmemme"], "answer": "Ahia"},
-    {"number": 29, "question": "BANK", "choices": ["Uloaku", "Ulo ego", "Ulo mmuba", "Ulo ahia"], "answer": "Uloaku"},
-    {"number": 30, "question": "COURT", "choices": ["Odu ikpe", "Odu ugbommiri", "Ulo ikpe", "Ulo eze"], "answer": "Ulo ikpe"}
+    {"number": 26, "question": "SCHOOL", "options": ["Ulo ahia", "Ulo mmiri", "Ulo oru", "Uloakwukwo"], "answer": "Uloakwukwo"},
+    {"number": 27, "question": "MOTOR PARK", "options": ["Odu ugboelu", "Odu akwa", "Odu ugboala", "Odu ahia"], "answer": "Odu ugboala"},
+    {"number": 28, "question": "MARKET", "options": ["Ahia", "Njem", "Ulo uka", "Ulo mmemme"], "answer": "Ahia"},
+    {"number": 29, "question": "BANK", "options": ["Uloaku", "Ulo ego", "Ulo mmuba", "Ulo ahia"], "answer": "Uloaku"},
+    {"number": 30, "question": "COURT", "options": ["Odu ikpe", "Odu ugbommiri", "Ulo ikpe", "Ulo eze"], "answer": "Ulo ikpe"}
   ]
 },
 {
   "instruction": "AHA ANUMANU / ANIMALS", 
   "questions": [
-    {"number": 31, "question": "LION", "choices": ["Ọdụm", "Mbe", "Ngwerre", "Isam"], "answer": "Ọdụm"},
-    {"number": 32, "question": "FOWL", "choices": ["Udele", "Torotoro", "Ọkụkọ", "Azụ"], "answer": "Ọkụkọ"},
-    {"number": 33, "question": "DOG", "choices": ["Ezi", "Enyi", "Mkpi", "Nkịta"], "answer": "Nkịta"},
-    {"number": 34, "question": "SHEEP", "choices": ["Mkpi", "Atụrụ", "Ọkụkọ", "Agụ"], "answer": "Atụrụ"},
-    {"number": 35, "question": "SNAKE", "choices": ["Agwọ", "Mbe", "Agụ", "Ewu"], "answer": "Agwọ"}
+    {"number": 31, "question": "LION", "options": ["Ọdụm", "Mbe", "Ngwerre", "Isam"], "answer": "Ọdụm"},
+    {"number": 32, "question": "FOWL", "options": ["Udele", "Torotoro", "Ọkụkọ", "Azụ"], "answer": "Ọkụkọ"},
+    {"number": 33, "question": "DOG", "options": ["Ezi", "Enyi", "Mkpi", "Nkịta"], "answer": "Nkịta"},
+    {"number": 34, "question": "SHEEP", "options": ["Mkpi", "Atụrụ", "Ọkụkọ", "Agụ"], "answer": "Atụrụ"},
+    {"number": 35, "question": "SNAKE", "options": ["Agwọ", "Mbe", "Agụ", "Ewu"], "answer": "Agwọ"}
   ]
 },
 {
   "instruction": "MKPỤRỤOSISI / FRUITS", 
   "questions": [
-    {"number": 36, "question": "OROMA", "choices": ["Pear", "Cashew", "Coconut", "Orange"], "answer": "Orange"},
-    {"number": 37, "question": "UBE", "choices": ["Tangerine", "Strawberry", "Pear", "Fruit"], "answer": "Pear"},
-    {"number": 38, "question": "AKI BEKEE", "choices": ["African star apple", "Mango", "Cashew", "Coconut"], "answer": "Coconut"},
-    {"number": 39, "question": "ỤDARA", "choices": ["Strawberry", "Grapes", "Pear", "African star apple"], "answer": "African star apple"},
-    {"number": 40, "question": "UBE BEKEE", "choices": ["Avocado pear", "Coconut", "Black pear", "Walnut"], "answer": "Avocado pear"}
+    {"number": 36, "question": "OROMA", "options": ["Pear", "Cashew", "Coconut", "Orange"], "answer": "Orange"},
+    {"number": 37, "question": "UBE", "options": ["Tangerine", "Strawberry", "Pear", "Fruit"], "answer": "Pear"},
+    {"number": 38, "question": "AKI BEKEE", "options": ["African star apple", "Mango", "Cashew", "Coconut"], "answer": "Coconut"},
+    {"number": 39, "question": "ỤDARA", "options": ["Strawberry", "Grapes", "Pear", "African star apple"], "answer": "African star apple"},
+    {"number": 40, "question": "UBE BEKEE", "options": ["Avocado pear", "Coconut", "Black pear", "Walnut"], "answer": "Avocado pear"}
   ]
 },
 {
   "instruction": "TRANSLATION/NTỤGHARỊ", 
   "questions": [
-    {"number": 41, "question": "GIVE ME WATER", "choices": ["Gbanye mmiri", "Wụọ mmiri", "Saa mmiri", "Nye m mmiri"], "answer": "Nye m mmiri"},
-    {"number": 42, "question": "I AM HUNGRY", "choices": ["Nye m nri", "Bute nri", "Agụụ na-agụ m", "Rie nri"] 
+    {"number": 41, "question": "GIVE ME WATER", "options": ["Gbanye mmiri", "Wụọ mmiri", "Saa mmiri", "Nye m mmiri"], "answer": "Nye m mmiri"},
+    {"number": 42, "question": "I AM HUNGRY", "options": ["Nye m nri", "Bute nri", "Agụụ na-agụ m", "Rie nri"] 
   },
   {
     "number": 43,
     "question": "MY MOTHER HAS A CAT",
-    "choices": ["Nwamba nne m nwere", "Nne m nwere nwamba", "Nye m nwamba", "Nne m nwamba"],
+    "options": ["Nwamba nne m nwere", "Nne m nwere nwamba", "Nye m nwamba", "Nne m nwamba"],
     "answer": "Nne m nwere nwamba"
   },
   {
     "number": 44,
     "question": "MY FATHER’S CAR IS BLUE IN COLOUR",
-    "choices": ["Ugboala nna m na-eji oji", "Ugboala nna m mara mma", "Ụgbọala nna m na-acha anụnụ anụnụ", "Nna m nwere ụgbọala"],
+    "options": ["Ugboala nna m na-eji oji", "Ugboala nna m mara mma", "Ụgbọala nna m na-acha anụnụ anụnụ", "Nna m nwere ụgbọala"],
     "answer": "Ụgbọala nna m na-acha anụnụ anụnụ"
   },
   {
     "number": 45,
     "question": "DUBEM IS IN THE HOUSE",
-    "choices": ["Dubem gara ahia", "Dubem riri nri", "Dubem nọ n’ime ụlọ", "Dubem gbara ọsọ"],
+    "options": ["Dubem gara ahia", "Dubem riri nri", "Dubem nọ n’ime ụlọ", "Dubem gbara ọsọ"],
     "answer": "Dubem nọ n’ime ụlọ"
   },
   {
     "number": 46,
     "question": "WE ARE EATING",
-    "choices": ["Anyị na-eri nri", "Agụụ na-agụ ya", "Ha riri nri", "Ka anyị rie nri"],
+    "options": ["Anyị na-eri nri", "Agụụ na-agụ ya", "Ha riri nri", "Ka anyị rie nri"],
     "answer": "Anyị na-eri nri"
   },
   {
     "number": 47,
     "question": "THEY ARE MY SIBLINGS",
-    "choices": ["Ha bụ nne na nna m", "Ha bụ ụmụnne m", "Ha bụ nwanne", "Ha mere nwanne"],
+    "options": ["Ha bụ nne na nna m", "Ha bụ ụmụnne m", "Ha bụ nwanne", "Ha mere nwanne"],
     "answer": "Ha bụ ụmụnne m"
   },
   {
     "number": 48,
     "question": "NKEMKA WENT TO COURT",
-    "choices": ["Nkemka na-ekpe ikpe", "Nkemka bụ onye ikpe", "Nkemka gara ụlọ ikpe", "Nkemka ekpeela ikpe"],
+    "options": ["Nkemka na-ekpe ikpe", "Nkemka bụ onye ikpe", "Nkemka gara ụlọ ikpe", "Nkemka ekpeela ikpe"],
     "answer": "Nkemka gara ụlọ ikpe"
   },
   {
     "number": 49,
     "question": "HOW ARE YOU PREPARING FOR CHRISTMAS?",
-    "choices": ["Ka I mere?", "Kedu ka i si akwado maka Ekeresimesi", "Kedu Maka Ekeresimesi?", "Gịnị bụ Ekeresimesi?"],
+    "options": ["Ka I mere?", "Kedu ka i si akwado maka Ekeresimesi", "Kedu Maka Ekeresimesi?", "Gịnị bụ Ekeresimesi?"],
     "answer": "Kedu ka i si akwado maka Ekeresimesi"
   },
   {
     "number": 50,
     "question": "HOW ABOUT YOUR PARENTS?",
-    "choices": ["Kedụ nne na nna gị?", "Kedụ nne gị?", "Kedu maka nne na nna gị?", "Kedụ aha nna gị?"],
+    "options": ["Kedụ nne na nna gị?", "Kedụ nne gị?", "Kedu maka nne na nna gị?", "Kedụ aha nna gị?"],
     "answer": "Kedu maka nne na nna gị?"
   }
 ]
