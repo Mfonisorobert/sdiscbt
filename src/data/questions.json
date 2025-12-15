@@ -15,7 +15,7 @@
     {"number": 6, "question": "AHA M BU ONYINYE", "options": ["I am going to school", "I am a girl", "I need water", "My name is Onyinye"], "answer": "My name is Onyinye"},
     {"number": 7, "question": "E BI M NA MBA AMERIKA", "options": ["I live in America", "I go to America", "I belong to America", "I love travelling to America"], "answer": "I live in America"},
     {"number": 8, "question": "A HURU M ASUSU IGBO N’ANYA", "options": ["I see the Igbo language", "I don’t know the Igbo language", "Where is the Igbo language?", "I love the Igbo language"], "answer": "I love the Igbo language"},
-    {"number": 9, "question": "A DI M AFO IRI", "options": ["I am years ten old", "I am ten years old", "I am ten", "Ten years am i"], "answer": "I am years ten old"},
+    {"number": 9, "question": "A DI M AFO IRI", "options": ["I am years ten old", "I am ten years old", "I am ten", "Ten years am i"], "answer": "I am ten years old"},
     {"number": 10, "question": "A BU M ONYE IGBO", "options": ["I am person Igbo", "I igbo am i", "I am Igbo", "I am not Igbo"], "answer": "I am Igbo"}
   ]
 },
@@ -83,7 +83,7 @@
   "instruction": "TRANSLATION/NTỤGHARỊ", 
   "questions": [
     {"number": 41, "question": "GIVE ME WATER", "options": ["Gbanye mmiri", "Wụọ mmiri", "Saa mmiri", "Nye m mmiri"], "answer": "Nye m mmiri"},
-    {"number": 42, "question": "I AM HUNGRY", "options": ["Nye m nri", "Bute nri", "Agụụ na-agụ m", "Rie nri"] 
+    {"number": 42, "question": "I AM HUNGRY", "options": ["Nye m nri", "Bute nri", "Agụụ na-agụ m", "Rie nri"], "answer": "Agụụ na-agụ m" 
   },
   {
     "number": 43,
